@@ -1,0 +1,85 @@
+{
+  "id": "g-a2-004",
+  "level": "A2",
+  "title": "Modalverben im Präteritum",
+  "category": "დროები",
+  "summary": "მოდალურ ზმნას Präteritum-ში **ბოლოსართი -te** ემატება და **umlaut ვარდება**. ისინი წარსულზე ამ ფორმით საუბრობენ და არა Perfekt-ით.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "infinitiv",
+        "ich / er",
+        "wir / sie"
+      ],
+      "rows": [
+        [
+          "können",
+          "konnte",
+          "konnten"
+        ],
+        [
+          "müssen",
+          "musste",
+          "mussten"
+        ],
+        [
+          "wollen",
+          "wollte",
+          "wollten"
+        ],
+        [
+          "dürfen",
+          "durfte",
+          "durften"
+        ],
+        [
+          "sollen",
+          "sollte",
+          "sollten"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**möchten** Präteritum არ აქვს; მის ნაცვლად **wollte** იხმარება."
+    },
+    {
+      "type": "text",
+      "ka": "წყობა იგივეა: მოდალური ზმნა მეორეა, infinitiv ბოლოშია: **Ich musste gestern arbeiten.**"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich konnte nicht kommen.",
+      "ph": "იხ კონტე ნიხტ კომენ.",
+      "ka": "მოსვლა ვერ შევძელი."
+    },
+    {
+      "de": "Wir mussten früh aufstehen.",
+      "ph": "ვირ მუსტენ ფრიუ აუფშტეენ.",
+      "ka": "ადრე უნდა ავმდგარიყავით."
+    },
+    {
+      "de": "Er wollte schlafen.",
+      "ph": "ერ ვოლტე შლაფენ.",
+      "ka": "მას დაძინება უნდოდა."
+    },
+    {
+      "de": "Du durftest nicht gehen.",
+      "ph": "დუ დურფტესტ ნიხტ გეენ.",
+      "ka": "წასვლა არ შეგეძლო (არ გაძლევდნენ)."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich könnte nicht kommen.",
+      "right": "Ich konnte nicht kommen.",
+      "why": "წარსულ ფორმაში umlaut არ არის: konnte."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-005"
+  ]
+}

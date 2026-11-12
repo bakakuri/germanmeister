@@ -1,0 +1,74 @@
+{
+  "id": "g-a2-018",
+  "level": "A2",
+  "title": "deshalb, darum, deswegen",
+  "category": "სინტაქსი",
+  "summary": "ეს სიტყვები შედეგს გამოხატავს: „ამიტომ“. ისინი **პირველ ადგილას** დგას, ამიტომ ზმნა მათ უშუალოდ მოსდევს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "მიზეზი",
+        "შედეგი"
+      ],
+      "rows": [
+        [
+          "Ich bin krank.",
+          "Deshalb bleibe ich zu Hause."
+        ],
+        [
+          "Es regnet.",
+          "Darum nehme ich einen Schirm."
+        ],
+        [
+          "Er hat viel Arbeit.",
+          "Deswegen hat er keine Zeit."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**deshalb** ზმნით იწყება: **Deshalb gehe ich** (არა: Deshalb ich gehe). **weil**-ისგან განსხვავებით აქ ზმნა მეორე ადგილზეა."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**weil** — მიზეზი: **Ich bleibe, weil ich krank bin.**",
+        "**deshalb** — შედეგი: **Ich bin krank, deshalb bleibe ich.**"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Es regnet, deshalb bleibe ich zu Hause.",
+      "ph": "ეს რეგნეტ, დესჰალპ ბლაიბე იხ ცუ ჰაუზე.",
+      "ka": "წვიმს, ამიტომ სახლში ვრჩები."
+    },
+    {
+      "de": "Er ist müde, deswegen geht er früh schlafen.",
+      "ph": "ერ ისტ მიუდე, დესვეგენ გეტ ერ ფრიუ შლაფენ.",
+      "ka": "ის დაღლილია, ამიტომ ადრე იძინებს."
+    },
+    {
+      "de": "Ich habe Hunger, darum esse ich.",
+      "ph": "იხ ჰაბე ჰუნგერ, დარუმ ესე იხ.",
+      "ka": "მშია, ამიტომ ვჭამ."
+    },
+    {
+      "de": "Deshalb lerne ich Deutsch.",
+      "ph": "დესჰალპ ლერნე იხ დოიჩ.",
+      "ka": "ამიტომ ვსწავლობ გერმანულს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Deshalb ich bleibe.",
+      "right": "Deshalb bleibe ich.",
+      "why": "deshalb-ის შემდეგ ზმნა მეორეა."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-019"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "g-a2-010",
+  "level": "A2",
+  "title": "ზედსართავის ბრუნვა: unbestimmter Artikel",
+  "category": "ზედსართავი",
+  "summary": "**ein, kein, mein**-ის შემდეგ ზედსართავი ხან **არტიკლის ბოლოსართს** იღებს (-er, -es), ხან **-e / -en**-ს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Mask.",
+        "Fem.",
+        "Neutr.",
+        "Plural"
+      ],
+      "rows": [
+        [
+          "Nominativ",
+          "ein alter Mann",
+          "eine alte Frau",
+          "ein altes Haus",
+          "keine alten Häuser"
+        ],
+        [
+          "Akkusativ",
+          "einen alten Mann",
+          "eine alte Frau",
+          "ein altes Haus",
+          "keine alten Häuser"
+        ],
+        [
+          "Dativ",
+          "einem alten Mann",
+          "einer alten Frau",
+          "einem alten Haus",
+          "keinen alten Häusern"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**ein** არ გვიჩვენებს სქესს Nom. მამრობითსა და საშუალში, ამიტომ ზედსართავი ამ საქმეს თავისთავზე იღებს: ein alt**er** Mann, ein alt**es** Haus."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Das ist ein großer Hund.",
+      "ph": "დას ისტ აინ გროსერ ჰუნდ.",
+      "ka": "ეს დიდი ძაღლია."
+    },
+    {
+      "de": "Ich habe eine neue Wohnung.",
+      "ph": "იხ ჰაბე აინე ნოიე ვონუნგ.",
+      "ka": "ახალი ბინა მაქვს."
+    },
+    {
+      "de": "Er kauft ein altes Auto.",
+      "ph": "ერ კაუფტ აინ ალტეს აუტო.",
+      "ka": "ის ძველ მანქანას ყიდულობს."
+    },
+    {
+      "de": "Sie hat keine großen Probleme.",
+      "ph": "ზი ჰატ კაინე გროსენ პრობლემე.",
+      "ka": "მას დიდი პრობლემები არ აქვს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "ein große Hund",
+      "right": "ein großer Hund",
+      "why": "ein-ის შემდეგ მამრობით Nom.-ში ზედსართავს -er სჭირდება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-011"
+  ]
+}

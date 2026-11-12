@@ -1,0 +1,104 @@
+{
+  "id": "g-a2-002",
+  "level": "A2",
+  "title": "Perfekt sein-ით",
+  "category": "დროები",
+  "summary": "**sein**-ს იღებს ზმნა, რომელიც **მოძრაობას** ან **მდგომარეობის ცვლას** გამოხატავს, და ასევე **sein, bleiben, werden, passieren**.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ჯგუფი",
+        "ზმნები",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "მოძრაობა",
+          "gehen, fahren, kommen, fliegen, laufen",
+          "Ich bin nach Berlin gefahren."
+        ],
+        [
+          "მდგომარეობის ცვლა",
+          "aufstehen, einschlafen, sterben, wachsen",
+          "Er ist früh aufgestanden."
+        ],
+        [
+          "განსაკუთრებული",
+          "sein, bleiben, werden, passieren",
+          "Wir sind zu Hause geblieben."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "infinitiv",
+        "Partizip II"
+      ],
+      "rows": [
+        [
+          "gehen",
+          "gegangen"
+        ],
+        [
+          "kommen",
+          "gekommen"
+        ],
+        [
+          "fahren",
+          "gefahren"
+        ],
+        [
+          "fliegen",
+          "geflogen"
+        ],
+        [
+          "bleiben",
+          "geblieben"
+        ],
+        [
+          "sein",
+          "gewesen"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**Ich bin gewesen** და **ich habe gehabt** — ორივე სწორია, მაგრამ sein და haben-ს წარსულში უმეტესად **Präteritum**-ით ამბობენ: ich war, ich hatte."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich bin nach Hause gegangen.",
+      "ph": "იხ ბინ ნახ ჰაუზე გეგანგენ.",
+      "ka": "სახლში წავედი."
+    },
+    {
+      "de": "Sie ist gestern gekommen.",
+      "ph": "ზი ისტ გესტერნ გეკომენ.",
+      "ka": "ის გუშინ მოვიდა."
+    },
+    {
+      "de": "Wir sind nach Wien geflogen.",
+      "ph": "ვირ ზინდ ნახ ვინ გეფლოგენ.",
+      "ka": "ვენაში გავფრინდით."
+    },
+    {
+      "de": "Er ist zwei Tage geblieben.",
+      "ph": "ერ ისტ ცვაი ტაგე გებლიბენ.",
+      "ka": "ის ორი დღე დარჩა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe nach Berlin gefahren.",
+      "right": "Ich bin nach Berlin gefahren.",
+      "why": "მოძრაობის ზმნა sein-ს ითხოვს."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-003"
+  ]
+}

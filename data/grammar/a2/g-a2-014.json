@@ -1,0 +1,119 @@
+{
+  "id": "g-a2-014",
+  "level": "A2",
+  "title": "რეფლექსიური ზმნები",
+  "category": "ზმნები",
+  "summary": "რეფლექსიურ ზმნას უკუქცევითი ნაცვალსახელი სჭირდება: **sich**. ის თავადვე ასრულებს მოქმედებას თავის თავზე.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Akkusativ",
+        "Dativ"
+      ],
+      "rows": [
+        [
+          "ich",
+          "mich",
+          "mir"
+        ],
+        [
+          "du",
+          "dich",
+          "dir"
+        ],
+        [
+          "er / sie / es",
+          "sich",
+          "sich"
+        ],
+        [
+          "wir",
+          "uns",
+          "uns"
+        ],
+        [
+          "ihr",
+          "euch",
+          "euch"
+        ],
+        [
+          "sie / Sie",
+          "sich",
+          "sich"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "ზმნა",
+        "მნიშვნელობა"
+      ],
+      "rows": [
+        [
+          "sich waschen",
+          "დაიბანოს"
+        ],
+        [
+          "sich freuen",
+          "გაიხაროს"
+        ],
+        [
+          "sich treffen",
+          "შეხვდეს"
+        ],
+        [
+          "sich setzen",
+          "დაჯდეს"
+        ],
+        [
+          "sich fühlen",
+          "იგრძნოს თავი"
+        ],
+        [
+          "sich interessieren für",
+          "დაინტერესდეს"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "თუ ზმნას ისედაც ობიექტი ჰყავს, რეფლექსივი Dativ-შია: **Ich wasche mich** (Akk.) — **Ich wasche mir die Hände** (Dat.)."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich freue mich auf das Wochenende.",
+      "ph": "იხ ფროიე მიხ აუფ დას ვოხენენდე.",
+      "ka": "შაბათ-კვირას მოუთმენლად ველი."
+    },
+    {
+      "de": "Er setzt sich auf den Stuhl.",
+      "ph": "ერ ზეცტ ზიხ აუფ დენ შტულ.",
+      "ka": "ის სკამზე ჯდება."
+    },
+    {
+      "de": "Wir treffen uns um acht Uhr.",
+      "ph": "ვირ ტრეფენ უნს უმ ახტ უარ.",
+      "ka": "რვა საათზე ვხვდებით."
+    },
+    {
+      "de": "Ich fühle mich gut.",
+      "ph": "იხ ფიულე მიხ გუტ.",
+      "ka": "თავს კარგად ვგრძნობ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich freue dich.",
+      "right": "Ich freue mich.",
+      "why": "რეფლექსივი ქვემდებარეს ემთხვევა: ich → mich."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-015"
+  ]
+}

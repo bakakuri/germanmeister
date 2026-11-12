@@ -1,0 +1,87 @@
+{
+  "id": "g-a2-016",
+  "level": "A2",
+  "title": "Futur I და werden",
+  "category": "დროები",
+  "summary": "მომავალს გერმანულში ხშირად **Präsens** გამოხატავს (+ დროის ზმნიზედა). **Futur I** = **werden + infinitiv** ვარაუდს ან დაპირებას გამოხატავს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "პირი",
+        "werden"
+      ],
+      "rows": [
+        [
+          "ich",
+          "werde"
+        ],
+        [
+          "du",
+          "wirst"
+        ],
+        [
+          "er / sie / es",
+          "wird"
+        ],
+        [
+          "wir",
+          "werden"
+        ],
+        [
+          "ihr",
+          "werdet"
+        ],
+        [
+          "sie / Sie",
+          "werden"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Ich fahre morgen nach Berlin.** — ჩვეულებრივი მომავალი.",
+        "**Er wird wohl krank sein.** — ვარაუდი აწმყოზე: „ალბათ ავადაა“.",
+        "**Ich werde dir helfen.** — დაპირება."
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**werden** + ზედსართავი/არსებითი = გახდომა: **Er wird Arzt. Es wird kalt.**"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich werde dir helfen.",
+      "ph": "იხ ვერდე დირ ჰელფენ.",
+      "ka": "მე შენ დაგეხმარები."
+    },
+    {
+      "de": "Morgen wird es regnen.",
+      "ph": "მორგენ ვირდ ეს რეგნენ.",
+      "ka": "ხვალ წვიმა იქნება."
+    },
+    {
+      "de": "Er wird Arzt.",
+      "ph": "ერ ვირდ არცტ.",
+      "ka": "ის ექიმი გახდება."
+    },
+    {
+      "de": "Wir werden nächste Woche umziehen.",
+      "ph": "ვირ ვერდენ ნექსტე ვოხე უმცეენ.",
+      "ka": "მომავალ კვირას გადავდივართ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich werde gehe.",
+      "right": "Ich werde gehen.",
+      "why": "werden-ის შემდეგ infinitiv ბოლოში დგას."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-017"
+  ]
+}

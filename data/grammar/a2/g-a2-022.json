@@ -1,0 +1,91 @@
+{
+  "id": "g-a2-022",
+  "level": "A2",
+  "title": "ზმნები წინდებულებით",
+  "category": "ზმნები",
+  "summary": "ბევრ ზმნას **მყარი წინდებული** აქვს, რომელიც ბრუნვას განსაზღვრავს. მათ ზმნასთან ერთად სწავლობ.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ზმნა + წინდებული",
+        "ბრუნვა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "warten auf",
+          "Akk.",
+          "Ich warte auf den Bus."
+        ],
+        [
+          "sich freuen auf",
+          "Akk.",
+          "Ich freue mich auf den Urlaub."
+        ],
+        [
+          "denken an",
+          "Akk.",
+          "Ich denke an dich."
+        ],
+        [
+          "sich interessieren für",
+          "Akk.",
+          "Er interessiert sich für Musik."
+        ],
+        [
+          "sprechen mit",
+          "Dat.",
+          "Ich spreche mit dem Lehrer."
+        ],
+        [
+          "fragen nach",
+          "Dat.",
+          "Ich frage nach dem Weg."
+        ],
+        [
+          "träumen von",
+          "Dat.",
+          "Sie träumt von einer Reise."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "კითხვაში წინდებული ადრე მოდის: **Worauf wartest du? Auf wen wartest du?** ნივთზე **wo(r)+prep**, ადამიანზე **prep + wen/wem**."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich warte auf den Zug.",
+      "ph": "იხ ვარტე აუფ დენ ცუგ.",
+      "ka": "მატარებელს ველოდები."
+    },
+    {
+      "de": "Er denkt an seine Familie.",
+      "ph": "ერ დენკტ ან ზაინე ფამილიე.",
+      "ka": "ის თავის ოჯახზე ფიქრობს."
+    },
+    {
+      "de": "Wir sprechen über das Wetter.",
+      "ph": "ვირ შპრეხენ იუბერ დას ვეტერ.",
+      "ka": "ამინდზე ვსაუბრობთ."
+    },
+    {
+      "de": "Sie interessiert sich für Kunst.",
+      "ph": "ზი ინტერესირტ ზიხ ფიურ კუნსტ.",
+      "ka": "ის ხელოვნებით დაინტერესებულია."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich warte den Bus.",
+      "right": "Ich warte auf den Bus.",
+      "why": "warten ითხოვს წინდებულს auf."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-023"
+  ]
+}

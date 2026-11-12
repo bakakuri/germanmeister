@@ -1,0 +1,98 @@
+{
+  "id": "g-a2-020",
+  "level": "A2",
+  "title": "man, jemand, niemand, etwas, nichts",
+  "category": "ნაცვალსახელები",
+  "summary": "განუსაზღვრელი ნაცვალსახელები ადამიანსა და საგანზე ზოგად ან უცნობზე საუბრობენ.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "სიტყვა",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "man",
+          "ვინმე, ადამიანი (ზოგადი)",
+          "Man spricht hier Deutsch."
+        ],
+        [
+          "jemand",
+          "ვინმე",
+          "Ist jemand da?"
+        ],
+        [
+          "niemand",
+          "არავინ",
+          "Niemand kommt."
+        ],
+        [
+          "etwas",
+          "რაღაც",
+          "Ich brauche etwas."
+        ],
+        [
+          "nichts",
+          "არაფერი",
+          "Ich sehe nichts."
+        ],
+        [
+          "alles",
+          "ყველაფერი",
+          "Alles ist gut."
+        ],
+        [
+          "alle",
+          "ყველა (ადამიანი)",
+          "Alle sind hier."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**man** ზმნას **er**-ის ფორმით იღებს: **man kann, man muss, man sagt**. ქართულად „შეიძლება“ ან უპირო წინადადება."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**jemand/niemand**-ს Akkusativ და Dativ ფორმა აქვს: **jemanden, jemandem**.",
+        "**nichts** თავისთავად უარყოფაა, **nicht** არ დაგჭირდება."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Man kann hier gut essen.",
+      "ph": "მან კან ჰირ გუტ ესენ.",
+      "ka": "აქ კარგად ჭამა შეიძლება."
+    },
+    {
+      "de": "Ist jemand zu Hause?",
+      "ph": "ისტ იემანდ ცუ ჰაუზე?",
+      "ka": "ვინმე სახლშია?"
+    },
+    {
+      "de": "Ich habe nichts gesehen.",
+      "ph": "იხ ჰაბე ნიხტს გეზეენ.",
+      "ka": "არაფერი დამინახავს."
+    },
+    {
+      "de": "Alle haben gelacht.",
+      "ph": "ალე ჰაბენ გელახტ.",
+      "ka": "ყველა იცინოდა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich sehe nicht nichts.",
+      "right": "Ich sehe nichts.",
+      "why": "nichts თავადაა უარყოფა."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-021"
+  ]
+}

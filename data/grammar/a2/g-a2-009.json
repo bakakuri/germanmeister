@@ -1,0 +1,85 @@
+{
+  "id": "g-a2-009",
+  "level": "A2",
+  "title": "ზედსართავის ბრუნვა: bestimmter Artikel",
+  "category": "ზედსართავი",
+  "summary": "ზედსართავი არსებით სახელამდე იცვლება. **განსაზღვრული არტიკლის** (der, die, das) შემდეგ ბოლოსართი ორია: **-e** ან **-en**.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Mask.",
+        "Fem.",
+        "Neutr.",
+        "Plural"
+      ],
+      "rows": [
+        [
+          "Nominativ",
+          "der alte Mann",
+          "die alte Frau",
+          "das alte Haus",
+          "die alten Häuser"
+        ],
+        [
+          "Akkusativ",
+          "den alten Mann",
+          "die alte Frau",
+          "das alte Haus",
+          "die alten Häuser"
+        ],
+        [
+          "Dativ",
+          "dem alten Mann",
+          "der alten Frau",
+          "dem alten Haus",
+          "den alten Häusern"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "წესი: **-e** დგას Nominativ მხოლობითში და Akkusativ მდედრობით/საშუალში. **ყველგან სხვაგან -en**."
+    },
+    {
+      "type": "list",
+      "items": [
+        "არტიკლი უკვე გვაჩვენებს სქესსა და ბრუნვას, ამიტომ ზედსართავს ბოლოსართი ნაკლებად სჭირდება."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Der neue Lehrer ist nett.",
+      "ph": "დერ ნოიე ლერერ ისტ ნეტ.",
+      "ka": "ახალი მასწავლებელი კარგია."
+    },
+    {
+      "de": "Ich kaufe den roten Mantel.",
+      "ph": "იხ კაუფე დენ როტენ მანტელ.",
+      "ka": "წითელ პალტოს ვყიდულობ."
+    },
+    {
+      "de": "Wir wohnen in der kleinen Stadt.",
+      "ph": "ვირ ვონენ ინ დერ კლაინენ შტადტ.",
+      "ka": "პატარა ქალაქში ვცხოვრობთ."
+    },
+    {
+      "de": "Die jungen Leute lachen.",
+      "ph": "დი იუნგენ ლოიტე ლახენ.",
+      "ka": "ახალგაზრდები იცინიან."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "der alter Mann",
+      "right": "der alte Mann",
+      "why": "der-ის შემდეგ Nominativ-ში ზედსართავს -e სჭირდება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-010"
+  ]
+}

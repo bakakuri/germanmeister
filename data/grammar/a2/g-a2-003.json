@@ -1,0 +1,90 @@
+{
+  "id": "g-a2-003",
+  "level": "A2",
+  "title": "Präteritum: war და hatte",
+  "category": "დროები",
+  "summary": "საუბარში წარსულს ძირითადად Perfekt გამოხატავს, მაგრამ **sein, haben** და მოდალური ზმნები Präteritum-ში იხმარება.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "პირი",
+        "sein",
+        "haben"
+      ],
+      "rows": [
+        [
+          "ich",
+          "war",
+          "hatte"
+        ],
+        [
+          "du",
+          "warst",
+          "hattest"
+        ],
+        [
+          "er / sie / es",
+          "war",
+          "hatte"
+        ],
+        [
+          "wir",
+          "waren",
+          "hatten"
+        ],
+        [
+          "ihr",
+          "wart",
+          "hattet"
+        ],
+        [
+          "sie / Sie",
+          "waren",
+          "hatten"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**ich** და **er** ფორმა ერთნაირია: ich war — er war, ich hatte — er hatte (ბოლოსართი არ აქვს)."
+    },
+    {
+      "type": "text",
+      "ka": "**Ich war gestern krank** (არა „Ich bin gestern krank gewesen“) — ეს ბუნებრივი საუბრის ფორმაა."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich war gestern müde.",
+      "ph": "იხ ვარ გესტერნ მიუდე.",
+      "ka": "გუშინ დაღლილი ვიყავი."
+    },
+    {
+      "de": "Wir waren im Kino.",
+      "ph": "ვირ ვარენ იმ კინო.",
+      "ka": "კინოში ვიყავით."
+    },
+    {
+      "de": "Er hatte keine Zeit.",
+      "ph": "ერ ჰატე კაინე ცაიტ.",
+      "ka": "მას დრო არ ჰქონდა."
+    },
+    {
+      "de": "Hattest du Hunger?",
+      "ph": "ჰატესტ დუ ჰუნგერ?",
+      "ka": "გშიოდა?"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich bin gestern krank gewesen.",
+      "right": "Ich war gestern krank.",
+      "why": "sein-ისთვის ბუნებრივია Präteritum."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-004"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "g-a2-015",
+  "level": "A2",
+  "title": "Infinitiv mit zu და um … zu",
+  "category": "სინტაქსი",
+  "summary": "**zu + infinitiv** ბევრ ზმნას, ზედსართავსა და გამოთქმას ახლავს. **um … zu** მიზანს გამოხატავს: „რომ …“. ორივე ბოლოს ბრუნდება წინადადების ბოლოში.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "კონსტრუქცია",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "Ich habe Lust, … zu …",
+          "Ich habe Lust, ins Kino zu gehen."
+        ],
+        [
+          "Es ist wichtig, … zu …",
+          "Es ist wichtig, früh aufzustehen."
+        ],
+        [
+          "Ich versuche, … zu …",
+          "Ich versuche, Deutsch zu lernen."
+        ],
+        [
+          "um … zu (მიზანი)",
+          "Ich lerne, um in Deutschland zu arbeiten."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "გამოყოფადი ზმნისას **zu** თავსართსა და ფუძეს შორის დგას: **aufzustehen, einzukaufen, anzurufen**."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**zu** არ გვჭირდება მოდალურ ზმნასთან: **Ich kann kommen.**",
+        "მიზნის **um … zu** მხოლოდ მაშინაა, როცა ორივე წინადადების ქვემდებარე ერთია."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich habe keine Lust, zu arbeiten.",
+      "ph": "იხ ჰაბე კაინე ლუსტ, ცუ არბაიტენ.",
+      "ka": "სამუშაოდ ხალისი არ მაქვს."
+    },
+    {
+      "de": "Es ist schön, hier zu sein.",
+      "ph": "ეს ისტ შოენ, ჰირ ცუ ზაინ.",
+      "ka": "აქ ყოფნა სასიამოვნოა."
+    },
+    {
+      "de": "Er lernt, um besser zu sprechen.",
+      "ph": "ერ ლერნტ, უმ ბესერ ცუ შპრეხენ.",
+      "ka": "ის სწავლობს, რომ უკეთ ილაპარაკოს."
+    },
+    {
+      "de": "Vergiss nicht, mich anzurufen.",
+      "ph": "ფერგის ნიხტ, მიხ ანცურუფენ.",
+      "ka": "არ დაგავიწყდეს დამირეკო."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich versuche Deutsch lernen.",
+      "right": "Ich versuche, Deutsch zu lernen.",
+      "why": "versuchen-ის შემდეგ zu + infinitiv გვჭირდება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-016"
+  ]
+}

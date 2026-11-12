@@ -1,0 +1,76 @@
+{
+  "id": "g-a2-025",
+  "level": "A2",
+  "title": "ორი ობიექტი: Dativ და Akkusativ",
+  "category": "სინტაქსი",
+  "summary": "ზმნები **geben, schenken, zeigen, kaufen, schicken, bringen, erklären** ორ ობიექტს ითხოვს: პირი (**Dativ**) და საგანი (**Akkusativ**). რიგი: სახელი — Dativ, Akkusativ; ნაცვალსახელი — Akkusativ, Dativ.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "შემთხვევა",
+        "რიგი",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "ორივე სახელია",
+          "Dativ → Akkusativ",
+          "Ich gebe dem Kind einen Apfel."
+        ],
+        [
+          "Akkusativ ნაცვალსახელია",
+          "Akkusativ → Dativ",
+          "Ich gebe ihn dem Kind."
+        ],
+        [
+          "ორივე ნაცვალსახელია",
+          "Akkusativ → Dativ",
+          "Ich gebe ihn ihm."
+        ],
+        [
+          "Dativ ნაცვალსახელია",
+          "Dativ → Akkusativ",
+          "Ich gebe ihm einen Apfel."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "მოკლე ნაცვალსახელი ყოველთვის სახელზე წინ დგას. გრძელი სახელი ბოლოს მოდის."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich gebe dem Kind einen Apfel.",
+      "ph": "იხ გებე დემ კინდ აინენ აპფელ.",
+      "ka": "ბავშვს ვაშლს ვაძლევ."
+    },
+    {
+      "de": "Sie schenkt ihm ein Buch.",
+      "ph": "ზი შენკტ იმ აინ ბუხ.",
+      "ka": "ის მას წიგნს ჩუქნის."
+    },
+    {
+      "de": "Er zeigt mir die Stadt.",
+      "ph": "ერ ცაიგტ მირ დი შტადტ.",
+      "ka": "ის ქალაქს მაჩვენებს."
+    },
+    {
+      "de": "Ich kaufe meiner Mutter Blumen.",
+      "ph": "იხ კაუფე მაინერ მუტერ ბლუმენ.",
+      "ka": "დედას ყვავილებს ვუყიდი."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich gebe einen Apfel dem Kind.",
+      "right": "Ich gebe dem Kind einen Apfel.",
+      "why": "სახელებთან Dativ Akkusativზე წინ დგას."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a2-026"
+  ]
+}
