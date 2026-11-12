@@ -1,0 +1,62 @@
+{
+  "id": "a1-d021",
+  "level": "A1",
+  "day": 21,
+  "title": "ადგილები ქალაქში",
+  "intro": "Wo? Wohin? Woher? და ქალაქის ადგილები.",
+  "words": [
+    "a1-00189",
+    "a1-00190",
+    "a1-00191",
+    "a1-00192",
+    "a1-00193",
+    "a1-00194",
+    "a1-00195",
+    "a1-00196",
+    "a1-00197",
+    "a1-00198"
+  ],
+  "grammar": [
+    "g-a1-021"
+  ],
+  "exercises": true,
+  "reading": {
+    "title": "მოისმინე და გაიმეორე",
+    "lines": [
+      {
+        "speaker": "Anna",
+        "de": "Ich bin bei der Arbeit.",
+        "ph": "იხ ბინ ბაი დერ არბაიტ.",
+        "ka": "მე სამსახურში ვარ."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Wir gehen in den Park.",
+        "ph": "ვირ გეენ ინ დენ პარკ.",
+        "ka": "ჩვენ პარკში მივდივართ."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Ich gehe ins Kino.",
+        "ph": "იხ გეე ინს კინო.",
+        "ka": "კინოში მივდივარ."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Er kauft Brot in dem Supermarkt.",
+        "ph": "ერ კაუფტ ბროტ ინ დემ ზუპერმარკტ.",
+        "ka": "ის სუპერმარკეტში პურს ყიდულობს."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Die Bank ist neu.",
+        "ph": "დი ბანკ ისტ ნოი.",
+        "ka": "ბანკი ახალია."
+      }
+    ]
+  },
+  "writing": {
+    "task": "დაწერე ორი წინადადება დღევანდელი სიტყვებით.",
+    "example": "Ich bin bei der Arbeit."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "a1-d029",
+  "level": "A1",
+  "day": 29,
+  "title": "ფერები",
+  "intro": "Farbe, ფერები და welcher.",
+  "words": [
+    "a1-00269",
+    "a1-00270",
+    "a1-00271",
+    "a1-00272",
+    "a1-00273",
+    "a1-00274",
+    "a1-00275",
+    "a1-00276",
+    "a1-00277",
+    "a1-00278"
+  ],
+  "grammar": [
+    "g-a1-029"
+  ],
+  "exercises": true,
+  "reading": {
+    "title": "მოისმინე და გაიმეორე",
+    "lines": [
+      {
+        "speaker": "Anna",
+        "de": "Die Farbe ist schön.",
+        "ph": "დი ფარბე ისტ შოენ.",
+        "ka": "ფერი ლამაზია."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Das Auto ist rot.",
+        "ph": "დას აუტო ისტ როტ.",
+        "ka": "მანქანა წითელია."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Das Haus ist blau.",
+        "ph": "დას ჰაუს ისტ ბლაუ.",
+        "ka": "სახლი ლურჯია."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Der Garten ist grün.",
+        "ph": "დერ გარტენ ისტ გრიუნ.",
+        "ka": "ბაღი მწვანეა."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Die Banane ist gelb.",
+        "ph": "დი ბანანე ისტ გელბ.",
+        "ka": "ბანანი ყვითელია."
+      }
+    ]
+  },
+  "writing": {
+    "task": "დაწერე ორი წინადადება დღევანდელი სიტყვებით.",
+    "example": "Die Farbe ist schön."
+  }
+}

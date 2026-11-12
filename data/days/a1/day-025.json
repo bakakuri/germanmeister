@@ -1,0 +1,62 @@
+{
+  "id": "a1-d025",
+  "level": "A1",
+  "day": 25,
+  "title": "რაოდენობა და არსებობა",
+  "intro": "es gibt და რაოდენობის სიტყვები.",
+  "words": [
+    "a1-00229",
+    "a1-00230",
+    "a1-00231",
+    "a1-00232",
+    "a1-00233",
+    "a1-00234",
+    "a1-00235",
+    "a1-00236",
+    "a1-00237",
+    "a1-00238"
+  ],
+  "grammar": [
+    "g-a1-025"
+  ],
+  "exercises": true,
+  "reading": {
+    "title": "მოისმინე და გაიმეორე",
+    "lines": [
+      {
+        "speaker": "Anna",
+        "de": "Ich habe viel Zeit.",
+        "ph": "იხ ჰაბე ფილ ცაიტ.",
+        "ka": "ბევრი დრო მაქვს."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Hier gibt es viele Autos.",
+        "ph": "ჰირ გიბტ ეს ფილე აუტოს.",
+        "ka": "აქ ბევრი მანქანაა."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Ich habe wenig Geld.",
+        "ph": "იხ ჰაბე ვენიგ გელდ.",
+        "ka": "ცოტა ფული მაქვს."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Alle Kinder sind hier.",
+        "ph": "ალე კინდერ ზინდ ჰირ.",
+        "ka": "ყველა ბავშვი აქაა."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Ich brauche etwas Wasser.",
+        "ph": "იხ ბრაუხე ეტვას ვასერ.",
+        "ka": "ცოტა წყალი მჭირდება."
+      }
+    ]
+  },
+  "writing": {
+    "task": "დაწერე ორი წინადადება დღევანდელი სიტყვებით.",
+    "example": "Ich habe viel Zeit."
+  }
+}

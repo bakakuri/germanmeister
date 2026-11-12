@@ -1,0 +1,50 @@
+{
+  "id": "a1-d023",
+  "level": "A1",
+  "day": 23,
+  "title": "კავშირები",
+  "intro": "aber, oder, denn, sondern, weil, dass, wenn, ob.",
+  "words": [
+    "a1-00209",
+    "a1-00210",
+    "a1-00211",
+    "a1-00212",
+    "a1-00213",
+    "a1-00214",
+    "a1-00215",
+    "a1-00216",
+    "a1-00217",
+    "a1-00218"
+  ],
+  "grammar": [
+    "g-a1-023"
+  ],
+  "exercises": true,
+  "reading": {
+    "title": "მოისმინე და გაიმეორე",
+    "lines": [
+      {
+        "speaker": "Anna",
+        "de": "Trinkst du Tee oder Kaffee?",
+        "ph": "ტრინკსტ დუ ტე ოდერ კაფე?",
+        "ka": "ჩაის სვამ თუ ყავას?"
+      },
+      {
+        "speaker": "Ben",
+        "de": "Ich bin auch hier.",
+        "ph": "იხ ბინ აუხ ჰირ.",
+        "ka": "მეც აქ ვარ."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Ich habe nur Wasser.",
+        "ph": "იხ ჰაბე ნურ ვასერ.",
+        "ka": "მხოლოდ წყალი მაქვს."
+      }
+    ]
+  },
+  "writing": {
+    "task": "დაწერე ორი წინადადება დღევანდელი სიტყვებით.",
+    "example": "Trinkst du Tee oder Kaffee?"
+  }
+}

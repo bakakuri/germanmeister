@@ -1,0 +1,62 @@
+{
+  "id": "a1-d020",
+  "level": "A1",
+  "day": 20,
+  "title": "წინდებულები: სად, საიდან, რასთან ერთად",
+  "intro": "aus, in, nach, zu, bei, mit, von, auf, an, für.",
+  "words": [
+    "a1-00179",
+    "a1-00180",
+    "a1-00181",
+    "a1-00182",
+    "a1-00183",
+    "a1-00184",
+    "a1-00185",
+    "a1-00186",
+    "a1-00187",
+    "a1-00188"
+  ],
+  "grammar": [
+    "g-a1-020"
+  ],
+  "exercises": true,
+  "reading": {
+    "title": "მოისმინე და გაიმეორე",
+    "lines": [
+      {
+        "speaker": "Anna",
+        "de": "Ich wohne in Berlin.",
+        "ph": "იხ ვონე ინ ბერლინ.",
+        "ka": "მე ბერლინში ვცხოვრობ."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Ich komme aus Tiflis.",
+        "ph": "იხ კომე აუს ტფილის.",
+        "ka": "მე თბილისიდან ვარ."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Ich fahre nach Wien.",
+        "ph": "იხ ფარე ნახ ვინ.",
+        "ka": "ვენაში მივდივარ."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Ich gehe zu Anna.",
+        "ph": "იხ გეე ცუ ანა.",
+        "ka": "ანასთან მივდივარ."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Ich bin bei Ben.",
+        "ph": "იხ ბინ ბაი ბენ.",
+        "ka": "ბენთან ვარ."
+      }
+    ]
+  },
+  "writing": {
+    "task": "დაწერე ორი წინადადება დღევანდელი სიტყვებით.",
+    "example": "Ich wohne in Berlin."
+  }
+}

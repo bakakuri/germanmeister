@@ -1,0 +1,62 @@
+{
+  "id": "a1-d022",
+  "level": "A1",
+  "day": 22,
+  "title": "დროის და თანმიმდევრობის სიტყვები",
+  "intro": "gestern, dann, danach და სხვა.",
+  "words": [
+    "a1-00199",
+    "a1-00200",
+    "a1-00201",
+    "a1-00202",
+    "a1-00203",
+    "a1-00204",
+    "a1-00205",
+    "a1-00206",
+    "a1-00207",
+    "a1-00208"
+  ],
+  "grammar": [
+    "g-a1-022"
+  ],
+  "exercises": true,
+  "reading": {
+    "title": "მოისმინე და გაიმეორე",
+    "lines": [
+      {
+        "speaker": "Anna",
+        "de": "Gestern war ich hier.",
+        "ph": "გესტერნ ვარ იხ ჰირ.",
+        "ka": "გუშინ აქ ვიყავი."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Bald komme ich.",
+        "ph": "ბალდ კომე იხ.",
+        "ka": "მალე მოვალ."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Dann esse ich Brot.",
+        "ph": "დან ესე იხ ბროტ.",
+        "ka": "მერე პურს ვჭამ."
+      },
+      {
+        "speaker": "Ben",
+        "de": "Zuerst esse ich Brot.",
+        "ph": "ცუერსტ ესე იხ ბროტ.",
+        "ka": "ჯერ პურს ვჭამ."
+      },
+      {
+        "speaker": "Anna",
+        "de": "Danach trinke ich Tee.",
+        "ph": "დანახ ტრინკე იხ ტე.",
+        "ka": "ამის შემდეგ ჩაის დავლევ."
+      }
+    ]
+  },
+  "writing": {
+    "task": "დაწერე ორი წინადადება დღევანდელი სიტყვებით.",
+    "example": "Gestern war ich hier."
+  }
+}
