@@ -1,0 +1,75 @@
+{
+  "id": "g-c2-003",
+  "level": "C2",
+  "title": "ელიფსისი და შეკუმშვა",
+  "category": "სინტაქსი",
+  "summary": "**Ellipse** წინადადებიდან ისეთი წევრის გამოტოვებაა, რომელიც კონტექსტიდან გასაგებია. ის ტექსტს უფრო მკვეთრს და დინამიურს ხდის.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "სახე",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "ზმნის გამოტოვება",
+          "Ich trinke Tee, er Kaffee."
+        ],
+        [
+          "ქვემდებარის გამოტოვება",
+          "Er kam, sah und siegte."
+        ],
+        [
+          "საერთო წევრი",
+          "Haus- und Gartenarbeit"
+        ],
+        [
+          "პასუხი კითხვაზე",
+          "Wohin? Nach Hause."
+        ],
+        [
+          "სათაურის სტილი",
+          "Neues Gesetz beschlossen."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**Haus- und Gartenarbeit** = Hausarbeit და Gartenarbeit. ბოლო ნაწილი ორივეს ეკუთვნის და ეს ეკონომიას იძლევა."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich trinke Tee, er Kaffee.",
+      "ph": "იხ ტრინკე ტე, ერ კაფე.",
+      "ka": "მე ჩაის ვსვამ, ის ყავას."
+    },
+    {
+      "de": "Er kam, sah und siegte.",
+      "ph": "ერ კამ, ზა უნდ ზიგტე.",
+      "ka": "მოვიდა, იხილა და გაიმარჯვა."
+    },
+    {
+      "de": "Ein- und Ausgang sind getrennt.",
+      "ph": "აინ უნდ აუსგანგ ზინდ გეტრენტ.",
+      "ka": "შესასვლელი და გასასვლელი ცალკეა."
+    },
+    {
+      "de": "Wohin? Nach Hause.",
+      "ph": "ვოჰინ? ნახ ჰაუზე.",
+      "ka": "საით? სახლში."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er kam, er sah, er siegte.",
+      "right": "Er kam, sah und siegte.",
+      "why": "საერთო ქვემდებარე ერთხელ ინახება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c2-004"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "g-c2-002",
+  "level": "C2",
+  "title": "ზმნები Genitiv-ით და მოძველებული რექცია",
+  "category": "ზმნები",
+  "summary": "რამდენიმე ზმნა **Genitiv**-ს ითხოვს. ისინი წერილობით, გაზეთურ, იურიდიულ და ლიტერატურულ ენაში გვხვდება.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ზმნა",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "gedenken",
+          "გახსენება",
+          "Wir gedenken der Opfer."
+        ],
+        [
+          "bedürfen",
+          "საჭიროებს",
+          "Das bedarf der Zustimmung."
+        ],
+        [
+          "sich bedienen",
+          "იყენებს",
+          "Er bediente sich eines Tricks."
+        ],
+        [
+          "sich erfreuen",
+          "სარგებლობს",
+          "Er erfreut sich guter Gesundheit."
+        ],
+        [
+          "sich rühmen",
+          "ტრაბახობს",
+          "Sie rühmt sich ihres Erfolgs."
+        ],
+        [
+          "anklagen",
+          "ბრალს სდებს",
+          "Er wurde des Diebstahls angeklagt."
+        ],
+        [
+          "entbehren",
+          "მოკლებულია",
+          "Das entbehrt jeder Grundlage."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "თანამედროვე ენაში ბევრი ამ ზმნის ნაცვლად წინდებულიან კონსტრუქციას იყენებენ: **sich erinnern an**, **brauchen** (bedürfen-ის ნაცვლად)."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Wir gedenken der Opfer des Krieges.",
+      "ph": "ვირ გედენკენ დერ ოპფერ დეს კრიგეს.",
+      "ka": "ომის მსხვერპლებს ვიხსენებთ."
+    },
+    {
+      "de": "Das bedarf einer genauen Prüfung.",
+      "ph": "დას ბედარფ აინერ გენაუენ პრიუფუნგ.",
+      "ka": "ეს ზუსტ შემოწმებას საჭიროებს."
+    },
+    {
+      "de": "Er erfreut sich guter Gesundheit.",
+      "ph": "ერ ერფროიტ ზიხ გუტერ გეზუნდჰაიტ.",
+      "ka": "ის კარგი ჯანმრთელობით სარგებლობს."
+    },
+    {
+      "de": "Sie bediente sich eines Tricks.",
+      "ph": "ზი ბედიენტე ზიხ აინეს ტრიკს.",
+      "ka": "მან ხრიკი გამოიყენა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Wir gedenken die Opfer.",
+      "right": "Wir gedenken der Opfer.",
+      "why": "gedenken Genitiv-ს ითხოვს."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c2-003"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "g-c2-007",
+  "level": "C2",
+  "title": "სამეცნიერო და სპეციალური ენა",
+  "category": "სტილი",
+  "summary": "სამეცნიერო ენაში მნიშვნელოვანია **უპიროვნო** სტილი, **ზუსტი ტერმინოლოგია** და **დამოკიდებულების სუსტი გამოხატვა**.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ხერხი",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "უპიროვნო პასივი",
+          "Die Daten wurden analysiert."
+        ],
+        [
+          "man-კონსტრუქცია",
+          "Man kann daraus schließen, dass …"
+        ],
+        [
+          "ვარაუდი",
+          "Es lässt sich vermuten, dass …"
+        ],
+        [
+          "დაკვირვება",
+          "Es zeigt sich, dass …"
+        ],
+        [
+          "წყარო",
+          "Laut Müller (2020) …; Nach Angaben von …"
+        ],
+        [
+          "შეზღუდვა",
+          "Dies gilt nur eingeschränkt."
+        ],
+        [
+          "დასკვნა",
+          "Daraus folgt, dass …"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "სამეცნიერო ტექსტში **ich** ხშირად გამოვა: ავტორი ამჯობინებს პასივს და **man**-ს, რომ პიროვნული ხმა უკანა პლანზე გადაიტანოს."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Hedging** (სიფრთხილე): **möglicherweise, vermutlich, tendenziell, in der Regel, offenbar**.",
+        "**Definition**: **X ist definiert als Y.** **Unter X versteht man Y.**"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Die Daten wurden sorgfältig analysiert.",
+      "ph": "დი დატენ ვურდენ ზორგფელტიგ ანალიზირტ.",
+      "ka": "მონაცემები საფუძვლიანად გაანალიზდა."
+    },
+    {
+      "de": "Daraus lässt sich schließen, dass das Verfahren wirksam ist.",
+      "ph": "დარაუს ლესტ ზიხ შლისენ, დას დას ფერფარენ ვირკზამ ისტ.",
+      "ka": "აქედან შეიძლება დავასკვნათ, რომ მეთოდი ეფექტურია."
+    },
+    {
+      "de": "Unter Sprache versteht man ein Zeichensystem.",
+      "ph": "უნტერ შპრაზხე ფერშტეტ მან აინ ცაიხენზიუსტემ.",
+      "ka": "ენაში იგულისხმება ნიშანთა სისტემა."
+    },
+    {
+      "de": "Möglicherweise spielt der Faktor eine Rolle.",
+      "ph": "მოეგლიხერვაიზე შპილტ დერ ფაქტორ აინე როლე.",
+      "ka": "შესაძლოა, ფაქტორი როლს ასრულებს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich glaube, dass die Daten falsch sind.",
+      "right": "Es ist zu vermuten, dass die Daten fehlerhaft sind.",
+      "why": "სამეცნიერო ტექსტში პირადი შეფასების ნაცვლად უპიროვნო ფორმა სჯობს."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c2-008"
+  ]
+}

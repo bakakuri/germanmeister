@@ -1,0 +1,91 @@
+{
+  "id": "g-c2-005",
+  "level": "C2",
+  "title": "სახელდახელო კითხვები: das / dass, seit / seid, wider / wieder…",
+  "category": "მართლწერა",
+  "summary": "რამდენიმე წყვილი სიტყვა იდენტურად ჟღერს, მაგრამ სხვადასხვა ფუნქცია აქვს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "წყვილი",
+        "რას ნიშნავს",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "das / dass",
+          "das — არტიკლი/ნაცვალსახელი; dass — კავშირი",
+          "Das Buch, das ich weiß, dass …"
+        ],
+        [
+          "seit / seid",
+          "seit — წინდებული; seid — sein-ის ihr-ფორმა",
+          "Seit gestern, ihr seid …"
+        ],
+        [
+          "wieder / wider",
+          "wieder — ხელახლა; wider — წინააღმდეგ",
+          "Komm wieder! Wider Willen."
+        ],
+        [
+          "scheinbar / anscheinend",
+          "scheinbar — თითქოს (მცდარი); anscheinend — როგორც ჩანს",
+          "Er schläft scheinbar."
+        ],
+        [
+          "als / wie",
+          "als — შედარება; wie — ტოლობა",
+          "größer als / so groß wie"
+        ],
+        [
+          "Lehre / Leere",
+          "სწავლება / სიცარიელე",
+          "die Lehre, die Leere"
+        ],
+        [
+          "stehen / stehlen",
+          "დგომა / მოპარვა",
+          "stehen, stehlen"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**dass** შეგიძლია **dieses / jenes**-ით ჩაანაცვლო: თუ შეგიძლია, ესაა **das**. თუ ვერა, ესაა **dass**."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich weiß, dass du kommst.",
+      "ph": "იხ ვაის, დას დუ კომსტ.",
+      "ka": "ვიცი, რომ მოდიხარ."
+    },
+    {
+      "de": "Seid ihr schon lange hier?",
+      "ph": "ზაიდ იარ შონ ლანგე ჰირ?",
+      "ka": "უკვე დიდი ხანია აქ ხართ?"
+    },
+    {
+      "de": "Wir sehen uns bald wieder.",
+      "ph": "ვირ ზეენ უნს ბალდ ვიდერ.",
+      "ka": "მალე ისევ ვნახავთ ერთმანეთს."
+    },
+    {
+      "de": "Er ist anscheinend krank.",
+      "ph": "ერ ისტ ანშაინენდ კრანკ.",
+      "ka": "როგორც ჩანს, ავადაა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich weiß, das du kommst.",
+      "right": "Ich weiß, dass du kommst.",
+      "why": "კავშირი dass ორი s-ით იწერება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c2-006"
+  ]
+}
