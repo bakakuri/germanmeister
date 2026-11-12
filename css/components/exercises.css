@@ -1,0 +1,281 @@
+.ex-list {
+  display: grid;
+  gap: 10px;
+}
+
+.ex {
+  display: grid;
+  gap: 10px;
+  padding: 12px;
+  border-radius: var(--r-md);
+  background: var(--card-2);
+  border: 1.5px solid var(--line);
+}
+
+.ex-q {
+  font-size: 14.5px;
+  font-weight: 800;
+}
+
+.ex-hint {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.opts {
+  display: grid;
+  gap: 6px;
+}
+
+.opt {
+  position: relative;
+  overflow: hidden;
+  min-height: 42px;
+  padding: 0 14px;
+  border: 1.5px solid var(--line);
+  border-radius: 13px;
+  background: var(--card);
+  text-align: left;
+  font-size: 14.5px;
+  font-weight: 800;
+  transition: background 0.2s, border-color 0.2s, transform 0.15s;
+}
+
+.opt:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+.opt.is-right,
+.art-btn.is-right {
+  border-color: var(--good);
+  background: var(--mint);
+  color: var(--mint-ink);
+  animation: pop 0.4s cubic-bezier(0.3, 1.6, 0.5, 1);
+}
+
+.opt.is-wrong,
+.art-btn.is-wrong {
+  border-color: var(--bad);
+  background: var(--rose);
+  color: var(--rose-ink);
+  animation: shake 0.4s;
+}
+
+/* ---------- წინადადების აწყობა ---------- */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  min-height: 46px;
+  padding: 6px;
+  border-radius: 13px;
+}
+
+.chips.pool:empty {
+  display: none;
+}
+
+.chips.line {
+  border: 1.5px dashed var(--line);
+  background: var(--card);
+}
+
+.chips.line.is-right {
+  border-style: solid;
+  border-color: var(--good);
+  background: var(--mint);
+}
+
+.chips.line.is-wrong {
+  border-style: solid;
+  border-color: var(--bad);
+  background: var(--rose);
+  animation: shake 0.4s;
+}
+
+.chip {
+  position: relative;
+  overflow: hidden;
+  padding: 6px 12px;
+  border-radius: 11px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 14.5px;
+  font-weight: 800;
+  transition: transform 0.15s;
+}
+
+.chip.moved {
+  animation: pop 0.3s cubic-bezier(0.3, 1.6, 0.5, 1);
+}
+
+.chip:active {
+  transform: scale(0.94);
+}
+
+/* ---------- არტიკლები ---------- */
+.ex-word {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.ex-word strong {
+  font-size: 26px;
+  font-weight: 800;
+}
+
+.ex-word span:not(.ico) {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.art-btns {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.art-btn {
+  position: relative;
+  overflow: hidden;
+  min-height: 54px;
+  border: 2px solid transparent;
+  border-radius: 16px;
+  font-size: 19px;
+  font-weight: 800;
+  transition: transform 0.15s, border-color 0.2s;
+}
+
+.art-btn.art-der {
+  background: var(--sky);
+  color: var(--sky-ink);
+}
+.art-btn.art-die {
+  background: var(--rose);
+  color: var(--rose-ink);
+}
+.art-btn.art-das {
+  background: var(--mint);
+  color: var(--mint-ink);
+}
+
+.art-btn:active:not(:disabled) {
+  transform: scale(0.94);
+}
+
+.art-btn:disabled:not(.is-right):not(.is-wrong) {
+  opacity: 0.45;
+}
+
+.art-btn.is-right {
+  border-color: var(--good);
+}
+
+.art-btn.is-wrong {
+  border-color: var(--bad);
+  opacity: 0.8;
+}
+
+/* ---------- შეფასება ---------- */
+.fb {
+  display: none;
+  padding: 8px 12px;
+  border-radius: 12px;
+  font-size: 14px;
+}
+
+.fb.show {
+  display: block;
+  animation: fb-in 0.3s cubic-bezier(0.3, 1.4, 0.5, 1) both;
+}
+
+.fb.ok {
+  background: var(--mint);
+  color: var(--mint-ink);
+}
+
+.fb.bad {
+  background: var(--rose);
+  color: var(--rose-ink);
+}
+
+.fb .ans {
+  font-weight: 800;
+}
+
+.fb .why {
+  margin-top: 3px;
+  font-size: 13px;
+  opacity: 0.9;
+}
+
+.ex-score {
+  text-align: center;
+  color: var(--muted);
+  font-size: 13.5px;
+  font-weight: 800;
+}
+
+.ex-score.done {
+  color: var(--good);
+  animation: pop 0.45s cubic-bezier(0.3, 1.6, 0.5, 1);
+}
+
+/* ---------- სესია ---------- */
+.session {
+  display: grid;
+  gap: 10px;
+}
+
+.sess-top {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.prog {
+  height: 7px;
+  border-radius: 999px;
+  background: var(--bg-soft);
+  overflow: hidden;
+}
+
+.prog-bar {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--accent), var(--rose-ink));
+  transition: width 0.45s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.sess-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.result {
+  display: grid;
+  gap: 8px;
+  justify-items: center;
+  padding: 26px 14px;
+  text-align: center;
+}
+
+.result h2 {
+  font-size: 36px;
+  font-weight: 800;
+}
+
+.result-badge {
+  display: grid;
+  place-items: center;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  background: var(--mint);
+  color: var(--mint-ink);
+  animation: pop 0.5s cubic-bezier(0.3, 1.6, 0.5, 1);
+}

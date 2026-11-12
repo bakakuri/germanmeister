@@ -1,0 +1,179 @@
+/* ყველა keyframe და გადამყვანი ანიმაცია ერთ ადგილას */
+
+/* გვერდის გახსნა: ბლოკები ერთმანეთის მიყოლებით ჩნდება (main.js ამოიღებს კლასს ანიმაციის შემდეგ) */
+.page-in .page > * {
+  animation: rise 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+.page-in .page > *:nth-child(2) {
+  animation-delay: 0.05s;
+}
+.page-in .page > *:nth-child(3) {
+  animation-delay: 0.1s;
+}
+.page-in .page > *:nth-child(4) {
+  animation-delay: 0.15s;
+}
+.page-in .page > *:nth-child(5) {
+  animation-delay: 0.2s;
+}
+.page-in .page > *:nth-child(6) {
+  animation-delay: 0.25s;
+}
+.page-in .page > *:nth-child(n + 7) {
+  animation-delay: 0.3s;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px) scale(0.985);
+  }
+}
+
+@keyframes pop {
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: scale(0.4);
+  }
+}
+
+@keyframes grow-x {
+  from {
+    transform: scaleX(0);
+    opacity: 0;
+  }
+}
+
+@keyframes shake {
+  20%,
+  60% {
+    transform: translateX(-5px);
+  }
+  40%,
+  80% {
+    transform: translateX(5px);
+  }
+}
+
+@keyframes bob {
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+@keyframes logo-wave {
+  0% {
+    transform: scaleY(0.25);
+  }
+  70% {
+    transform: scaleY(1.18);
+  }
+}
+
+@keyframes tab-bounce {
+  0% {
+    transform: scale(0.7) translateY(3px);
+  }
+  60% {
+    transform: scale(1.18) translateY(-2px);
+  }
+}
+
+@keyframes ripple {
+  to {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+
+@keyframes speak-pulse {
+  0% {
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--accent) 45%, transparent);
+  }
+  100% {
+    box-shadow: 0 0 0 12px transparent;
+  }
+}
+
+@keyframes speak-wiggle {
+  25% {
+    transform: scale(1.2) rotate(-8deg);
+  }
+  75% {
+    transform: scale(1.2) rotate(8deg);
+  }
+}
+
+@keyframes panel-fwd {
+  from {
+    opacity: 0;
+    transform: translateX(26px);
+  }
+}
+
+@keyframes panel-back {
+  from {
+    opacity: 0;
+    transform: translateX(-26px);
+  }
+}
+
+@keyframes drift-a {
+  to {
+    transform: translate(14%, 10%) scale(1.12);
+  }
+}
+
+@keyframes drift-b {
+  to {
+    transform: translate(-12%, -14%) scale(1.08);
+  }
+}
+
+@keyframes fb-in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px) scale(0.98);
+  }
+}
+
+@keyframes sheet-in {
+  from {
+    transform: translateY(40px);
+    opacity: 0;
+  }
+}
+
+@keyframes next-glow {
+  50% {
+    box-shadow: 0 0 0 2px var(--card), 0 0 0 6px color-mix(in srgb, var(--accent) 35%, transparent);
+  }
+}
+
+/* კონფეტი (js/utils/confetti.js) */
+.confetti {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.confetti i {
+  position: absolute;
+  border-radius: 2px;
+}
+
+/* თემის გადართვისას ფერები რბილად იცვლება */
+html.theme-anim *,
+html.theme-anim *::before,
+html.theme-anim *::after {
+  transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease, box-shadow 0.4s ease !important;
+}
