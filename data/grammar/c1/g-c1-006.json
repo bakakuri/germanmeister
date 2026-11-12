@@ -1,0 +1,79 @@
+{
+  "id": "g-c1-006",
+  "level": "C1",
+  "title": "es: ფორმალური ქვემდებარე და ადგილსამყოფელი",
+  "category": "ნაცვალსახელები",
+  "summary": "**es** ბევრ ფუნქციაში გვხვდება: **ამინდი / დრო** (es regnet), **ფორმალური ქვემდებარე** (es freut mich), **Platzhalter** წინადადების დასაწყისში (es kommt ein Gast), **Korrelat** (ich freue mich darüber, dass …).",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ფუნქცია",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "ამინდი",
+          "Es regnet. Es ist kalt."
+        ],
+        [
+          "დრო",
+          "Es ist acht Uhr."
+        ],
+        [
+          "უპიროვნო ზმნები",
+          "Es gibt viel Arbeit. Es geht um Geld."
+        ],
+        [
+          "Platzhalter (Vorfeld)",
+          "Es kommt ein Gast. (არ დგას, თუ სხვა წევრი პირველია)"
+        ],
+        [
+          "Korrelat",
+          "Es freut mich, dass du kommst."
+        ],
+        [
+          "გრძნობა/შეგრძნება",
+          "Es tut mir leid. Es fällt mir schwer."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**Platzhalter-es** ვარდება, თუ Vorfeld სხვა წევრითაა: **Heute kommt ein Gast.** (არა: Heute kommt es ein Gast.)"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Es geht um eine wichtige Sache.",
+      "ph": "ეს გეტ უმ აინე ვიხტიგე ზახე.",
+      "ka": "საქმე მნიშვნელოვან საკითხს ეხება."
+    },
+    {
+      "de": "Es freut mich, dass du da bist.",
+      "ph": "ეს ფროიტ მიხ, დას დუ და ბისტ.",
+      "ka": "მიხარია, რომ აქ ხარ."
+    },
+    {
+      "de": "Es kamen viele Gäste.",
+      "ph": "ეს კამენ ფილე გესტე.",
+      "ka": "ბევრი სტუმარი მოვიდა."
+    },
+    {
+      "de": "Mir fällt es schwer, das zu erklären.",
+      "ph": "მირ ფელტ ეს შვერ, დას ცუ ერკლერენ.",
+      "ka": "მიჭირს ამის ახსნა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Heute es kommt ein Gast.",
+      "right": "Heute kommt ein Gast.",
+      "why": "Platzhalter-es წინადადების დასაწყისშია, სხვა წევრის მიყოლებით არა."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c1-007"
+  ]
+}

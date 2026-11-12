@@ -1,0 +1,79 @@
+{
+  "id": "g-c1-005",
+  "level": "C1",
+  "title": "ხაზგასმა: Spaltsatz, Vorfeld და Satzgliedstellung",
+  "category": "სინტაქსი",
+  "summary": "ხაზგასასმელი წევრი წინადადების დასაწყისში გადააქვთ ან **Spaltsatz**-ს ქმნიან: **Es ist … der/die/das …**.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ტიპი",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "ნეიტრალური",
+          "Anna hat gestern das Buch gekauft."
+        ],
+        [
+          "Vorfeld: დრო",
+          "Gestern hat Anna das Buch gekauft."
+        ],
+        [
+          "Vorfeld: ობიექტი",
+          "Das Buch hat Anna gestern gekauft."
+        ],
+        [
+          "Spaltsatz: ქვემდებარე",
+          "Es war Anna, die gestern das Buch kaufte."
+        ],
+        [
+          "Spaltsatz: დრო",
+          "Gestern war es, dass Anna das Buch kaufte."
+        ],
+        [
+          "Fokus: nur, gerade, sogar",
+          "Nur Anna hat das Buch gekauft."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "წინადადების დასაწყისში ყოველთვის ახალი და მნიშვნელოვანი ინფორმაცია გადაიტანე; დასასრულში კი ის, რასაც უნდა გაუსვა ხაზი."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Das Buch hat Anna gekauft.",
+      "ph": "დას ბუხ ჰატ ანა გეკაუფტ.",
+      "ka": "წიგნი ანამ იყიდა."
+    },
+    {
+      "de": "Es war Anna, die das Buch kaufte.",
+      "ph": "ეს ვარ ანა, დი დას ბუხ კაუფტე.",
+      "ka": "სწორედ ანამ იყიდა წიგნი."
+    },
+    {
+      "de": "Gerade heute habe ich keine Zeit.",
+      "ph": "გერადე ჰოიტე ჰაბე იხ კაინე ცაიტ.",
+      "ka": "სწორედ დღეს არ მაქვს დრო."
+    },
+    {
+      "de": "Nur durch Übung wirst du besser.",
+      "ph": "ნურ დურხ იუბუნგ ვირსტ დუ ბესერ.",
+      "ka": "მხოლოდ ვარჯიშით გახდები უკეთესი."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Es ist Anna, die kauft das Buch.",
+      "right": "Es ist Anna, die das Buch kauft.",
+      "why": "Relativsatz-ის ზმნა ბოლოშია."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c1-006"
+  ]
+}

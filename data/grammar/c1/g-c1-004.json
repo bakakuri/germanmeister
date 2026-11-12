@@ -1,0 +1,78 @@
+{
+  "id": "g-c1-004",
+  "level": "C1",
+  "title": "ირიბი თხრობა: დროები და საშუალებები",
+  "category": "კონიუნქტივი",
+  "summary": "ირიბ თხრობაში დრო იმას ასახავს, **როდის** ითქვა, არა როდის იმყოფება თქმის მომენტი. Konjunktiv I-ის ფორმა ითვალისწინებს ორიგინალის დროს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ორიგინალი",
+        "ირიბი თხრობა"
+      ],
+      "rows": [
+        [
+          "„Ich bin krank.“ (Präsens)",
+          "Er sagte, er sei krank. (Konj. I Präsens)"
+        ],
+        [
+          "„Ich war krank.“ (Präteritum/Perfekt)",
+          "Er sagte, er sei krank gewesen. (Konj. I Perfekt)"
+        ],
+        [
+          "„Ich werde kommen.“ (Futur)",
+          "Er sagte, er werde kommen. (Konj. I Futur)"
+        ],
+        [
+          "„Komm!“ (Imperativ)",
+          "Er sagte, ich solle kommen."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "ირიბი თხრობის ზმნები: **behaupten, berichten, erklären, mitteilen, meinen, betonen, bestreiten**.",
+        "თუ Konjunktiv I ფორმა ცხადად არ განირჩევა, იგულისხმება **Konjunktiv II** ან **würde + infinitiv**."
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "გაზეთურ ტექსტში ძალიან ხშირია. **Laut Polizei sei der Täter geflohen.** (პოლიციის მიხედვით, დამნაშავე გაიქცა.)"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Er behauptet, er habe nichts gewusst.",
+      "ph": "ერ ბეჰაუპტეტ, ერ ჰაბე ნიხტს გევუსტ.",
+      "ka": "ის ირწმუნება, რომ არაფერი იცოდა."
+    },
+    {
+      "de": "Sie berichtete, sie sei gestern angekommen.",
+      "ph": "ზი ბერიხტეტე, ზი ზაი გესტერნ ანგეკომენ.",
+      "ka": "მან მოგვითხრო, რომ გუშინ ჩამოვიდა."
+    },
+    {
+      "de": "Der Sprecher betonte, man werde handeln.",
+      "ph": "დერ შპრეხერ ბეტონტე, მან ვერდე ჰანდელნ.",
+      "ka": "სპიკერმა ხაზი გაუსვა, რომ იმოქმედებენ."
+    },
+    {
+      "de": "Er sagte, ich solle warten.",
+      "ph": "ერ ზაგტე, იხ ზოლე ვარტენ.",
+      "ka": "მან მითხრა, დამელოდოს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er sagte, dass er ist krank.",
+      "right": "Er sagte, er sei krank.",
+      "why": "ირიბ თხრობაში Konjunktiv I სწორია, ზმნა კი dass-ის გარეშე მეორე ადგილზეა."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c1-005"
+  ]
+}

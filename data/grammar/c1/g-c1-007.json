@@ -1,0 +1,91 @@
+{
+  "id": "g-c1-007",
+  "level": "C1",
+  "title": "წინსართიანი ზმნები: be-, ver-, er-, ent-, zer-, miss-",
+  "category": "სიტყვათა წარმოება",
+  "summary": "წინსართები ზმნას ახალ მნიშვნელობას აძლევს. **be-, ver-, er-, ent-, ge-, zer-, miss-** გამოუყოფადია, ხოლო **ab-, an-, auf-, aus-, ein-, mit-, vor-, zu-** გამოყოფადი.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "წინსართი",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "be-",
+          "ობიექტზე მიმართვა",
+          "besuchen, bezahlen, beantworten"
+        ],
+        [
+          "ver-",
+          "ცვლა, მცდარი, დაკარგვა",
+          "verkaufen, vergessen, verändern"
+        ],
+        [
+          "er-",
+          "შედეგი, მიღწევა",
+          "erreichen, erklären, erfinden"
+        ],
+        [
+          "ent-",
+          "მოშორება, დაწყება",
+          "entdecken, entfernen, entstehen"
+        ],
+        [
+          "zer-",
+          "დაშლა",
+          "zerbrechen, zerstören"
+        ],
+        [
+          "miss-",
+          "არასწორი",
+          "missverstehen, misslingen"
+        ],
+        [
+          "über-, unter-, um-, durch-",
+          "ორივე ტიპი",
+          "umfahren (ჩამოგდება) / umfahren (შემოვლა)"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**über-, unter-, um-, durch-, wider-, wieder-** შეიძლება გამოყოფადი ან გამოუყოფადი იყოს, მნიშვნელობის მიხედვით: **übersetzen** (გადაყვანა: setzt über) vs **übersetzen** (თარგმნა: übersetzt)."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich besuche meine Oma.",
+      "ph": "იხ ბეზუხე მაინე ომა.",
+      "ka": "ბებოს ვსტუმრობ."
+    },
+    {
+      "de": "Er hat sein Handy vergessen.",
+      "ph": "ერ ჰატ ზაინ ჰენდი ფერგესენ.",
+      "ka": "მობილური დაავიწყდა."
+    },
+    {
+      "de": "Wir haben ein altes Haus entdeckt.",
+      "ph": "ვირ ჰაბენ აინ ალტეს ჰაუს ენტდეკტ.",
+      "ka": "ძველი სახლი აღმოვაჩინეთ."
+    },
+    {
+      "de": "Das Glas ist zerbrochen.",
+      "ph": "დას გლას ისტ ცერბროხენ.",
+      "ka": "ჭიქა გატყდა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe vergessed.",
+      "right": "Ich habe vergessen.",
+      "why": "ver- წინსართიანი ზმნის Partizip II-ში ge- არ ემატება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c1-008"
+  ]
+}

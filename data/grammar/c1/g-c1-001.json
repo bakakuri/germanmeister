@@ -1,0 +1,78 @@
+{
+  "id": "g-c1-001",
+  "level": "C1",
+  "title": "გაფართოებული Partizipialattribut",
+  "category": "სინტაქსი",
+  "summary": "სახელის წინ Partizip I ან II და მისი დამატებები დგას. ეს ხდის მთელ Relativsatz-ს სახელის წინა ატრიბუტად. ფორმა წერილობით, სამეცნიერო და გაზეთურ ტექსტებშია გავრცელებული.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "Relativsatz",
+        "Partizipialattribut"
+      ],
+      "rows": [
+        [
+          "Der Mann, der dort steht, …",
+          "Der dort stehende Mann …"
+        ],
+        [
+          "Das Buch, das gestern erschienen ist, …",
+          "Das gestern erschienene Buch …"
+        ],
+        [
+          "Die Frau, die ihre Tasche sucht, …",
+          "Die ihre Tasche suchende Frau …"
+        ],
+        [
+          "Das Problem, das bisher nicht gelöst wurde, …",
+          "Das bisher nicht gelöste Problem …"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**Partizip I** = აქტიური, მიმდინარე (suchend). **Partizip II** = პასიური ან დასრულებული (gelöst, erschienen). ბოლოსართი ჩვეულებრივი ზედსართავის წესით დაემატება."
+    },
+    {
+      "type": "list",
+      "items": [
+        "ყველა დამატება **არტიკლსა და Partizip-ს შორის** დგას: **der [seit Jahren in Berlin lebende] Autor**.",
+        "ასეთი კონსტრუქციის გასახსნელად დაიწყე Partizip-იდან უკან: ის ამბობს, ვინ ან რა ასრულებს მოქმედებას."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Der in Berlin lebende Autor schreibt viel.",
+      "ph": "დერ ინ ბერლინ ლებენდე აუტორ შრაიბტ ფილ.",
+      "ka": "ბერლინში მცხოვრები ავტორი ბევრს წერს."
+    },
+    {
+      "de": "Das gestern veröffentlichte Buch ist spannend.",
+      "ph": "დას გესტერნ ფეროეფენტლიხტე ბუხ ისტ შპანენდ.",
+      "ka": "გუშინ გამოქვეყნებული წიგნი საინტერესოა."
+    },
+    {
+      "de": "Die von der Regierung beschlossenen Maßnahmen wirken.",
+      "ph": "დი ფონ დერ რეგირუნგ ბეშლოსენენ მასნამენ ვირკენ.",
+      "ka": "მთავრობის მიერ მიღებული ზომები მოქმედებს."
+    },
+    {
+      "de": "Die bisher ungelöste Frage bleibt offen.",
+      "ph": "დი ბისჰერ უნგელოესტე ფრაგე ბლაიბტ ოფენ.",
+      "ka": "აქამდე გადაუჭრელი კითხვა ღია რჩება."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Der Autor in Berlin lebend",
+      "right": "Der in Berlin lebende Autor",
+      "why": "Partizip სახელის წინ დგას და ზედსართავივით იცვლება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c1-002"
+  ]
+}

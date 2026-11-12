@@ -1,0 +1,81 @@
+{
+  "id": "g-c1-011",
+  "level": "C1",
+  "title": "Historisches Präsens და დროის არჩევა ტექსტში",
+  "category": "დროები",
+  "summary": "ტექსტში მკაფიოობისთვის აუცილებელია დროების თანმიმდევრობა. **Historisches Präsens** წარსულ ამბებს ცოცხლად აჩვენებს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "დრო",
+        "ფუნქცია",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "Präteritum",
+          "ძირითადი თხრობა",
+          "Er ging nach Hause."
+        ],
+        [
+          "Plusquamperfekt",
+          "ადრინდელი",
+          "Er hatte schon gegessen."
+        ],
+        [
+          "Perfekt",
+          "მოხსენება საუბარში",
+          "Er ist nach Hause gegangen."
+        ],
+        [
+          "Präsens (historisch)",
+          "ცოცხალი თხრობა",
+          "1989 fällt die Mauer."
+        ],
+        [
+          "Präsens (ზოგადი ჭეშმარიტება)",
+          "ფაქტები",
+          "Wasser kocht bei hundert Grad."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "ერთი ტექსტის შიგნით ძირითადი დრო არ უნდა შეიცვალოს ისე, რომ მიზეზი არ ჩანდეს."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Im Jahr neunzehnhundertneunundachtzig fällt die Mauer.",
+      "ph": "იმ იარ ნოინცენჰუნდერტნოინუნდახტციხ ფელტ დი მაუერ.",
+      "ka": "ათას ცხრაას ოთხმოცდაცხრა წელს კედელი ინგრევა."
+    },
+    {
+      "de": "Er trat ein und sah sie sofort.",
+      "ph": "ერ ტრატ აინ უნდ ზა ზი ზოფორტ.",
+      "ka": "ის შემოვიდა და მაშინვე დაინახა."
+    },
+    {
+      "de": "Sie hatte lange gewartet.",
+      "ph": "ზი ჰატე ლანგე გევარტეტ.",
+      "ka": "ის დიდხანს ელოდა."
+    },
+    {
+      "de": "Wasser kocht bei hundert Grad.",
+      "ph": "ვასერ კოხტ ბაი ჰუნდერტ გრად.",
+      "ka": "წყალი ასი გრადუსზე დუღს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich bin gestern gewesen im Kino.",
+      "right": "Ich war gestern im Kino.",
+      "why": "sein-ისთვის Präteritum ბუნებრივია."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c1-012"
+  ]
+}

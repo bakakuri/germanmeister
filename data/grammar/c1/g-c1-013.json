@@ -1,0 +1,81 @@
+{
+  "id": "g-c1-013",
+  "level": "C1",
+  "title": "Satzklammer და Nachfeld",
+  "category": "სინტაქსი",
+  "summary": "**Satzklammer** ორნაწილიანი ზმნური ჩარჩოა: ერთი ნაწილი მეორე ადგილზეა, მეორე — ბოლოში. **Nachfeld** ბოლო ზმნის შემდეგ სივრცეა, სადაც ზოგჯერ გრძელი წევრები გადაჰყავთ.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ჩარჩო",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "Perfekt",
+          "Ich habe gestern einen Film gesehen."
+        ],
+        [
+          "Modalverb",
+          "Er muss heute früh aufstehen."
+        ],
+        [
+          "გამოყოფადი ზმნა",
+          "Wir kaufen im Supermarkt ein."
+        ],
+        [
+          "Passiv",
+          "Das Haus wird von Arbeitern gebaut."
+        ],
+        [
+          "Nachfeld",
+          "Ich habe ihn gesehen, den Mann mit dem Hut."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "ბოლო ზმნის შემდეგ ჩვეულებრივ დგას **Nebensatz**, **Vergleich** (als, wie) და **გრძელი წინდებულიანი ჯგუფი**: **Er ist größer, als ich dachte.**"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Ausklammerung** (გამოტანა ჩარჩოდან) საუბარში ხშირია: **Ich habe ihn gesehen gestern.**"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Er ist größer, als ich dachte.",
+      "ph": "ერ ისტ გროესერ, ალს იხ დახტე.",
+      "ka": "ის უფრო მაღალია, ვიდრე ვფიქრობდი."
+    },
+    {
+      "de": "Ich habe das Buch gelesen, das du mir gegeben hast.",
+      "ph": "იხ ჰაბე დას ბუხ გელეზენ, დას დუ მირ გეგებენ ჰასტ.",
+      "ka": "ის წიგნი წავიკითხე, რომელიც მომეცი."
+    },
+    {
+      "de": "Wir fahren morgen nach Berlin ab.",
+      "ph": "ვირ ფარენ მორგენ ნახ ბერლინ აბ.",
+      "ka": "ხვალ ბერლინში მივემგზავრებით."
+    },
+    {
+      "de": "Er hat gesagt, dass er kommt.",
+      "ph": "ერ ჰატ გეზაგტ, დას ერ კომტ.",
+      "ka": "მან თქვა, რომ მოვა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er hat gesagt dass kommt er.",
+      "right": "Er hat gesagt, dass er kommt.",
+      "why": "Nebensatz-ში ზმნა ბოლოშია."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c1-014"
+  ]
+}

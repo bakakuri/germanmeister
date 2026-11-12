@@ -1,0 +1,110 @@
+{
+  "id": "g-c1-008",
+  "level": "C1",
+  "title": "რთული სახელები და შემაერთებელი ელემენტები",
+  "category": "სიტყვათა წარმოება",
+  "summary": "გერმანულში რთული სახელები ძალიან გავრცელებულია. **ბოლო ნაწილი** განსაზღვრავს **სქესს და არტიკლს**, პირველი ნაწილი კი დაზუსტებას გვაძლევს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ნაწილები",
+        "რთული სახელი",
+        "არტიკლი"
+      ],
+      "rows": [
+        [
+          "das Haus + die Tür",
+          "die Haustür",
+          "die (Tür-ის მიხედვით)"
+        ],
+        [
+          "der Schuh + das Geschäft",
+          "das Schuhgeschäft",
+          "das (Geschäft)"
+        ],
+        [
+          "die Arbeit + der Platz",
+          "der Arbeitsplatz",
+          "der (Platz)"
+        ],
+        [
+          "das Kind + der Garten",
+          "der Kindergarten",
+          "der (Garten)"
+        ],
+        [
+          "der Tisch + die Lampe",
+          "die Tischlampe",
+          "die (Lampe)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "შემაერთებელი",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "-s-",
+          "der Arbeitsplatz, die Liebesgeschichte"
+        ],
+        [
+          "-(e)n-",
+          "die Sonnenbrille, der Frauenarzt"
+        ],
+        [
+          "-e-",
+          "das Hundehaus, das Tageslicht"
+        ],
+        [
+          "-er-",
+          "das Kinderzimmer, das Bilderbuch"
+        ],
+        [
+          "არ არის",
+          "die Haustür, das Wasserglas"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "დაიმახსოვრე: **ბოლო სიტყვა ყოველთვის სქესს განსაზღვრავს**: der Tisch + die Lampe → **die** Tischlampe."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Die Haustür ist offen.",
+      "ph": "დი ჰაუსტიურ ისტ ოფენ.",
+      "ka": "სახლის კარი ღიაა."
+    },
+    {
+      "de": "Der Arbeitsplatz ist neu.",
+      "ph": "დერ არბაიტსპლაც ისტ ნოი.",
+      "ka": "სამუშაო ადგილი ახალია."
+    },
+    {
+      "de": "Wir gehen in den Kindergarten.",
+      "ph": "ვირ გეენ ინ დენ კინდერგარტენ.",
+      "ka": "ბავშვთა ბაღში მივდივართ."
+    },
+    {
+      "de": "Das Wohnzimmer ist groß.",
+      "ph": "დას ვონციმერ ისტ გროს.",
+      "ka": "მისაღები დიდია."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "der Tischlampe",
+      "right": "die Tischlampe",
+      "why": "ბოლო ნაწილი (Lampe) განსაზღვრავს არტიკლს."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-c1-009"
+  ]
+}
