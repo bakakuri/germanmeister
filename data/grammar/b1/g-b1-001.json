@@ -1,0 +1,151 @@
+{
+  "id": "g-b1-001",
+  "level": "B1",
+  "title": "Präteritum: ძლიერი და შერეული ზმნები",
+  "category": "დროები",
+  "summary": "ძლიერ ზმნებს Präteritum-ში **ფუძის ხმოვანი იცვლება** და **-te** არ ემატება. ich და er ფორმას ბოლოსართი არ აქვს. შერეულ ზმნებში ხმოვანიც იცვლება და **-te**-ც ემატება.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "infinitiv",
+        "Präteritum",
+        "Partizip II"
+      ],
+      "rows": [
+        [
+          "gehen",
+          "ging",
+          "gegangen"
+        ],
+        [
+          "kommen",
+          "kam",
+          "gekommen"
+        ],
+        [
+          "sehen",
+          "sah",
+          "gesehen"
+        ],
+        [
+          "geben",
+          "gab",
+          "gegeben"
+        ],
+        [
+          "nehmen",
+          "nahm",
+          "genommen"
+        ],
+        [
+          "schreiben",
+          "schrieb",
+          "geschrieben"
+        ],
+        [
+          "trinken",
+          "trank",
+          "getrunken"
+        ],
+        [
+          "fahren",
+          "fuhr",
+          "gefahren"
+        ],
+        [
+          "bringen",
+          "brachte",
+          "gebracht"
+        ],
+        [
+          "denken",
+          "dachte",
+          "gedacht"
+        ],
+        [
+          "wissen",
+          "wusste",
+          "gewusst"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "პირი",
+        "gehen (ძლიერი)",
+        "denken (შერეული)"
+      ],
+      "rows": [
+        [
+          "ich",
+          "ging",
+          "dachte"
+        ],
+        [
+          "du",
+          "gingst",
+          "dachtest"
+        ],
+        [
+          "er / sie / es",
+          "ging",
+          "dachte"
+        ],
+        [
+          "wir",
+          "gingen",
+          "dachten"
+        ],
+        [
+          "ihr",
+          "gingt",
+          "dachtet"
+        ],
+        [
+          "sie / Sie",
+          "gingen",
+          "dachten"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "Präteritum წერილობით ხშირია: **ამბებში, რომანებში, ახალ ამბებში**. საუბარში ჩვეულებრივ Perfekt გამოიყენება."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Er ging nach Hause.",
+      "ph": "ერ გინგ ნახ ჰაუზე.",
+      "ka": "ის სახლში წავიდა."
+    },
+    {
+      "de": "Wir sahen einen Film.",
+      "ph": "ვირ ზაჰენ აინენ ფილმ.",
+      "ka": "ფილმი ვნახეთ."
+    },
+    {
+      "de": "Sie brachte einen Kuchen mit.",
+      "ph": "ზი ბრახტე აინენ კუხენ მით.",
+      "ka": "ის ნამცხვარი მოიტანა."
+    },
+    {
+      "de": "Ich dachte an dich.",
+      "ph": "იხ დახტე ან დიხ.",
+      "ka": "შენზე ვფიქრობდი."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er gehte",
+      "right": "Er ging",
+      "why": "ძლიერ ზმნას -te არ ემატება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b1-002"
+  ]
+}

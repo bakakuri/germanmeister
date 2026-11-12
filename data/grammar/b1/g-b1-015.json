@@ -1,0 +1,91 @@
+{
+  "id": "g-b1-015",
+  "level": "B1",
+  "title": "კავშირები Hauptsatz-ში: trotzdem, außerdem, sonst…",
+  "category": "სინტაქსი",
+  "summary": "ზოგი კავშირი **ზმნიზედაა** და მთავარ წინადადებას უკავშირებს, მაგრამ ის პირველ ადგილზე დგას, ამიტომ **ზმნა მეორეა**.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "სიტყვა",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "trotzdem / dennoch",
+          "მაინც",
+          "Es regnet, trotzdem gehen wir."
+        ],
+        [
+          "außerdem",
+          "გარდა ამისა",
+          "Er ist klug, außerdem ist er nett."
+        ],
+        [
+          "sonst",
+          "თორემ",
+          "Beeil dich, sonst kommst du zu spät."
+        ],
+        [
+          "also",
+          "ე.ი., მაშასადამე",
+          "Du bist müde, also schlaf."
+        ],
+        [
+          "deshalb / daher",
+          "ამიტომ",
+          "Ich bin krank, deshalb bleibe ich."
+        ],
+        [
+          "dann",
+          "მერე",
+          "Zuerst esse ich, dann gehe ich."
+        ],
+        [
+          "danach / davor",
+          "ამის შემდეგ / ამის წინ",
+          "Danach rufe ich dich an."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "თუ ამ სიტყვებს პირველ ადგილზე დგამ, ზმნა მათ უშუალოდ მოსდევს: **Trotzdem gehen wir.** (არა: trotzdem wir gehen)."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Es ist spät, trotzdem arbeite ich.",
+      "ph": "ეს ისტ შპეტ, ტროცდემ არბაიტე იხ.",
+      "ka": "გვიანია, მაგრამ მაინც ვმუშაობ."
+    },
+    {
+      "de": "Er ist nett, außerdem ist er klug.",
+      "ph": "ერ ისტ ნეტ, აუსერდემ ისტ ერ კლუგ.",
+      "ka": "ის კარგია, გარდა ამისა ჭკვიანიცაა."
+    },
+    {
+      "de": "Beeil dich, sonst verpasst du den Zug.",
+      "ph": "ბეაილ დიხ, ზონსტ ფერპასტ დუ დენ ცუგ.",
+      "ka": "იჩქარე, თორემ მატარებელს დაგაგვიანდება."
+    },
+    {
+      "de": "Zuerst essen wir, danach gehen wir.",
+      "ph": "ცუერსტ ესენ ვირ, დანახ გეენ ვირ.",
+      "ka": "ჯერ ვჭამთ, მერე მივდივართ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Trotzdem ich gehe.",
+      "right": "Trotzdem gehe ich.",
+      "why": "trotzdem-ის შემდეგ ზმნა მეორე ადგილზეა."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b1-016"
+  ]
+}

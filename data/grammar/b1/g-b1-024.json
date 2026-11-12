@@ -1,0 +1,85 @@
+{
+  "id": "g-b1-024",
+  "level": "B1",
+  "title": "წინადადების ზმნიზედები: leider, hoffentlich, wahrscheinlich",
+  "category": "სიტყვათა გამოყენება",
+  "summary": "ზმნიზედები, რომლებიც მთელ წინადადებაზე კომენტარს აკეთებს, ჩვეულებრივ **ზმნის შემდეგ** ან წინადადების დასაწყისში დგას.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "სიტყვა",
+        "მნიშვნელობა"
+      ],
+      "rows": [
+        [
+          "leider",
+          "სამწუხაროდ"
+        ],
+        [
+          "hoffentlich",
+          "იმედია"
+        ],
+        [
+          "wahrscheinlich",
+          "ალბათ"
+        ],
+        [
+          "vielleicht",
+          "შესაძლოა"
+        ],
+        [
+          "sicher / bestimmt",
+          "რა თქმა უნდა, აუცილებლად"
+        ],
+        [
+          "eigentlich",
+          "სინამდვილეში"
+        ],
+        [
+          "natürlich",
+          "რა თქმა უნდა"
+        ],
+        [
+          "sogar",
+          "თუნდაც, კიდევაც"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**Leider kann ich nicht kommen.** და **Ich kann leider nicht kommen.** ორივე სწორია. პირველი ხაზს უსვამს სამწუხარო ფაქტს."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Leider habe ich keine Zeit.",
+      "ph": "ლაიდერ ჰაბე იხ კაინე ცაიტ.",
+      "ka": "სამწუხაროდ დრო არ მაქვს."
+    },
+    {
+      "de": "Er kommt wahrscheinlich morgen.",
+      "ph": "ერ კომტ ვარშაინლიხ მორგენ.",
+      "ka": "ის ალბათ ხვალ მოვა."
+    },
+    {
+      "de": "Hoffentlich regnet es nicht.",
+      "ph": "ჰოფენტლიხ რეგნეტ ეს ნიხტ.",
+      "ka": "იმედია, არ იწვიმებს."
+    },
+    {
+      "de": "Das ist eigentlich ganz einfach.",
+      "ph": "დას ისტ აიგენტლიხ განც აინფახ.",
+      "ka": "ეს სინამდვილეში ძალიან მარტივია."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich leider kann nicht.",
+      "right": "Ich kann leider nicht.",
+      "why": "ზმნიზედა ზმნის შემდეგ დგას."
+    }
+  ],
+  "requires": [],
+  "next": []
+}

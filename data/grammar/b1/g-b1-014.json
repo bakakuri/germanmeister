@@ -1,0 +1,76 @@
+{
+  "id": "g-b1-014",
+  "level": "B1",
+  "title": "als, wenn და wann",
+  "category": "სინტაქსი",
+  "summary": "სამივე „როცა“-ს ნიშნავს, მაგრამ სხვადასხვა კონტექსტშია: **als** — ერთჯერადი წარსული, **wenn** — განმეორებადი ან მომავალი, **wann** — კითხვა.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "სიტყვა",
+        "როდის",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "als",
+          "ერთჯერადი წარსული",
+          "Als ich zehn war, zog ich nach Berlin."
+        ],
+        [
+          "wenn (წარსული)",
+          "განმეორებადი წარსული",
+          "Wenn ich Zeit hatte, ging ich schwimmen."
+        ],
+        [
+          "wenn (აწმყო/მომავალი)",
+          "აწმყო, მომავალი, პირობა",
+          "Wenn du kommst, koche ich."
+        ],
+        [
+          "wann",
+          "კითხვა: როდის?",
+          "Wann kommst du?"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "თუ საქმე ერთხელ მოხდა წარსულში — **als**. თუ რამდენჯერმე მოხდა ან ჯერ არ მომხდარა — **wenn**."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Als ich klein war, wohnte ich in Tiflis.",
+      "ph": "ალს იხ კლაინ ვარ, ვონტე იხ ინ ტფილის.",
+      "ka": "როცა პატარა ვიყავი, თბილისში ვცხოვრობდი."
+    },
+    {
+      "de": "Wenn es regnet, bleibe ich zu Hause.",
+      "ph": "ვენ ეს რეგნეტ, ბლაიბე იხ ცუ ჰაუზე.",
+      "ka": "როცა წვიმს, სახლში ვრჩები."
+    },
+    {
+      "de": "Wann kommst du nach Hause?",
+      "ph": "ვან კომსტ დუ ნახ ჰაუზე?",
+      "ka": "როდის მოდიხარ სახლში?"
+    },
+    {
+      "de": "Ich rufe an, wenn ich da bin.",
+      "ph": "იხ რუფე ან, ვენ იხ და ბინ.",
+      "ka": "დავრეკავ, როცა მივალ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Wenn ich klein war, wohnte ich hier.",
+      "right": "Als ich klein war, wohnte ich hier.",
+      "why": "ერთჯერადი ან კონკრეტული დროის მონაკვეთზე als გვჭირდება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b1-015"
+  ]
+}

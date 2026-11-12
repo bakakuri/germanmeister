@@ -1,0 +1,103 @@
+{
+  "id": "g-b1-005",
+  "level": "B1",
+  "title": "Passiv Präsens",
+  "category": "პასივი",
+  "summary": "**Passiv** მოქმედებას უსვამს ხაზს, არა შემსრულებელს. ის იქმნება **werden + Partizip II**. ახალი ქვემდებარე ისაა, რაც აქტივში ობიექტი იყო.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "Aktiv",
+        "Passiv"
+      ],
+      "rows": [
+        [
+          "Man baut das Haus.",
+          "Das Haus wird gebaut."
+        ],
+        [
+          "Der Koch macht das Essen.",
+          "Das Essen wird (vom Koch) gemacht."
+        ],
+        [
+          "Man spricht hier Deutsch.",
+          "Hier wird Deutsch gesprochen."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "პირი",
+        "werden"
+      ],
+      "rows": [
+        [
+          "ich",
+          "werde gefragt"
+        ],
+        [
+          "du",
+          "wirst gefragt"
+        ],
+        [
+          "er / sie / es",
+          "wird gefragt"
+        ],
+        [
+          "wir",
+          "werden gefragt"
+        ],
+        [
+          "ihr",
+          "werdet gefragt"
+        ],
+        [
+          "sie / Sie",
+          "werden gefragt"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "შემსრულებელი თუ საჭიროა: **von + Dativ** (ადამიანი), **durch + Akkusativ** (საშუალება, მიზეზი).",
+        "**werden** ორმაგ როლს ასრულებს: Passiv-ში და Futur-ში. Passiv-ში ბოლოს Partizip II დგას, Futur-ში — infinitiv."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Das Haus wird gebaut.",
+      "ph": "დას ჰაუს ვირდ გებაუტ.",
+      "ka": "სახლი შენდება."
+    },
+    {
+      "de": "Hier wird Deutsch gesprochen.",
+      "ph": "ჰირ ვირდ დოიჩ გეშპროხენ.",
+      "ka": "აქ გერმანულად ლაპარაკობენ."
+    },
+    {
+      "de": "Das Buch wird von vielen gelesen.",
+      "ph": "დას ბუხ ვირდ ფონ ფილენ გელეზენ.",
+      "ka": "წიგნს ბევრი კითხულობს."
+    },
+    {
+      "de": "Die Kinder werden abgeholt.",
+      "ph": "დი კინდერ ვერდენ აბგეჰოლტ.",
+      "ka": "ბავშვებს იბარებენ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Das Haus ist gebaut.",
+      "right": "Das Haus wird gebaut.",
+      "why": "პროცესზე werden გვჭირდება, sein მდგომარეობაზეა."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b1-006"
+  ]
+}

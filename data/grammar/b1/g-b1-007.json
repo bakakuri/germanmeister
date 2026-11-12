@@ -1,0 +1,94 @@
+{
+  "id": "g-b1-007",
+  "level": "B1",
+  "title": "Relativsätze",
+  "category": "სინტაქსი",
+  "summary": "**Relativsatz** სახელს განმარტავს: „კაცი, რომელიც …“. ნაცვალსახელი **სქესს და რიცხვს** სახელიდან იღებს, **ბრუნვას** კი თავისი წინადადებიდან. უღლებული ზმნა ბოლოშია.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Mask.",
+        "Fem.",
+        "Neutr.",
+        "Plural"
+      ],
+      "rows": [
+        [
+          "Nominativ",
+          "der",
+          "die",
+          "das",
+          "die"
+        ],
+        [
+          "Akkusativ",
+          "den",
+          "die",
+          "das",
+          "die"
+        ],
+        [
+          "Dativ",
+          "dem",
+          "der",
+          "dem",
+          "denen"
+        ],
+        [
+          "Genitiv",
+          "dessen",
+          "deren",
+          "dessen",
+          "deren"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "ტექნიკა: 1) იპოვე სახელი, 2) განსაზღვრე სქესი, 3) დაადგინე ბრუნვა ზმნის ან წინდებულის მიხედვით."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Der Mann, der dort steht, ist mein Vater.** (Nominativ: ვინ დგას?).",
+        "**Der Mann, den ich sehe, ist nett.** (Akkusativ: ვის ვხედავ?).",
+        "**Der Mann, mit dem ich spreche, …** (Dativ წინდებულის შემდეგ)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Das ist der Mann, der hier wohnt.",
+      "ph": "დას ისტ დერ მან, დერ ჰირ ვონტ.",
+      "ka": "ეს ის კაცია, ვინც აქ ცხოვრობს."
+    },
+    {
+      "de": "Die Frau, die ich kenne, ist Ärztin.",
+      "ph": "დი ფრაუ, დი იხ კენე, ისტ ერცტინ.",
+      "ka": "ქალი, რომელსაც ვიცნობ, ექიმია."
+    },
+    {
+      "de": "Das Buch, das ich lese, ist spannend.",
+      "ph": "დას ბუხ, დას იხ ლეზე, ისტ შპანენდ.",
+      "ka": "წიგნი, რომელსაც ვკითხულობ, საინტერესოა."
+    },
+    {
+      "de": "Das sind die Kinder, mit denen ich spiele.",
+      "ph": "დას ზინდ დი კინდერ, მით დენენ იხ შპილე.",
+      "ka": "ეს ბავშვებია, რომლებთანაც ვთამაშობ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Der Mann, der ich sehe",
+      "right": "Der Mann, den ich sehe",
+      "why": "ბრუნვას ზმნა განსაზღვრავს: ვხედავ → Akkusativ → den."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b1-008"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "g-b1-016",
+  "level": "B1",
+  "title": "ორნაწილიანი კავშირები",
+  "category": "სინტაქსი",
+  "summary": "ზოგი კავშირი ორი ნაწილისგან შედგება და ორივეს ერთად იყენებენ.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "კავშირი",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "entweder … oder",
+          "ან … ან",
+          "Entweder du kommst oder ich gehe."
+        ],
+        [
+          "sowohl … als auch",
+          "როგორც … ისე",
+          "Sowohl Anna als auch Ben kommen."
+        ],
+        [
+          "weder … noch",
+          "არც … არც",
+          "Er hat weder Zeit noch Geld."
+        ],
+        [
+          "nicht nur … sondern auch",
+          "არა მხოლოდ … არამედ",
+          "Sie ist nicht nur klug, sondern auch nett."
+        ],
+        [
+          "zwar … aber",
+          "მართალია … მაგრამ",
+          "Es ist zwar teuer, aber gut."
+        ],
+        [
+          "einerseits … andererseits",
+          "ერთი მხრივ … მეორე მხრივ",
+          "Einerseits will ich, andererseits kann ich nicht."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**weder … noch** თავისთავად უარყოფაა, **nicht** არ ემატება."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Entweder essen wir hier oder dort.",
+      "ph": "ენტვედერ ესენ ვირ ჰირ ოდერ დორტ.",
+      "ka": "ან აქ ვჭამთ, ან იქ."
+    },
+    {
+      "de": "Sowohl Anna als auch Ben sind da.",
+      "ph": "ზოვოლ ანა ალს აუხ ბენ ზინდ და.",
+      "ka": "როგორც ანა, ისე ბენი აქ არიან."
+    },
+    {
+      "de": "Er hat weder Zeit noch Lust.",
+      "ph": "ერ ჰატ ვედერ ცაიტ ნოხ ლუსტ.",
+      "ka": "მას არც დრო აქვს და არც სურვილი."
+    },
+    {
+      "de": "Es ist zwar teuer, aber schön.",
+      "ph": "ეს ისტ ცვარ ტოიერ, აბერ შოენ.",
+      "ka": "მართალია ძვირია, მაგრამ ლამაზია."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "weder Zeit noch nicht",
+      "right": "weder Zeit noch Lust",
+      "why": "weder … noch თავად უარყოფაა."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b1-017"
+  ]
+}

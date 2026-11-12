@@ -1,0 +1,116 @@
+{
+  "id": "g-b1-018",
+  "level": "B1",
+  "title": "ზმნები წინდებულებით: გაფართოებული სია",
+  "category": "ზმნები",
+  "summary": "მყარი წინდებულიანი ზმნების ცოდნა B1-ის ძირითადი ნაწილია. ისწავლე ზმნა, წინდებული და ბრუნვა ერთად.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ზმნა",
+        "წინდებული",
+        "ბრუნვა"
+      ],
+      "rows": [
+        [
+          "abhängen",
+          "von",
+          "Dativ"
+        ],
+        [
+          "sich ärgern",
+          "über",
+          "Akkusativ"
+        ],
+        [
+          "sich bewerben",
+          "um",
+          "Akkusativ"
+        ],
+        [
+          "sich beschweren",
+          "über / bei",
+          "Akkusativ / Dativ"
+        ],
+        [
+          "bestehen",
+          "aus / auf",
+          "Dativ / Dativ"
+        ],
+        [
+          "erzählen",
+          "von / über",
+          "Dativ / Akkusativ"
+        ],
+        [
+          "sich erinnern",
+          "an",
+          "Akkusativ"
+        ],
+        [
+          "Angst haben",
+          "vor",
+          "Dativ"
+        ],
+        [
+          "teilnehmen",
+          "an",
+          "Dativ"
+        ],
+        [
+          "sich verlieben",
+          "in",
+          "Akkusativ"
+        ],
+        [
+          "sich entscheiden",
+          "für",
+          "Akkusativ"
+        ],
+        [
+          "diskutieren",
+          "über",
+          "Akkusativ"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**sich entscheiden für** = რაღაცის არჩევა, **sich entscheiden zu** + infinitiv = გადაწყვეტა."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Das hängt vom Wetter ab.",
+      "ph": "დას ჰენგტ ფომ ვეტერ აბ.",
+      "ka": "ეს ამინდზეა დამოკიდებული."
+    },
+    {
+      "de": "Ich ärgere mich über den Lärm.",
+      "ph": "იხ ერგერე მიხ იუბერ დენ ლერმ.",
+      "ka": "ხმაურზე ვბრაზობ."
+    },
+    {
+      "de": "Er erinnert sich an seine Kindheit.",
+      "ph": "ერ ერინერტ ზიხ ან ზაინე კინდჰაიტ.",
+      "ka": "ის ბავშვობას იხსენებს."
+    },
+    {
+      "de": "Sie hat Angst vor dem Hund.",
+      "ph": "ზი ჰატ ანგსტ ფორ დემ ჰუნდ.",
+      "ka": "მას ძაღლის ეშინია."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe Angst für dem Hund.",
+      "right": "Ich habe Angst vor dem Hund.",
+      "why": "Angst haben ითხოვს წინდებულს vor + Dativ."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b1-019"
+  ]
+}

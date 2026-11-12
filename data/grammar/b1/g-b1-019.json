@@ -1,0 +1,104 @@
+{
+  "id": "g-b1-019",
+  "level": "B1",
+  "title": "lassen",
+  "category": "ზმნები",
+  "summary": "**lassen** სამ ძირითად მნიშვნელობას ფარავს: **დაძლევა** (დატოვება), **ნებართვა** და **მოქმედების სხვაზე დაკისრება**.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "დატოვება",
+          "Ich lasse das Buch zu Hause."
+        ],
+        [
+          "ნებართვა",
+          "Er lässt mich gehen."
+        ],
+        [
+          "სხვას გააკეთებინებს",
+          "Ich lasse mein Auto reparieren."
+        ],
+        [
+          "შესაძლებლობა (sich lassen)",
+          "Das lässt sich machen."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "პირი",
+        "lassen"
+      ],
+      "rows": [
+        [
+          "ich",
+          "lasse"
+        ],
+        [
+          "du",
+          "lässt"
+        ],
+        [
+          "er / sie / es",
+          "lässt"
+        ],
+        [
+          "wir",
+          "lassen"
+        ],
+        [
+          "ihr",
+          "lasst"
+        ],
+        [
+          "sie / Sie",
+          "lassen"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**lassen + infinitiv** ბოლოშია: **Ich lasse mir die Haare schneiden.** Perfekt-ში ორი infinitiv: **Ich habe mir die Haare schneiden lassen.**"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich lasse mein Auto reparieren.",
+      "ph": "იხ ლასე მაინ აუტო რეპარირენ.",
+      "ka": "მანქანას ვაკეთებინებ."
+    },
+    {
+      "de": "Er lässt das Kind spielen.",
+      "ph": "ერ ლესტ დას კინდ შპილენ.",
+      "ka": "ის ბავშვს თამაშის უფლებას აძლევს."
+    },
+    {
+      "de": "Lass mich in Ruhe!",
+      "ph": "ლას მიხ ინ რუე!",
+      "ka": "მომეცი მოსვენება!"
+    },
+    {
+      "de": "Wir lassen uns beraten.",
+      "ph": "ვირ ლასენ უნს ბერატენ.",
+      "ka": "კონსულტაციას ვიღებთ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich lasse reparieren mein Auto.",
+      "right": "Ich lasse mein Auto reparieren.",
+      "why": "infinitiv ბოლოშია."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b1-020"
+  ]
+}

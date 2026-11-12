@@ -1,0 +1,125 @@
+{
+  "id": "g-b1-003",
+  "level": "B1",
+  "title": "Konjunktiv II: wäre, hätte, würde",
+  "category": "კონიუნქტივი",
+  "summary": "**Konjunktiv II** არარეალურ, წარმოსახვით ან თავაზიან გამოთქმას გამოხატავს. ყველაზე მარტივი ფორმებია **wäre, hätte, würde + infinitiv** და მოდალური ზმნები.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "პირი",
+        "sein",
+        "haben",
+        "werden",
+        "können"
+      ],
+      "rows": [
+        [
+          "ich",
+          "wäre",
+          "hätte",
+          "würde",
+          "könnte"
+        ],
+        [
+          "du",
+          "wärst",
+          "hättest",
+          "würdest",
+          "könntest"
+        ],
+        [
+          "er / sie / es",
+          "wäre",
+          "hätte",
+          "würde",
+          "könnte"
+        ],
+        [
+          "wir",
+          "wären",
+          "hätten",
+          "würden",
+          "könnten"
+        ],
+        [
+          "ihr",
+          "wärt",
+          "hättet",
+          "würdet",
+          "könntet"
+        ],
+        [
+          "sie / Sie",
+          "wären",
+          "hätten",
+          "würden",
+          "könnten"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "გამოყენება",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "არარეალური სურვილი",
+          "Ich wäre gern reich."
+        ],
+        [
+          "რჩევა",
+          "Du solltest mehr schlafen."
+        ],
+        [
+          "თავაზიანობა",
+          "Könnten Sie mir helfen?"
+        ],
+        [
+          "წარმოსახვა",
+          "Was würdest du tun?"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "ძლიერ ზმნებს ხშირად **würde + infinitiv** ანაცვლებს: **ich würde gehen** (და არა: ich ginge, რაც წერილობითია)."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich wäre gern in Italien.",
+      "ph": "იხ ვერე გერნ ინ იტალიენ.",
+      "ka": "იტალიაში მინდოდა ვყოფილიყავი."
+    },
+    {
+      "de": "Wenn ich Zeit hätte, würde ich reisen.",
+      "ph": "ვენ იხ ცაიტ ჰეტე, ვიურდე იხ რაიზენ.",
+      "ka": "დრო რომ მქონოდა, ვიმოგზაურებდი."
+    },
+    {
+      "de": "Das wäre schön.",
+      "ph": "დას ვერე შოენ.",
+      "ka": "ეს კარგი იქნებოდა."
+    },
+    {
+      "de": "An deiner Stelle würde ich warten.",
+      "ph": "ან დაინერ შტელე ვიურდე იხ ვარტენ.",
+      "ka": "შენს ადგილას დაველოდებოდი."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Wenn ich Geld habe, würde ich reisen.",
+      "right": "Wenn ich Geld hätte, würde ich reisen.",
+      "why": "არარეალურ პირობაში ორივე ნაწილი Konjunktiv II-შია."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b1-004"
+  ]
+}
