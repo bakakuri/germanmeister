@@ -1,0 +1,107 @@
+:root {
+  color-scheme: light;
+
+  --bg: #f5f3fb;
+  --bg-soft: #ece9f7;
+  --card: #ffffff;
+  --card-2: #faf9fe;
+  --text: #2a2840;
+  --muted: #7a7794;
+  --line: #e6e2f4;
+
+  --accent: #6f5cdc;
+  --accent-soft: #e6e0fd;
+  --accent-ink: #ffffff;
+
+  --mint: #cdf1e1;
+  --mint-ink: #1d7656;
+  --peach: #ffe3d2;
+  --peach-ink: #b4552a;
+  --sky: #d5e9fb;
+  --sky-ink: #2866a3;
+  --rose: #ffdbe8;
+  --rose-ink: #b3345c;
+  --sun: #fff1bf;
+  --sun-ink: #86650a;
+
+  --good: #1d7656;
+  --bad: #b3345c;
+
+  --blob-1: #dcd2ff;
+  --blob-2: #ffd6e6;
+  --grad-hero: linear-gradient(135deg, #efe9ff 0%, #ffe9f2 100%);
+
+  --shadow: 0 6px 22px rgba(86, 66, 170, 0.08);
+  --shadow-sm: 0 2px 8px rgba(86, 66, 170, 0.07);
+
+  --r-lg: 22px;
+  --r-md: 16px;
+  --r-sm: 12px;
+  --hdr-h: 52px;
+  --tab-h: 60px;
+}
+
+[data-theme='dark'] {
+  color-scheme: dark;
+
+  --bg: #15141e;
+  --bg-soft: #1d1c2a;
+  --card: #232235;
+  --card-2: #1e1d2e;
+  --text: #ecebf8;
+  --muted: #a09dbb;
+  --line: #34324c;
+
+  --accent: #b2a6ff;
+  --accent-soft: #34305f;
+  --accent-ink: #17152a;
+
+  --mint: #1f4a3e;
+  --mint-ink: #8fe3c3;
+  --peach: #4b3326;
+  --peach-ink: #ffb38f;
+  --sky: #223c57;
+  --sky-ink: #9fcdf7;
+  --rose: #51283b;
+  --rose-ink: #ff9fc0;
+  --sun: #4a4020;
+  --sun-ink: #f2d776;
+
+  --good: #8fe3c3;
+  --bad: #ff9fc0;
+
+  --blob-1: #3a3170;
+  --blob-2: #5a2b46;
+  --grad-hero: linear-gradient(135deg, #2d2860 0%, #40283f 100%);
+
+  --shadow: 0 6px 22px rgba(0, 0, 0, 0.35);
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* der / die / das — საიტის მთავარი ფერადი კოდი */
+.art {
+  display: inline-block;
+  padding: 0 8px;
+  margin-right: 5px;
+  border-radius: 999px;
+  font-size: 0.82em;
+  font-weight: 800;
+  font-style: normal;
+  line-height: 1.55;
+  vertical-align: 0.05em;
+}
+
+.art-der {
+  background: var(--sky);
+  color: var(--sky-ink);
+}
+
+.art-die {
+  background: var(--rose);
+  color: var(--rose-ink);
+}
+
+.art-das {
+  background: var(--mint);
+  color: var(--mint-ink);
+}
