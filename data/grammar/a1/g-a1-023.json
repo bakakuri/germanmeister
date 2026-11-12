@@ -1,0 +1,88 @@
+{
+  "id": "g-a1-023",
+  "level": "A1",
+  "title": "კავშირები und, oder, aber, denn",
+  "category": "სინტაქსი",
+  "summary": "ეს ოთხი კავშირი წინადადებებს აერთიანებს და **სიტყვათა რიგს არ ცვლის**. ისინი „ნულოვან პოზიციაზე“ დგას: მათ შემდეგ ისევ ჩვეულებრივი წყობა გრძელდება.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "კავშირი",
+        "ნიშნავს",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "und",
+          "და",
+          "Ich lerne und du arbeitest."
+        ],
+        [
+          "oder",
+          "ან",
+          "Trinkst du Tee oder Kaffee?"
+        ],
+        [
+          "aber",
+          "მაგრამ",
+          "Ich will, aber ich kann nicht."
+        ],
+        [
+          "denn",
+          "რადგან",
+          "Ich bleibe, denn ich bin müde."
+        ],
+        [
+          "sondern",
+          "არამედ",
+          "Nicht heute, sondern morgen."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**aber** და **sondern** ორივე „მაგრამ/არამედ“ არის, მაგრამ **sondern** მხოლოდ უარყოფის შემდეგ გამოიყენება."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**denn**-ის შემდეგ ზმნა მეორე ადგილზეა, როგორც ჩვეულებრივ.",
+        "**weil** (რადგან) ამ ჯგუფს არ ეკუთვნის: მის შემდეგ ზმნა ბოლოში გადადის (A2)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich trinke Tee und du trinkst Kaffee.",
+      "ph": "იხ ტრინკე ტე უნდ დუ ტრინკსტ კაფე.",
+      "ka": "მე ჩაის ვსვამ, შენ ყავას."
+    },
+    {
+      "de": "Kommst du heute oder morgen?",
+      "ph": "კომსტ დუ ჰოიტე ოდერ მორგენ?",
+      "ka": "დღეს მოდიხარ თუ ხვალ?"
+    },
+    {
+      "de": "Ich bin müde, aber ich arbeite.",
+      "ph": "იხ ბინ მიუდე, აბერ იხ არბაიტე.",
+      "ka": "დაღლილი ვარ, მაგრამ ვმუშაობ."
+    },
+    {
+      "de": "Ich bleibe, denn es regnet.",
+      "ph": "იხ ბლაიბე, დენ ეს რეგნეტ.",
+      "ka": "ვრჩები, რადგან წვიმს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "denn ich bin müde",
+      "right": "denn ich bin müde",
+      "why": "denn-ის შემდეგ ზმნა მეორეა — ესაა სწორი; weil-ის შემდეგ ზმნა ბოლოშია."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a1-024"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "g-a1-025",
+  "level": "A1",
+  "title": "es gibt (არსებობს, არის)",
+  "category": "ზმნები",
+  "summary": "**Es gibt** + Akkusativ გამოხატავს არსებობას: „არის, გვაქვს, არსებობს“. ზმნა ყოველთვის **gibt**-ა, მრავლობითშიც.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "მხოლობითი",
+        "მრავლობითი"
+      ],
+      "rows": [
+        [
+          "Es gibt einen Park.",
+          "Es gibt zwei Parks."
+        ],
+        [
+          "Es gibt eine Bank.",
+          "Es gibt viele Banken."
+        ],
+        [
+          "Es gibt ein Café.",
+          "Es gibt keine Cafés."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**es gibt** ზოგადია („ქალაქში არის პარკი“); კონკრეტული საგნის ადგილს ამბობ **sein**-ით: **Der Park ist dort.**"
+    },
+    {
+      "type": "text",
+      "ka": "**Es gibt** აკუზატივს ითხოვს, ამიტომ მამრობითში **einen / keinen**: Es gibt **einen** Supermarkt."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Hier gibt es einen Supermarkt.",
+      "ph": "ჰირ გიბტ ეს აინენ ზუპერმარკტ.",
+      "ka": "აქ სუპერმარკეტია."
+    },
+    {
+      "de": "In der Stadt gibt es viele Kinos.",
+      "ph": "ინ დერ შტადტ გიბტ ეს ფილე კინოს.",
+      "ka": "ქალაქში ბევრი კინოა."
+    },
+    {
+      "de": "Gibt es hier ein Hotel?",
+      "ph": "გიბტ ეს ჰირ აინ ჰოტელ?",
+      "ka": "აქ სასტუმრო არის?"
+    },
+    {
+      "de": "Es gibt keine Milch.",
+      "ph": "ეს გიბტ კაინე მილხ.",
+      "ka": "რძე არ არის."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Es gibt ein Supermarkt.",
+      "right": "Es gibt einen Supermarkt.",
+      "why": "es gibt აკუზატივს ითხოვს."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a1-026"
+  ]
+}

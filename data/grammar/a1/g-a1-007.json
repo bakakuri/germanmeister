@@ -1,0 +1,102 @@
+{
+  "id": "g-a1-007",
+  "level": "A1",
+  "title": "უარყოფა: nicht და kein",
+  "category": "სინტაქსი",
+  "summary": "გერმანულად ორი უარყოფა არსებობს. **kein** არსებით სახელს უარყოფს, რომელსაც არტიკლი არ აქვს ან **ein** აქვს. **nicht** ყველაფერს სხვას უარყოფს: ზმნას, ზედსართავს, სახელს განსაზღვრული არტიკლით.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "რას უარყოფს",
+        "სიტყვა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "ein / უარტიკლო სახელი",
+          "kein",
+          "Ich habe kein Auto."
+        ],
+        [
+          "ზმნა",
+          "nicht (ბოლოს)",
+          "Ich schlafe nicht."
+        ],
+        [
+          "ზედსართავი",
+          "nicht + ზედსართავი",
+          "Das ist nicht gut."
+        ],
+        [
+          "der / mein + სახელი",
+          "nicht",
+          "Das ist nicht mein Haus."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Mask.",
+        "Fem.",
+        "Neutr.",
+        "Plural"
+      ],
+      "rows": [
+        [
+          "Nominativ",
+          "kein",
+          "keine",
+          "kein",
+          "keine"
+        ],
+        [
+          "Akkusativ",
+          "keinen",
+          "keine",
+          "kein",
+          "keine"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**kein** იცვლება ისევე, როგორც **ein**, მხოლოდ მრავლობითშიც აქვს ფორმა: keine Kinder."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich habe keine Zeit.",
+      "ph": "იხ ჰაბე კაინე ცაიტ.",
+      "ka": "დრო არ მაქვს."
+    },
+    {
+      "de": "Das ist kein Hund.",
+      "ph": "დას ისტ კაინ ჰუნდ.",
+      "ka": "ეს ძაღლი არ არის."
+    },
+    {
+      "de": "Er kommt nicht.",
+      "ph": "ერ კომტ ნიხტ.",
+      "ka": "ის არ მოდის."
+    },
+    {
+      "de": "Ich sehe keinen Bus.",
+      "ph": "იხ ზეე კაინენ ბუს.",
+      "ka": "ავტობუსს ვერ ვხედავ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe nicht Zeit.",
+      "right": "Ich habe keine Zeit.",
+      "why": "არტიკლის გარეშე არსებით სახელს kein უარყოფს, არა nicht."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a1-008"
+  ]
+}

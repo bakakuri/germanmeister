@@ -1,0 +1,90 @@
+{
+  "id": "g-a1-013",
+  "level": "A1",
+  "title": "რიცხვები 0-დან 100-მდე",
+  "category": "რიცხვითი სახელები",
+  "summary": "0–12 ცალკე უნდა ისწავლო. 13–19 ბოლოში **-zehn** ემატება. ათეულები **-zig**-ით იწყება. ორნიშნა რიცხვებში **ერთეული წინ მოდის**: 21 = „ერთი-და-ოცი“.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "რიცხვი",
+        "გერმანულად"
+      ],
+      "rows": [
+        [
+          "0–5",
+          "null, eins, zwei, drei, vier, fünf"
+        ],
+        [
+          "6–10",
+          "sechs, sieben, acht, neun, zehn"
+        ],
+        [
+          "11–12",
+          "elf, zwölf"
+        ],
+        [
+          "13–19",
+          "dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn"
+        ],
+        [
+          "20, 30, 40",
+          "zwanzig, dreißig, vierzig"
+        ],
+        [
+          "50–90",
+          "fünfzig, sechzig, siebzig, achtzig, neunzig"
+        ],
+        [
+          "100",
+          "hundert"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "21 = **einundzwanzig**, 34 = **vierunddreißig**, 99 = **neunundneunzig**. ერთად იწერება, ერთი სიტყვაა."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**sechs → sech-zehn, sech-zig** (s ვარდება). **sieben → sieb-zehn, sieb-zig**.",
+        "**dreißig** (არა dreizig) და **eins → ein-**: einundzwanzig."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich bin zwanzig Jahre alt.",
+      "ph": "იხ ბინ ცვანციხ იარე ალტ.",
+      "ka": "მე ოცი წლის ვარ."
+    },
+    {
+      "de": "Wir haben drei Kinder.",
+      "ph": "ვირ ჰაბენ დრაი კინდერ.",
+      "ka": "სამი შვილი გვყავს."
+    },
+    {
+      "de": "Das kostet fünf Euro.",
+      "ph": "დას კოსტეტ ფიუნფ ოირო.",
+      "ka": "ეს ხუთი ევრო ღირს."
+    },
+    {
+      "de": "Sie ist dreiunddreißig.",
+      "ph": "ზი ისტ დრაიუნდდრაისიხ.",
+      "ka": "ის ოცდაცამეტი წლისაა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "zwanzigeins",
+      "right": "einundzwanzig",
+      "why": "ორნიშნა რიცხვებში ერთეული წინ დგას."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a1-014"
+  ]
+}

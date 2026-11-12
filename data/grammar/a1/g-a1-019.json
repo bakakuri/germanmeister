@@ -1,0 +1,112 @@
+{
+  "id": "g-a1-019",
+  "level": "A1",
+  "title": "ზმნები ხმოვნის ცვლით: e→i, a→ä",
+  "category": "ზმნები",
+  "summary": "ზოგ ძლიერ ზმნაში **du** და **er/sie/es** ფორმებში ფუძის ხმოვანი იცვლება. დანარჩენ პირებში ფუძე ჩვეულებრივია. ეს ყველა ზმნას არ ეხება, ამიტომ კარგად ისწავლე ხშირი ზმნები.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ცვლა",
+        "infinitiv",
+        "du",
+        "er / sie / es"
+      ],
+      "rows": [
+        [
+          "e → i",
+          "sprechen",
+          "sprichst",
+          "spricht"
+        ],
+        [
+          "e → i",
+          "geben",
+          "gibst",
+          "gibt"
+        ],
+        [
+          "e → i",
+          "essen",
+          "isst",
+          "isst"
+        ],
+        [
+          "e → ie",
+          "lesen",
+          "liest",
+          "liest"
+        ],
+        [
+          "e → ie",
+          "sehen",
+          "siehst",
+          "sieht"
+        ],
+        [
+          "a → ä",
+          "fahren",
+          "fährst",
+          "fährt"
+        ],
+        [
+          "a → ä",
+          "schlafen",
+          "schläfst",
+          "schläft"
+        ],
+        [
+          "a → ä",
+          "laufen",
+          "läufst",
+          "läuft"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**essen** და **lesen**-ში du-სა და er-ის ფორმა ერთნაირია: du isst, er isst. ორივეს ბოლოს **-st** აღარ ემატება."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**nehmen**: ich nehme, du **nimmst**, er **nimmt**.",
+        "**wissen** (ცოდნა): ich **weiß**, du **weißt**, er **weiß**, wir wissen."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Er spricht gut Deutsch.",
+      "ph": "ერ შპრიხტ გუტ დოიჩ.",
+      "ka": "ის კარგად ლაპარაკობს გერმანულად."
+    },
+    {
+      "de": "Du liest ein Buch.",
+      "ph": "დუ ლისტ აინ ბუხ.",
+      "ka": "შენ წიგნს კითხულობ."
+    },
+    {
+      "de": "Sie fährt nach Berlin.",
+      "ph": "ზი ფერტ ნახ ბერლინ.",
+      "ka": "ის ბერლინში მიდის."
+    },
+    {
+      "de": "Wir sehen den Hund.",
+      "ph": "ვირ ზეენ დენ ჰუნდ.",
+      "ka": "ჩვენ ძაღლს ვხედავთ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er sprecht Deutsch.",
+      "right": "Er spricht Deutsch.",
+      "why": "er-ის ფორმაში ფუძე იცვლება: e → i."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a1-020"
+  ]
+}

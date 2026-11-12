@@ -1,0 +1,129 @@
+{
+  "id": "g-a1-032",
+  "level": "A1",
+  "title": "გრამატიკის ძირითადი ცნებები",
+  "category": "საფუძვლები",
+  "summary": "გრამატიკის ტერმინები ყველგან ერთნაირია. აქ ის მინიმუმია, რაც შემდეგი თემების გასაგებად გჭირდება.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ცნება",
+        "ქართულად",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "Nomen",
+          "არსებითი სახელი",
+          "der Tisch, die Liebe"
+        ],
+        [
+          "Verb",
+          "ზმნა",
+          "gehen, sein"
+        ],
+        [
+          "Adjektiv",
+          "ზედსართავი",
+          "schön, groß"
+        ],
+        [
+          "Adverb",
+          "ზმნიზედა",
+          "heute, gern"
+        ],
+        [
+          "Pronomen",
+          "ნაცვალსახელი",
+          "ich, du, er"
+        ],
+        [
+          "Präposition",
+          "წინდებული",
+          "in, auf, mit"
+        ],
+        [
+          "Konjunktion",
+          "კავშირი",
+          "und, weil"
+        ],
+        [
+          "Artikel",
+          "არტიკლი",
+          "der, die, das, ein"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "წევრი",
+        "კითხვა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "Subjekt",
+          "ვინ? რა?",
+          "Anna liest ein Buch."
+        ],
+        [
+          "Prädikat",
+          "რას აკეთებს?",
+          "Anna liest ein Buch."
+        ],
+        [
+          "Objekt (Akk.)",
+          "ვის? რას?",
+          "Anna liest ein Buch."
+        ],
+        [
+          "Objekt (Dat.)",
+          "ვისთვის?",
+          "Anna gibt dem Kind ein Buch."
+        ],
+        [
+          "Adverbiale",
+          "როდის? სად? როგორ?",
+          "Anna liest heute im Park."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**Kasus** = ბრუნვა: Nominativ, Akkusativ, Dativ, Genitiv. **Genus** = სქესი (der, die, das). **Numerus** = რიცხვი (მხოლობითი, მრავლობითი). ეს სამი ყოველთვის ერთად მუშაობს."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Anna liest heute ein Buch.",
+      "ph": "ანა ლისტ ჰოიტე აინ ბუხ.",
+      "ka": "ანა დღეს წიგნს კითხულობს."
+    },
+    {
+      "de": "Der Lehrer gibt dem Kind ein Heft.",
+      "ph": "დერ ლერერ გიბტ დემ კინდ აინ ჰეფტ.",
+      "ka": "მასწავლებელი ბავშვს რვეულს აძლევს."
+    },
+    {
+      "de": "Wir wohnen in einem großen Haus.",
+      "ph": "ვირ ვონენ ინ აინემ გროსენ ჰაუს.",
+      "ka": "დიდ სახლში ვცხოვრობთ."
+    },
+    {
+      "de": "Er ist müde und geht früh schlafen.",
+      "ph": "ერ ისტ მიუდე უნდ გეტ ფრიუ შლაფენ.",
+      "ka": "ის დაღლილია და ადრე იძინებს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich lerne Deutsch gern.",
+      "right": "Ich lerne gern Deutsch.",
+      "why": "ზმნიზედა ობიექტის წინ დგას."
+    }
+  ],
+  "requires": [],
+  "next": []
+}

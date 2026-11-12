@@ -1,0 +1,89 @@
+{
+  "id": "g-a1-014",
+  "level": "A1",
+  "title": "საათი და დღის დრო",
+  "category": "დრო",
+  "summary": "ოფიციალურად საათი 24-საათიანი სისტემითაა: **Es ist vierzehn Uhr dreißig.** ყოველდღიურ საუბარში 12-საათიან ფორმას იყენებენ და ხშირად ამბობენ „სამზე ნახევარი“ ტიპის ფორმებს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "დრო",
+        "ყოველდღიური",
+        "ოფიციალური"
+      ],
+      "rows": [
+        [
+          "08:00",
+          "acht Uhr",
+          "acht Uhr"
+        ],
+        [
+          "08:15",
+          "Viertel nach acht",
+          "acht Uhr fünfzehn"
+        ],
+        [
+          "08:30",
+          "halb neun",
+          "acht Uhr dreißig"
+        ],
+        [
+          "08:45",
+          "Viertel vor neun",
+          "acht Uhr fünfundvierzig"
+        ],
+        [
+          "08:10",
+          "zehn nach acht",
+          "acht Uhr zehn"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**halb neun** ნიშნავს **8:30**-ს, ანუ „ცხრამდე ნახევარი“. ყველაზე ხშირი შეცდომა სწორედ ესაა."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**um** + საათი: **um acht Uhr** (რვა საათზე).",
+        "**Wie spät ist es? / Wie viel Uhr ist es?** — რომელი საათია?",
+        "**Wann?** — როდის? **Um wie viel Uhr?** — რომელ საათზე?"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Es ist acht Uhr.",
+      "ph": "ეს ისტ ახტ უარ.",
+      "ka": "რვა საათია."
+    },
+    {
+      "de": "Es ist halb neun.",
+      "ph": "ეს ისტ ჰალპ ნოინ.",
+      "ka": "რვა ნახევარია."
+    },
+    {
+      "de": "Der Zug kommt um zehn Uhr.",
+      "ph": "დერ ცუგ კომტ უმ ცეენ უარ.",
+      "ka": "მატარებელი ათ საათზე მოდის."
+    },
+    {
+      "de": "Wie spät ist es?",
+      "ph": "ვი შპეტ ისტ ეს?",
+      "ka": "რომელი საათია?"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "halb neun = 9:30",
+      "right": "halb neun = 8:30",
+      "why": "halb ნიშნავს მომდევნო საათამდე ნახევარს."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a1-015"
+  ]
+}

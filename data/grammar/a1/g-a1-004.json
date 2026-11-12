@@ -1,0 +1,83 @@
+{
+  "id": "g-a1-004",
+  "level": "A1",
+  "title": "haben (ქონა)",
+  "category": "ზმნები",
+  "summary": "**haben** ნიშნავს „ქონას“. ისევე, როგორც **sein**, უწესოდ უღლება და ძალიან ხშირად გვხვდება, რთულ დროებში დამხმარე ზმნადაც.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "პირი",
+        "haben"
+      ],
+      "rows": [
+        [
+          "ich",
+          "habe"
+        ],
+        [
+          "du",
+          "hast"
+        ],
+        [
+          "er / sie / es",
+          "hat"
+        ],
+        [
+          "wir",
+          "haben"
+        ],
+        [
+          "ihr",
+          "habt"
+        ],
+        [
+          "sie / Sie",
+          "haben"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**du hast** და **er hat**: შუა **b** ამოვარდება."
+    },
+    {
+      "type": "text",
+      "ka": "ასაკს გერმანულად ზმნა **sein**-ით ამბობენ: **Ich bin zwanzig Jahre alt.** ხოლო შეგრძნებებზე haben გვჭირდება: **Ich habe Hunger / Durst / Angst.**"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich habe einen Bruder.",
+      "ph": "იხ ჰაბე აინენ ბრუდერ.",
+      "ka": "მე ძმა მყავს."
+    },
+    {
+      "de": "Hast du Zeit?",
+      "ph": "ჰასტ დუ ცაიტ?",
+      "ka": "დრო გაქვს?"
+    },
+    {
+      "de": "Wir haben Hunger.",
+      "ph": "ვირ ჰაბენ ჰუნგერ.",
+      "ka": "ჩვენ გვშია."
+    },
+    {
+      "de": "Sie hat ein Auto.",
+      "ph": "ზი ჰატ აინ აუტო.",
+      "ka": "მას მანქანა აქვს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe zwanzig Jahre.",
+      "right": "Ich bin zwanzig Jahre alt.",
+      "why": "ასაკს ზმნა sein-ით გამოხატავენ."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a1-005"
+  ]
+}

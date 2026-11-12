@@ -1,0 +1,76 @@
+{
+  "id": "g-a1-010",
+  "level": "A1",
+  "title": "Nominativ და Akkusativ",
+  "category": "არსებითი სახელი",
+  "summary": "**Nominativ** ქვემდებარეა: ვინ? რა? **Akkusativ** პირდაპირი ობიექტია: ვის? რას? ცვლილება ჩანს მხოლოდ **მამრობითში**: der → **den**, ein → **einen**.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Mask.",
+        "Fem.",
+        "Neutr.",
+        "Plural"
+      ],
+      "rows": [
+        [
+          "Nominativ",
+          "der / ein",
+          "die / eine",
+          "das / ein",
+          "die"
+        ],
+        [
+          "Akkusativ",
+          "den / einen",
+          "die / eine",
+          "das / ein",
+          "die"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "თუ სახელი მდედრობითია, საშუალია ან მრავლობითი, Akkusativ და Nominativ **ერთნაირია**. იცვლება მხოლოდ მამრობითი."
+    },
+    {
+      "type": "text",
+      "ka": "Akkusativ-ს ითხოვს ბევრი ძირითადი ზმნა: **haben, sehen, kaufen, essen, trinken, machen, brauchen, lieben.**"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich sehe den Mann.",
+      "ph": "იხ ზეე დენ მან.",
+      "ka": "მე კაცს ვხედავ."
+    },
+    {
+      "de": "Er kauft einen Tisch.",
+      "ph": "ერ კაუფტ აინენ ტიშ.",
+      "ka": "ის მაგიდას ყიდულობს."
+    },
+    {
+      "de": "Wir essen das Brot.",
+      "ph": "ვირ ესენ დას ბროტ.",
+      "ka": "ჩვენ პურს ვჭამთ."
+    },
+    {
+      "de": "Sie trinkt eine Cola.",
+      "ph": "ზი ტრინკტ აინე კოლა.",
+      "ka": "ის კოლას სვამს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich sehe der Mann.",
+      "right": "Ich sehe den Mann.",
+      "why": "პირდაპირი ობიექტი მამრობითში Akkusativ-შია: den."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a1-011"
+  ]
+}

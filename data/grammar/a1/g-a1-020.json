@@ -1,0 +1,95 @@
+{
+  "id": "g-a1-020",
+  "level": "A1",
+  "title": "ადგილისა და მიმართულების წინდებულები",
+  "category": "წინდებულები",
+  "summary": "რამდენიმე წინდებული ყოველთვის **Dativ**-ს ითხოვს: **aus, bei, mit, nach, seit, von, zu**. ისინი კითხვას **Wo? Woher? Wohin?** უპასუხებენ.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "წინდებული",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "aus",
+          "საიდან (ქვეყნიდან)",
+          "Ich komme aus Georgien."
+        ],
+        [
+          "in",
+          "სად (ქვეყანაში, ქალაქში)",
+          "Ich wohne in Berlin."
+        ],
+        [
+          "nach",
+          "საით (ქალაქი, ქვეყანა)",
+          "Ich fahre nach Wien."
+        ],
+        [
+          "zu",
+          "ვისთან / სადმე წასვლა",
+          "Ich gehe zum Arzt."
+        ],
+        [
+          "bei",
+          "ვისთან / სადმე",
+          "Ich bin bei Anna."
+        ],
+        [
+          "mit",
+          "ვისთან ერთად, რით",
+          "Ich fahre mit dem Bus."
+        ],
+        [
+          "von",
+          "ვისგან / საიდან",
+          "Das Buch ist von Ben."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**zu + dem = zum**, **zu + der = zur**, **bei + dem = beim**, **von + dem = vom**, **in + dem = im**, **an + dem = am**."
+    },
+    {
+      "type": "text",
+      "ka": "ქვეყნებზე და ქალაქებზე: **nach** (საით), **in** (სად), **aus** (საიდან): **Ich fahre nach Deutschland. Ich wohne in Deutschland. Ich komme aus Deutschland.**"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Ich komme aus Georgien.",
+      "ph": "იხ კომე აუს გეორგიენ.",
+      "ka": "მე საქართველოდან ვარ."
+    },
+    {
+      "de": "Wir fahren nach Hamburg.",
+      "ph": "ვირ ფარენ ნახ ჰამბურგ.",
+      "ka": "ჰამბურგში მივდივართ."
+    },
+    {
+      "de": "Sie fährt mit dem Bus.",
+      "ph": "ზი ფერტ მით დემ ბუს.",
+      "ka": "ის ავტობუსით მიდის."
+    },
+    {
+      "de": "Ich gehe zum Arzt.",
+      "ph": "იხ გეე ცუმ არცტ.",
+      "ka": "ექიმთან მივდივარ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "mit der Bus",
+      "right": "mit dem Bus",
+      "why": "mit ყოველთვის Dativ-ს ითხოვს, Bus მამრობითია: dem."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-a1-021"
+  ]
+}
