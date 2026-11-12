@@ -1,0 +1,81 @@
+{
+  "id": "g-b2-016",
+  "level": "B2",
+  "title": "Relativsätze: was, wo, wer და წინდებულიანი",
+  "category": "სინტაქსი",
+  "summary": "როცა სახელი არ არის, ან წინადადებას გულისხმობ, გამოიყენება **was**, **wo**, **wer**. **was** მიემართება: **alles, nichts, etwas, das**, ზედსართავის არსებითობას.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "სიტყვა",
+        "როდის",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "was",
+          "alles, nichts, etwas, das, ზედსართავი-არსებითი",
+          "Alles, was du sagst, stimmt."
+        ],
+        [
+          "wo",
+          "ადგილი, დრო",
+          "Die Stadt, wo ich wohne, ist klein."
+        ],
+        [
+          "wer",
+          "ვინც (ზოგადი)",
+          "Wer das weiß, soll es sagen."
+        ],
+        [
+          "წინდებული + ნაცვალსახელი",
+          "მყარი",
+          "Das Haus, in dem ich wohne, ist alt."
+        ],
+        [
+          "worüber, womit …",
+          "წინადადებაზე",
+          "Er hat gewonnen, worüber ich mich freue."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**das, was** = „ის, რაც“: **Das, was du sagst, stimmt.** **Alles, was** — ყველაფერი რაც."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Alles, was du sagst, ist richtig.",
+      "ph": "ალეს, ვას დუ ზაგსტ, ისტ რიხტიგ.",
+      "ka": "რასაც ამბობ, ყველაფერი სწორია."
+    },
+    {
+      "de": "Ich habe nichts, was ich dir geben kann.",
+      "ph": "იხ ჰაბე ნიხტს, ვას იხ დირ გებენ კან.",
+      "ka": "არაფერი მაქვს, რაც მოგცე."
+    },
+    {
+      "de": "Das Haus, in dem ich wohne, ist alt.",
+      "ph": "დას ჰაუს, ინ დემ იხ ვონე, ისტ ალტ.",
+      "ka": "სახლი, სადაც ვცხოვრობ, ძველია."
+    },
+    {
+      "de": "Wer das weiß, soll sich melden.",
+      "ph": "ვერ დას ვაის, ზოლ ზიხ მელდენ.",
+      "ka": "ვინც ეს იცის, გამოვიდეს."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Alles, das du sagst",
+      "right": "Alles, was du sagst",
+      "why": "alles-ის შემდეგ was გამოიყენება და არა das."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-017"
+  ]
+}

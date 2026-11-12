@@ -1,0 +1,91 @@
+{
+  "id": "g-b2-020",
+  "level": "B2",
+  "title": "რაოდენობის სიტყვები: viele, einige, alle, manche…",
+  "category": "ზედსართავი",
+  "summary": "რაოდენობის სიტყვები არსებით სახელთან ხშირია. ზოგი **ზედსართავივით** იცვლება: **viele, wenige, einige, mehrere, andere**. მათ შემდეგ ზედსართავს იგივე ბოლოსართი აქვს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "სიტყვა",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "viele",
+          "ბევრი",
+          "viele neue Wörter"
+        ],
+        [
+          "wenige",
+          "ცოტა",
+          "wenige gute Freunde"
+        ],
+        [
+          "einige",
+          "რამდენიმე",
+          "einige alte Bücher"
+        ],
+        [
+          "mehrere",
+          "რამდენიმე",
+          "mehrere kleine Kinder"
+        ],
+        [
+          "alle",
+          "ყველა",
+          "alle guten Menschen"
+        ],
+        [
+          "manche",
+          "ზოგი",
+          "manche jungen Leute"
+        ],
+        [
+          "beide",
+          "ორივე",
+          "beide neuen Autos"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**alle** და **beide**-ს შემდეგ ზედსართავი **-en**-ს იღებს; **viele, wenige, einige, mehrere**-ს შემდეგ — არტიკლის გარეშე ზედსართავივით: **-e (Nom./Akk.)**."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Viele junge Leute lernen Deutsch.",
+      "ph": "ფილე იუნგე ლოიტე ლერნენ დოიჩ.",
+      "ka": "ბევრი ახალგაზრდა სწავლობს გერმანულს."
+    },
+    {
+      "de": "Ich habe einige alte Bücher.",
+      "ph": "იხ ჰაბე აინიგე ალტე ბიუხერ.",
+      "ka": "რამდენიმე ძველი წიგნი მაქვს."
+    },
+    {
+      "de": "Alle neuen Wörter sind wichtig.",
+      "ph": "ალე ნოიენ ვოერტერ ზინდ ვიხტიგ.",
+      "ka": "ყველა ახალი სიტყვა მნიშვნელოვანია."
+    },
+    {
+      "de": "Beide Kinder sind klein.",
+      "ph": "ბაიდე კინდერ ზინდ კლაინ.",
+      "ka": "ორივე ბავშვი პატარაა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "alle gute Menschen",
+      "right": "alle guten Menschen",
+      "why": "alle-ს შემდეგ ზედსართავს -en ბოლოსართი სჭირდება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-021"
+  ]
+}

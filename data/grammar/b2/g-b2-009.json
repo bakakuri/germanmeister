@@ -1,0 +1,75 @@
+{
+  "id": "g-b2-009",
+  "level": "B2",
+  "title": "je … desto და შედარებითი კონსტრუქციები",
+  "category": "სინტაქსი",
+  "summary": "**je … desto/umso** მიმდევრობით ზრდას გამოხატავს: „რაც … მით …“. ორივე ნაწილში **Komparativ** დგას.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "კონსტრუქცია",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "je + Komparativ, desto + Komparativ",
+          "Je mehr du lernst, desto besser wirst du."
+        ],
+        [
+          "immer + Komparativ",
+          "Es wird immer kälter."
+        ],
+        [
+          "genauso … wie",
+          "Er ist genauso alt wie ich."
+        ],
+        [
+          "nicht so … wie",
+          "Er ist nicht so schnell wie du."
+        ],
+        [
+          "als ob + Konjunktiv II",
+          "Er tut, als ob er schliefe."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**je**-ს ნაწილში ზმნა ბოლოშია (Nebensatz), **desto**-ს ნაწილში კი ზმნა დაუყოვნებლივ მოსდევს: **desto besser wirst du**."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Je mehr ich lerne, desto besser verstehe ich.",
+      "ph": "იე მერ იხ ლერნე, დესტო ბესერ ფერშტეე იხ.",
+      "ka": "რაც მეტს ვსწავლობ, მით უკეთ ვხვდები."
+    },
+    {
+      "de": "Es wird immer wärmer.",
+      "ph": "ეს ვირდ იმერ ვერმერ.",
+      "ka": "სულ უფრო თბილა."
+    },
+    {
+      "de": "Er ist genauso groß wie sein Vater.",
+      "ph": "ერ ისტ გენაუზო გროს ვი ზაინ ფატერ.",
+      "ka": "ის მამამისივით მაღალია."
+    },
+    {
+      "de": "Je älter er wird, desto ruhiger wird er.",
+      "ph": "იე ელტერ ერ ვირდ, დესტო რუიგერ ვირდ ერ.",
+      "ka": "რაც უფროსდება, მით უფრო წყნარდება."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Je mehr lerne ich, desto besser.",
+      "right": "Je mehr ich lerne, desto besser.",
+      "why": "je-ს ნაწილში ზმნა ბოლოშია."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-010"
+  ]
+}

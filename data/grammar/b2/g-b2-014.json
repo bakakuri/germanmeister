@@ -1,0 +1,96 @@
+{
+  "id": "g-b2-014",
+  "level": "B2",
+  "title": "ზედსართავები წინდებულით",
+  "category": "ზედსართავი",
+  "summary": "ბევრ ზედსართავს თავისი მყარი წინდებული აქვს, რომელიც ბრუნვას განსაზღვრავს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ზედსართავი + წინდებული",
+        "ბრუნვა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "stolz auf",
+          "Akk.",
+          "Ich bin stolz auf dich."
+        ],
+        [
+          "zufrieden mit",
+          "Dat.",
+          "Er ist zufrieden mit dem Ergebnis."
+        ],
+        [
+          "interessiert an",
+          "Dat.",
+          "Sie ist an Kunst interessiert."
+        ],
+        [
+          "abhängig von",
+          "Dat.",
+          "Das ist abhängig vom Wetter."
+        ],
+        [
+          "verantwortlich für",
+          "Akk.",
+          "Er ist für das Projekt verantwortlich."
+        ],
+        [
+          "typisch für",
+          "Akk.",
+          "Das ist typisch für ihn."
+        ],
+        [
+          "bereit zu",
+          "Dat.",
+          "Ich bin zu allem bereit."
+        ],
+        [
+          "fähig zu",
+          "Dat.",
+          "Sie ist zu viel fähig."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "ზედსართავი + წინდებული = **sein**-ის კონსტრუქცია: **Ich bin stolz auf dich.** (არა: Ich stolz bin auf dich.)"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Wir sind stolz auf unser Team.",
+      "ph": "ვირ ზინდ შტოლც აუფ უნზერ ტიმ.",
+      "ka": "ჩვენი გუნდით ვამაყობთ."
+    },
+    {
+      "de": "Er ist mit dem Ergebnis zufrieden.",
+      "ph": "ერ ისტ მით დემ ერგებნის ცუფრიდენ.",
+      "ka": "შედეგით კმაყოფილია."
+    },
+    {
+      "de": "Ich bin an diesem Job interessiert.",
+      "ph": "იხ ბინ ან დიზემ ჯობ ინტერესირტ.",
+      "ka": "ეს სამუშაო მაინტერესებს."
+    },
+    {
+      "de": "Das ist typisch für Berlin.",
+      "ph": "დას ისტ ტიპიშ ფიურ ბერლინ.",
+      "ka": "ეს ბერლინისთვის დამახასიათებელია."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "stolz über dich",
+      "right": "stolz auf dich",
+      "why": "stolz auf + Akkusativ."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-015"
+  ]
+}

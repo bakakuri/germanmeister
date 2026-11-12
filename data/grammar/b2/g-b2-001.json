@@ -1,0 +1,121 @@
+{
+  "id": "g-b2-001",
+  "level": "B2",
+  "title": "Konjunktiv I და ირიბი თხრობა",
+  "category": "კონიუნქტივი",
+  "summary": "**ირიბ თხრობაში** (Indirekte Rede) წერილობით და ოფიციალურ სტილში გამოიყენება **Konjunktiv I**: ის უცხო სიტყვებს გადმოსცემს ისე, რომ მოლაპარაკის ვალდებულება არ იქნეს ნათქვამი.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "პირი",
+        "sein",
+        "haben",
+        "kommen"
+      ],
+      "rows": [
+        [
+          "ich",
+          "sei",
+          "habe",
+          "komme"
+        ],
+        [
+          "du",
+          "seist",
+          "habest",
+          "kommest"
+        ],
+        [
+          "er / sie / es",
+          "sei",
+          "habe",
+          "komme"
+        ],
+        [
+          "wir",
+          "seien",
+          "haben",
+          "kommen"
+        ],
+        [
+          "ihr",
+          "seiet",
+          "habet",
+          "kommet"
+        ],
+        [
+          "sie / Sie",
+          "seien",
+          "haben",
+          "kommen"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "პირდაპირი",
+        "ირიბი"
+      ],
+      "rows": [
+        [
+          "Er sagt: „Ich bin müde.“",
+          "Er sagt, er sei müde."
+        ],
+        [
+          "Sie sagt: „Ich habe keine Zeit.“",
+          "Sie sagt, sie habe keine Zeit."
+        ],
+        [
+          "Sie sagte: „Ich war krank.“",
+          "Sie sagte, sie sei krank gewesen."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "თუ Konjunktiv I ფორმა Indikativ-ის ტოლია (wir kommen, sie haben), იყენებენ **Konjunktiv II**-ს ან **würde + infinitiv**: **Sie sagten, sie hätten keine Zeit.**"
+    },
+    {
+      "type": "list",
+      "items": [
+        "კითხვა ირიბ თხრობაში: **ob** ან W-სიტყვა: **Er fragte, ob sie komme.**",
+        "ბრძანება: **Er sagte, sie solle kommen.** (sollen + infinitiv)"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Er sagt, er sei müde.",
+      "ph": "ერ ზაგტ, ერ ზაი მიუდე.",
+      "ka": "ის ამბობს, რომ დაღლილია."
+    },
+    {
+      "de": "Sie behauptet, sie habe keine Zeit.",
+      "ph": "ზი ბეჰაუპტეტ, ზი ჰაბე კაინე ცაიტ.",
+      "ka": "ის ირწმუნება, რომ დრო არ აქვს."
+    },
+    {
+      "de": "Der Minister sagte, er komme morgen.",
+      "ph": "დერ მინისტერ ზაგტე, ერ კომე მორგენ.",
+      "ka": "მინისტრმა თქვა, რომ ხვალ მოვა."
+    },
+    {
+      "de": "Sie fragte, ob er schon gegangen sei.",
+      "ph": "ზი ფრაგტე, ობ ერ შონ გეგანგენ ზაი.",
+      "ka": "მან ჰკითხა, წავიდა თუ არა უკვე."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er sagt, er ist müde.",
+      "right": "Er sagt, er sei müde.",
+      "why": "ირიბ თხრობაში წერილობით Konjunktiv I სწორია."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-002"
+  ]
+}

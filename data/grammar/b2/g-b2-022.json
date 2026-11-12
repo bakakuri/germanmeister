@@ -1,0 +1,79 @@
+{
+  "id": "g-b2-022",
+  "level": "B2",
+  "title": "მიზეზის გამოხატვა: da, zumal, weshalb",
+  "category": "სინტაქსი",
+  "summary": "მიზეზის გამოხატვა **weil**-ის გარდა სხვა სიტყვებითაც შეიძლება. ისინი სტილისტურად მაღალია.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "კავშირი",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "da",
+          "რადგან (ცნობილი მიზეზი)",
+          "Da es regnet, bleibe ich."
+        ],
+        [
+          "zumal",
+          "მით უმეტეს, რომ",
+          "Ich bleibe, zumal es regnet."
+        ],
+        [
+          "denn",
+          "რადგან (Hauptsatz)",
+          "Ich bleibe, denn es regnet."
+        ],
+        [
+          "weshalb / weswegen",
+          "ამიტომაც",
+          "Er ist krank, weshalb er fehlt."
+        ],
+        [
+          "nämlich",
+          "ხომ, სწორედ",
+          "Er fehlt; er ist nämlich krank."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**da** ხშირად წინადადების დასაწყისშია, **weil** ხშირად მეორე ნაწილში მოდის. **da** ცნობილ მიზეზს ეხება, **weil** კი ახალ ინფორმაციას გვაწვდის."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Da es regnet, bleiben wir zu Hause.",
+      "ph": "და ეს რეგნეტ, ბლაიბენ ვირ ცუ ჰაუზე.",
+      "ka": "რადგან წვიმს, სახლში ვრჩებით."
+    },
+    {
+      "de": "Ich komme nicht, zumal ich krank bin.",
+      "ph": "იხ კომე ნიხტ, ცუმალ იხ კრანკ ბინ.",
+      "ka": "არ მოვალ, მით უმეტეს, რომ ავად ვარ."
+    },
+    {
+      "de": "Er fehlt; er ist nämlich krank.",
+      "ph": "ერ ფელტ; ერ ისტ ნემლიხ კრანკ.",
+      "ka": "ის არ არის, რადგან ავად არის."
+    },
+    {
+      "de": "Er ist krank, weshalb er fehlt.",
+      "ph": "ერ ისტ კრანკ, ვესჰალპ ერ ფელტ.",
+      "ka": "ის ავადაა, ამიტომ არ არის."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Da ich bin müde",
+      "right": "Da ich müde bin",
+      "why": "da-ს შემდეგ ზმნა ბოლოშია."
+    }
+  ],
+  "requires": [],
+  "next": []
+}

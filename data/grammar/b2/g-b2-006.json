@@ -1,0 +1,66 @@
+{
+  "id": "g-b2-006",
+  "level": "B2",
+  "title": "Futur II",
+  "category": "დროები",
+  "summary": "**Futur II** (**werden + Partizip II + haben/sein**) ან მომავალში დასრულებულ მოქმედებას ან ვარაუდს წარსულზე გამოხატავს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "სახე",
+        "მაგალითი",
+        "მნიშვნელობა"
+      ],
+      "rows": [
+        [
+          "მომავალში დასრულდება",
+          "Bis morgen werde ich es geschafft haben.",
+          "ხვალისთვის შევძლებ."
+        ],
+        [
+          "ვარაუდი წარსულზე",
+          "Er wird wohl schon angekommen sein.",
+          "ალბათ უკვე ჩამოვიდა."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "Futur II იშვიათია. ხშირად Perfekt + დროის ზმნიზედა ცვლის: **Bis morgen habe ich es geschafft.**"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Bis Freitag werde ich das gelesen haben.",
+      "ph": "ბის ფრაიტაგ ვერდე იხ დას გელეზენ ჰაბენ.",
+      "ka": "პარასკევისთვის ამას წავიკითხავ."
+    },
+    {
+      "de": "Sie wird schon gegangen sein.",
+      "ph": "ზი ვირდ შონ გეგანგენ ზაინ.",
+      "ka": "ალბათ უკვე წავიდა."
+    },
+    {
+      "de": "Er wird es vergessen haben.",
+      "ph": "ერ ვირდ ეს ფერგესენ ჰაბენ.",
+      "ka": "ალბათ დაავიწყდა."
+    },
+    {
+      "de": "Nächstes Jahr werden wir umgezogen sein.",
+      "ph": "ნექსტეს იარ ვერდენ ვირ უმგეცოგენ ზაინ.",
+      "ka": "მომავალ წელს უკვე გადასულები ვიქნებით."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er wird gegangen.",
+      "right": "Er wird gegangen sein.",
+      "why": "Futur II-ში ბოლოს haben/sein გვჭირდება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-007"
+  ]
+}

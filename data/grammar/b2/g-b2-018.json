@@ -1,0 +1,105 @@
+{
+  "id": "g-b2-018",
+  "level": "B2",
+  "title": "წერილობითი წინდებულები: laut, aufgrund, anhand…",
+  "category": "წინდებულები",
+  "summary": "ოფიციალურ და წერილობით ენაში გავრცელებულია წინდებულები, რომლებიც **Genitiv**-ს (ზოგი Dativ-საც) ითხოვს.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "წინდებული",
+        "ბრუნვა",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "aufgrund",
+          "Gen.",
+          "გამო",
+          "aufgrund des Wetters"
+        ],
+        [
+          "angesichts",
+          "Gen.",
+          "გათვალისწინებით",
+          "angesichts der Lage"
+        ],
+        [
+          "anhand",
+          "Gen.",
+          "მეშვეობით, საფუძველზე",
+          "anhand des Beispiels"
+        ],
+        [
+          "infolge",
+          "Gen.",
+          "შედეგად",
+          "infolge eines Unfalls"
+        ],
+        [
+          "mithilfe",
+          "Gen.",
+          "დახმარებით",
+          "mithilfe eines Programms"
+        ],
+        [
+          "laut",
+          "Dat. / Gen.",
+          "მიხედვით",
+          "laut dem Bericht"
+        ],
+        [
+          "gemäß",
+          "Dat.",
+          "თანახმად",
+          "gemäß dem Plan"
+        ],
+        [
+          "entsprechend",
+          "Dat.",
+          "შესაბამისად",
+          "entsprechend den Regeln"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "ეს წინდებულები სტილისტურად მაღალია, საუბარში **wegen, durch, mit** გამოიყენებენ."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Aufgrund des Wetters fällt das Spiel aus.",
+      "ph": "აუფგრუნდ დეს ვეტერს ფელტ დას შპილ აუს.",
+      "ka": "ამინდის გამო თამაში იშლება."
+    },
+    {
+      "de": "Laut dem Bericht ist alles in Ordnung.",
+      "ph": "ლაუტ დემ ბერიხტ ისტ ალეს ინ ორდნუნგ.",
+      "ka": "მოხსენების მიხედვით ყველაფერი რიგზეა."
+    },
+    {
+      "de": "Angesichts der Lage warten wir.",
+      "ph": "ანგეზიხც დერ ლაგე ვარტენ ვირ.",
+      "ka": "მდგომარეობის გათვალისწინებით ვიცდით."
+    },
+    {
+      "de": "Anhand dieses Beispiels sehen wir es.",
+      "ph": "ანჰანდ დიზეს ბაიშპილს ზეენ ვირ ეს.",
+      "ka": "ამ მაგალითის საფუძველზე ვხედავთ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "aufgrund der Wetter",
+      "right": "aufgrund des Wetters",
+      "why": "aufgrund Genitiv-ს ითხოვს."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-019"
+  ]
+}

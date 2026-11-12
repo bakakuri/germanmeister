@@ -1,0 +1,84 @@
+{
+  "id": "g-b2-002",
+  "level": "B2",
+  "title": "Konjunktiv II წარსულში",
+  "category": "კონიუნქტივი",
+  "summary": "წარსულში არარეალურ ვითარებას **hätte / wäre + Partizip II** გამოხატავს: „რომ მქონოდა, რომ ვყოფილიყავი“.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ფორმა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "hätte + Partizip II",
+          "Ich hätte das gewusst."
+        ],
+        [
+          "wäre + Partizip II (მოძრაობა)",
+          "Ich wäre gekommen."
+        ],
+        [
+          "მოდალური ზმნა: hätte + infinitiv + infinitiv",
+          "Ich hätte kommen können."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "არარეალური პირობა",
+        "ფორმა"
+      ],
+      "rows": [
+        [
+          "Wenn ich Zeit gehabt hätte, wäre ich gekommen.",
+          "wenn + hätte/wäre + Part. II, hätte/wäre + Part. II"
+        ],
+        [
+          "Hätte ich Zeit gehabt, wäre ich gekommen.",
+          "კავშირის გარეშე: ზმნა პირველ ადგილზე"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**Hätte ich das gewusst!** — „ნეტავ ვცოდნოდი!“ სინანულის ტიპური გამოხატულებაა."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Wenn ich das gewusst hätte, wäre ich gekommen.",
+      "ph": "ვენ იხ დას გევუსტ ჰეტე, ვერე იხ გეკომენ.",
+      "ka": "ამას რომ ვიცოდე, მოვიდოდი."
+    },
+    {
+      "de": "Er hätte mehr lernen sollen.",
+      "ph": "ერ ჰეტე მერ ლერნენ ზოლენ.",
+      "ka": "მეტი უნდა ესწავლა."
+    },
+    {
+      "de": "Hätten wir doch früher angerufen!",
+      "ph": "ჰეტენ ვირ დოხ ფრიუერ ანგერუფენ!",
+      "ka": "ნეტავ ადრე დაგვერეკა!"
+    },
+    {
+      "de": "Ich wäre gern länger geblieben.",
+      "ph": "იხ ვერე გერნ ლენგერ გებლიბენ.",
+      "ka": "უფრო დიდხანს დარჩენა მინდოდა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Wenn ich Zeit hatte, wäre ich gekommen.",
+      "right": "Wenn ich Zeit gehabt hätte, wäre ich gekommen.",
+      "why": "არარეალური წარსული: hätte + Partizip II."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-003"
+  ]
+}

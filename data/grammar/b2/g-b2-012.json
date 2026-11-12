@@ -1,0 +1,71 @@
+{
+  "id": "g-b2-012",
+  "level": "B2",
+  "title": "als ob და irreale Vergleiche",
+  "category": "კონიუნქტივი",
+  "summary": "**als ob / als wenn** + Konjunktiv II ან **als** + Konjunktiv II ირეალურ შედარებას გამოხატავს: „თითქოს“.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "ფორმა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "als ob + Konjunktiv II",
+          "Er tut, als ob er schliefe."
+        ],
+        [
+          "als wenn",
+          "Sie sieht aus, als wenn sie krank wäre."
+        ],
+        [
+          "als + Konjunktiv II (ზმნა წინ)",
+          "Er spricht, als wäre er Experte."
+        ],
+        [
+          "wie wenn",
+          "Es ist, wie wenn die Zeit stehen bliebe."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "ხშირად **würde + infinitiv**-იც გამოიყენება: **Er tut, als ob er schlafen würde.**"
+    }
+  ],
+  "examples": [
+    {
+      "de": "Er tut so, als ob er alles wüsste.",
+      "ph": "ერ ტუტ ზო, ალს ობ ერ ალეს ვიუსტე.",
+      "ka": "ის თავს იკატუნებს, თითქოს ყველაფერი იცოდეს."
+    },
+    {
+      "de": "Sie sieht aus, als wäre sie müde.",
+      "ph": "ზი ზიტ აუს, ალს ვერე ზი მიუდე.",
+      "ka": "ის ისე გამოიყურება, თითქოს დაღლილია."
+    },
+    {
+      "de": "Es fühlt sich an, als ob ich träumen würde.",
+      "ph": "ეს ფიულტ ზიხ ან, ალს ობ იხ ტროიმენ ვიურდე.",
+      "ka": "თითქოს ვოცნებობ."
+    },
+    {
+      "de": "Er lacht, als hätte er alles verstanden.",
+      "ph": "ერ ლახტ, ალს ჰეტე ერ ალეს ფერშტანდენ.",
+      "ka": "იცინის, თითქოს ყველაფერი გაუგია."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "als ob er ist müde",
+      "right": "als ob er müde wäre",
+      "why": "als ob-ის შემდეგ Konjunktiv II სჭირდება."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-013"
+  ]
+}

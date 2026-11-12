@@ -1,0 +1,86 @@
+{
+  "id": "g-b2-010",
+  "level": "B2",
+  "title": "წინააღმდეგობა: jedoch, dagegen, hingegen, allerdings",
+  "category": "სინტაქსი",
+  "summary": "ეს სიტყვები განსხვავებას ან შეზღუდვას გამოხატავს. ისინი **ზმნიზედებია**, ამიტომ პირველ ადგილას დგას თუ შუაში, ზმნა მეორეა.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "სიტყვა",
+        "მნიშვნელობა",
+        "მაგალითი"
+      ],
+      "rows": [
+        [
+          "jedoch",
+          "თუმცა",
+          "Er ist reich, jedoch nicht glücklich."
+        ],
+        [
+          "dagegen",
+          "ამის საპირისპიროდ",
+          "Ich mag Tee, dagegen trinkt er Kaffee."
+        ],
+        [
+          "hingegen",
+          "პირიქით",
+          "Ich arbeite viel, er hingegen faulenzt."
+        ],
+        [
+          "allerdings",
+          "თუმცა, მართალია",
+          "Das Essen ist gut, allerdings teuer."
+        ],
+        [
+          "dennoch",
+          "მაინც",
+          "Es ist teuer, dennoch kaufe ich es."
+        ],
+        [
+          "während",
+          "მაშინ, როცა",
+          "Er arbeitet, während sie schläft."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "**allerdings** შეზღუდვაა („მაგრამ ამასთან“), **hingegen** კონტრასტი („ამისგან განსხვავებით“)."
+    }
+  ],
+  "examples": [
+    {
+      "de": "Das Auto ist neu, allerdings sehr teuer.",
+      "ph": "დას აუტო ისტ ნოი, ალერდინგს ზერ ტოიერ.",
+      "ka": "მანქანა ახალია, თუმცა ძალიან ძვირი."
+    },
+    {
+      "de": "Ich bleibe hier, er hingegen geht.",
+      "ph": "იხ ბლაიბე ჰირ, ერ ჰინგეგენ გეტ.",
+      "ka": "მე აქ ვრჩები, ის კი მიდის."
+    },
+    {
+      "de": "Sie ist jung, jedoch sehr erfahren.",
+      "ph": "ზი ისტ იუნგ, იედოხ ზერ ერფარენ.",
+      "ka": "ახალგაზრდაა, თუმცა ძალიან გამოცდილი."
+    },
+    {
+      "de": "Es regnet, dennoch gehen wir.",
+      "ph": "ეს რეგნეტ, დენოხ გეენ ვირ.",
+      "ka": "წვიმს, მაგრამ მაინც მივდივართ."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "jedoch ich gehe",
+      "right": "jedoch gehe ich",
+      "why": "jedoch პირველ ადგილას თუ დგას, ზმნა მას მოსდევს."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-011"
+  ]
+}

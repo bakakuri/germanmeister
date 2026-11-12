@@ -1,0 +1,73 @@
+{
+  "id": "g-b2-003",
+  "level": "B2",
+  "title": "Zustandspassiv",
+  "category": "პასივი",
+  "summary": "**Vorgangspassiv** (werden + Part. II) პროცესს გვიჩვენებს, **Zustandspassiv** (**sein + Part. II**) — შედეგად მიღებულ მდგომარეობას.",
+  "sections": [
+    {
+      "type": "table",
+      "head": [
+        "პროცესი (werden)",
+        "მდგომარეობა (sein)"
+      ],
+      "rows": [
+        [
+          "Die Tür wird geöffnet.",
+          "Die Tür ist geöffnet."
+        ],
+        [
+          "Das Essen wird gekocht.",
+          "Das Essen ist gekocht."
+        ],
+        [
+          "Der Brief wurde geschrieben.",
+          "Der Brief war geschrieben."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "ka": "Zustandspassiv-ს ხშირად არ ჰყავს შემსრულებელი და ნიშნავს, რომ **ახლა უკვე ასეა**: **Das Geschäft ist geschlossen.** (მაღაზია დაკეტილია)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Das Fenster wird geschlossen** — ახლა კეტავენ. **Das Fenster ist geschlossen** — დახურულია."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "de": "Das Geschäft ist geschlossen.",
+      "ph": "დას გეშეფტ ისტ გეშლოსენ.",
+      "ka": "მაღაზია დაკეტილია."
+    },
+    {
+      "de": "Die Rechnung ist bezahlt.",
+      "ph": "დი რეხნუნგ ისტ ბეცალტ.",
+      "ka": "ანგარიში გადახდილია."
+    },
+    {
+      "de": "Alle Plätze waren besetzt.",
+      "ph": "ალე პლეცე ვარენ ბეზეცტ.",
+      "ka": "ყველა ადგილი დაკავებული იყო."
+    },
+    {
+      "de": "Das Essen ist schon gekocht.",
+      "ph": "დას ესენ ისტ შონ გეკოხტ.",
+      "ka": "საჭმელი უკვე მზადაა."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Die Tür wird geöffnet. (ღიაა)",
+      "right": "Die Tür ist geöffnet.",
+      "why": "მდგომარეობაზე sein, პროცესზე werden."
+    }
+  ],
+  "requires": [],
+  "next": [
+    "g-b2-004"
+  ]
+}
