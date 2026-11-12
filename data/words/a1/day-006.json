@@ -1,0 +1,303 @@
+[
+  {
+    "id": "a1-00039",
+    "level": "A1",
+    "day": 6,
+    "de": "wer",
+    "pos": "pron",
+    "ph": "ვერ",
+    "ka": [
+      "ვინ"
+    ],
+    "topic": "fragewort",
+    "freq": 39,
+    "example": {
+      "id": "s-a1-00039-1",
+      "de": "Wer bist du?",
+      "ph": "ვერ ბისტ დუ?",
+      "ka": "შენ ვინ ხარ?",
+      "uses": [
+        "a1-00039",
+        "a1-00003",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00040",
+    "level": "A1",
+    "day": 6,
+    "de": "was",
+    "pos": "pron",
+    "ph": "ვას",
+    "ka": [
+      "რა"
+    ],
+    "topic": "fragewort",
+    "freq": 40,
+    "example": {
+      "id": "s-a1-00040-1",
+      "de": "Was machst du?",
+      "ph": "ვას მახსტ დუ?",
+      "ka": "შენ რას აკეთებ?",
+      "uses": [
+        "a1-00040",
+        "a1-00011",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00041",
+    "level": "A1",
+    "day": 6,
+    "de": "wo",
+    "pos": "adv",
+    "ph": "ვო",
+    "ka": [
+      "სად"
+    ],
+    "topic": "fragewort",
+    "freq": 41,
+    "example": {
+      "id": "s-a1-00041-1",
+      "de": "Wo wohnst du?",
+      "ph": "ვო ვონსტ დუ?",
+      "ka": "სად ცხოვრობ?",
+      "uses": [
+        "a1-00041",
+        "a1-00010",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00042",
+    "level": "A1",
+    "day": 6,
+    "de": "wie",
+    "pos": "adv",
+    "ph": "ვი",
+    "ka": [
+      "როგორ"
+    ],
+    "topic": "fragewort",
+    "freq": 42,
+    "example": {
+      "id": "s-a1-00042-1",
+      "de": "Wie heißt du?",
+      "ph": "ვი ჰაისტ დუ?",
+      "ka": "შენ რა გქვია?",
+      "uses": [
+        "a1-00042",
+        "a1-00014",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00043",
+    "level": "A1",
+    "day": 6,
+    "de": "wann",
+    "pos": "adv",
+    "ph": "ვან",
+    "ka": [
+      "როდის"
+    ],
+    "topic": "fragewort",
+    "freq": 43,
+    "example": {
+      "id": "s-a1-00043-1",
+      "de": "Wann kommst du?",
+      "ph": "ვან კომსტ დუ?",
+      "ka": "როდის მოდიხარ?",
+      "uses": [
+        "a1-00043",
+        "a1-00013",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00044",
+    "level": "A1",
+    "day": 6,
+    "de": "warum",
+    "pos": "adv",
+    "ph": "ვარუმ",
+    "ka": [
+      "რატომ"
+    ],
+    "topic": "fragewort",
+    "freq": 44,
+    "example": {
+      "id": "s-a1-00044-1",
+      "de": "Warum lernst du Deutsch?",
+      "ph": "ვარუმ ლერნსტ დუ დოიჩ?",
+      "ka": "რატომ სწავლობ გერმანულს?",
+      "uses": [
+        "a1-00044",
+        "a1-00009",
+        "a1-00004",
+        "a1-00015"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00045",
+    "level": "A1",
+    "day": 6,
+    "de": "woher",
+    "pos": "adv",
+    "ph": "ვოჰერ",
+    "ka": [
+      "საიდან"
+    ],
+    "topic": "fragewort",
+    "freq": 45,
+    "example": {
+      "id": "s-a1-00045-1",
+      "de": "Woher kommst du?",
+      "ph": "ვოჰერ კომსტ დუ?",
+      "ka": "საიდან მოდიხარ?",
+      "uses": [
+        "a1-00045",
+        "a1-00013",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00046",
+    "level": "A1",
+    "day": 6,
+    "de": "wohin",
+    "pos": "adv",
+    "ph": "ვოჰინ",
+    "ka": [
+      "საით"
+    ],
+    "topic": "fragewort",
+    "freq": 46,
+    "example": {
+      "id": "s-a1-00046-1",
+      "de": "Wohin gehst du?",
+      "ph": "ვოჰინ გეესტ დუ?",
+      "ka": "საით მიდიხარ?",
+      "uses": [
+        "a1-00046",
+        "a1-00029",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00047",
+    "level": "A1",
+    "day": 6,
+    "de": "ja",
+    "pos": "interj",
+    "ph": "ია",
+    "ka": [
+      "დიახ, კი"
+    ],
+    "topic": "antwort",
+    "freq": 47,
+    "example": {
+      "id": "s-a1-00047-1",
+      "de": "Ja, ich bin Anna.",
+      "ph": "ია, იხ ბინ ანა.",
+      "ka": "დიახ, მე ანა ვარ.",
+      "uses": [
+        "a1-00047",
+        "a1-00002",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00048",
+    "level": "A1",
+    "day": 6,
+    "de": "nein",
+    "pos": "interj",
+    "ph": "ნაინ",
+    "ka": [
+      "არა"
+    ],
+    "topic": "antwort",
+    "freq": 48,
+    "example": {
+      "id": "s-a1-00048-1",
+      "de": "Nein, ich bin Ben.",
+      "ph": "ნაინ, იხ ბინ ბენ.",
+      "ka": "არა, მე ბენი ვარ.",
+      "uses": [
+        "a1-00048",
+        "a1-00002",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  }
+]

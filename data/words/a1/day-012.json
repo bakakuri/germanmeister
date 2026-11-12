@@ -1,0 +1,354 @@
+[
+  {
+    "id": "a1-00099",
+    "level": "A1",
+    "day": 12,
+    "de": "mein",
+    "pos": "det",
+    "ph": "მაინ",
+    "ka": [
+      "ჩემი"
+    ],
+    "forms": [
+      "meine",
+      "meinen",
+      "meinem",
+      "meiner"
+    ],
+    "topic": "possessiv",
+    "freq": 99,
+    "example": {
+      "id": "s-a1-00099-1",
+      "de": "Das ist mein Haus.",
+      "ph": "დას ისტ მაინ ჰაუს.",
+      "ka": "ეს ჩემი სახლია.",
+      "uses": [
+        "a1-00099",
+        "a1-00003",
+        "a1-00007"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00100",
+    "level": "A1",
+    "day": 12,
+    "de": "dein",
+    "pos": "det",
+    "ph": "დაინ",
+    "ka": [
+      "შენი"
+    ],
+    "forms": [
+      "deine",
+      "deinen",
+      "deinem",
+      "deiner"
+    ],
+    "topic": "possessiv",
+    "freq": 100,
+    "example": {
+      "id": "s-a1-00100-1",
+      "de": "Ist das dein Auto?",
+      "ph": "ისტ დას დაინ აუტო?",
+      "ka": "ეს შენი მანქანაა?",
+      "uses": [
+        "a1-00100",
+        "a1-00003",
+        "a1-00027"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00101",
+    "level": "A1",
+    "day": 12,
+    "de": "Mutter",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Mütter",
+    "ph": "მუტერ",
+    "ka": [
+      "დედა"
+    ],
+    "topic": "familie",
+    "freq": 101,
+    "example": {
+      "id": "s-a1-00101-1",
+      "de": "Meine Mutter arbeitet.",
+      "ph": "მაინე მუტერ არბაიტეტ.",
+      "ka": "დედაჩემი მუშაობს.",
+      "uses": [
+        "a1-00101",
+        "a1-00099",
+        "a1-00012"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00102"
+      ]
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00102",
+    "level": "A1",
+    "day": 12,
+    "de": "Vater",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Väter",
+    "ph": "ფატერ",
+    "ka": [
+      "მამა"
+    ],
+    "topic": "familie",
+    "freq": 102,
+    "example": {
+      "id": "s-a1-00102-1",
+      "de": "Mein Vater kommt heute.",
+      "ph": "მაინ ფატერ კომტ ჰოიტე.",
+      "ka": "მამაჩემი დღეს მოდის.",
+      "uses": [
+        "a1-00102",
+        "a1-00099",
+        "a1-00013",
+        "a1-00017"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00101"
+      ]
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00103",
+    "level": "A1",
+    "day": 12,
+    "de": "Eltern",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "ph": "ელტერნ",
+    "ka": [
+      "მშობლები"
+    ],
+    "topic": "familie",
+    "freq": 103,
+    "example": {
+      "id": "s-a1-00103-1",
+      "de": "Meine Eltern wohnen hier.",
+      "ph": "მაინე ელტერნ ვონენ ჰირ.",
+      "ka": "ჩემი მშობლები აქ ცხოვრობენ.",
+      "uses": [
+        "a1-00103",
+        "a1-00099",
+        "a1-00010",
+        "a1-00018"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": "მხოლოდ მრავლობითშია."
+  },
+  {
+    "id": "a1-00104",
+    "level": "A1",
+    "day": 12,
+    "de": "Familie",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Familien",
+    "ph": "ფამილიე",
+    "ka": [
+      "ოჯახი"
+    ],
+    "topic": "familie",
+    "freq": 104,
+    "example": {
+      "id": "s-a1-00104-1",
+      "de": "Ich liebe meine Familie.",
+      "ph": "იხ ლიბე მაინე ფამილიე.",
+      "ka": "მე ჩემი ოჯახი მიყვარს.",
+      "uses": [
+        "a1-00104",
+        "a1-00002",
+        "a1-00082",
+        "a1-00099"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00105",
+    "level": "A1",
+    "day": 12,
+    "de": "Oma",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Omas",
+    "ph": "ომა",
+    "ka": [
+      "ბებია"
+    ],
+    "topic": "familie",
+    "freq": 105,
+    "example": {
+      "id": "s-a1-00105-1",
+      "de": "Meine Oma ist alt.",
+      "ph": "მაინე ომა ისტ ალტ.",
+      "ka": "ჩემი ბებია ხანდაზმულია.",
+      "uses": [
+        "a1-00105",
+        "a1-00099",
+        "a1-00003",
+        "a1-00055"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00106"
+      ]
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00106",
+    "level": "A1",
+    "day": 12,
+    "de": "Opa",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Opas",
+    "ph": "ოპა",
+    "ka": [
+      "ბაბუა"
+    ],
+    "topic": "familie",
+    "freq": 106,
+    "example": {
+      "id": "s-a1-00106-1",
+      "de": "Mein Opa ist alt.",
+      "ph": "მაინ ოპა ისტ ალტ.",
+      "ka": "ჩემი ბაბუა ხანდაზმულია.",
+      "uses": [
+        "a1-00106",
+        "a1-00099",
+        "a1-00003",
+        "a1-00055"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00105"
+      ]
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00107",
+    "level": "A1",
+    "day": 12,
+    "de": "Sohn",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Söhne",
+    "ph": "ზონ",
+    "ka": [
+      "ვაჟი"
+    ],
+    "topic": "familie",
+    "freq": 107,
+    "example": {
+      "id": "s-a1-00107-1",
+      "de": "Das ist mein Sohn.",
+      "ph": "დას ისტ მაინ ზონ.",
+      "ka": "ეს ჩემი ვაჟია.",
+      "uses": [
+        "a1-00107",
+        "a1-00003",
+        "a1-00099"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00108"
+      ]
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00108",
+    "level": "A1",
+    "day": 12,
+    "de": "Tochter",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Töchter",
+    "ph": "ტოხტერ",
+    "ka": [
+      "ქალიშვილი"
+    ],
+    "topic": "familie",
+    "freq": 108,
+    "example": {
+      "id": "s-a1-00108-1",
+      "de": "Das ist meine Tochter.",
+      "ph": "დას ისტ მაინე ტოხტერ.",
+      "ka": "ეს ჩემი ქალიშვილია.",
+      "uses": [
+        "a1-00108",
+        "a1-00003",
+        "a1-00099"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00107"
+      ]
+    },
+    "note": ""
+  }
+]

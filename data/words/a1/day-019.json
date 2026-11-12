@@ -1,0 +1,342 @@
+[
+  {
+    "id": "a1-00169",
+    "level": "A1",
+    "day": 19,
+    "de": "nehmen",
+    "pos": "verb",
+    "ph": "ნემენ",
+    "ka": [
+      "აღება"
+    ],
+    "forms": [
+      "nehme",
+      "nimmst",
+      "nimmt"
+    ],
+    "topic": "verben",
+    "freq": 169,
+    "example": {
+      "id": "s-a1-00169-1",
+      "de": "Ich nehme einen Tee.",
+      "ph": "იხ ნემე აინენ ტე.",
+      "ka": "ჩაის ავიღებ.",
+      "uses": [
+        "a1-00169",
+        "a1-00002",
+        "a1-00034"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00170",
+    "level": "A1",
+    "day": 19,
+    "de": "geben",
+    "pos": "verb",
+    "ph": "გებენ",
+    "ka": [
+      "მიცემა"
+    ],
+    "forms": [
+      "gebe",
+      "gibst",
+      "gibt"
+    ],
+    "topic": "verben",
+    "freq": 170,
+    "example": {
+      "id": "s-a1-00170-1",
+      "de": "Ich gebe dir das Buch.",
+      "ph": "იხ გებე დირ დას ბუხ.",
+      "ka": "წიგნს გაძლევ.",
+      "uses": [
+        "a1-00170",
+        "a1-00002",
+        "a1-00004",
+        "a1-00088"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00171",
+    "level": "A1",
+    "day": 19,
+    "de": "fahren",
+    "pos": "verb",
+    "ph": "ფარენ",
+    "ka": [
+      "მგზავრობა"
+    ],
+    "forms": [
+      "fahre",
+      "fährst",
+      "fährt"
+    ],
+    "topic": "verben",
+    "freq": 171,
+    "example": {
+      "id": "s-a1-00171-1",
+      "de": "Er fährt Auto.",
+      "ph": "ერ ფერტ აუტო.",
+      "ka": "ის მანქანას მართავს.",
+      "uses": [
+        "a1-00171",
+        "a1-00020",
+        "a1-00155",
+        "a1-00027"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00172",
+    "level": "A1",
+    "day": 19,
+    "de": "laufen",
+    "pos": "verb",
+    "ph": "ლაუფენ",
+    "ka": [
+      "სირბილი, სიარული"
+    ],
+    "forms": [
+      "laufe",
+      "läufst",
+      "läuft"
+    ],
+    "topic": "verben",
+    "freq": 172,
+    "example": {
+      "id": "s-a1-00172-1",
+      "de": "Der Hund läuft hier.",
+      "ph": "დერ ჰუნდ ლოიფტ ჰირ.",
+      "ka": "ძაღლი აქ დარბის.",
+      "uses": [
+        "a1-00172",
+        "a1-00026",
+        "a1-00018"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00173",
+    "level": "A1",
+    "day": 19,
+    "de": "Zug",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Züge",
+    "ph": "ცუგ",
+    "ka": [
+      "მატარებელი"
+    ],
+    "topic": "verkehr",
+    "freq": 173,
+    "example": {
+      "id": "s-a1-00173-1",
+      "de": "Der Zug ist alt.",
+      "ph": "დერ ცუგ ისტ ალტ.",
+      "ka": "მატარებელი ძველია.",
+      "uses": [
+        "a1-00173",
+        "a1-00003",
+        "a1-00055"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00174",
+    "level": "A1",
+    "day": 19,
+    "de": "Bus",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Busse",
+    "ph": "ბუს",
+    "ka": [
+      "ავტობუსი"
+    ],
+    "topic": "verkehr",
+    "freq": 174,
+    "example": {
+      "id": "s-a1-00174-1",
+      "de": "Der Bus ist neu.",
+      "ph": "დერ ბუს ისტ ნოი.",
+      "ka": "ავტობუსი ახალია.",
+      "uses": [
+        "a1-00174",
+        "a1-00003",
+        "a1-00056"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00175",
+    "level": "A1",
+    "day": 19,
+    "de": "Fahrrad",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Fahrräder",
+    "ph": "ფარრად",
+    "ka": [
+      "ველოსიპედი"
+    ],
+    "topic": "verkehr",
+    "freq": 175,
+    "example": {
+      "id": "s-a1-00175-1",
+      "de": "Das Fahrrad ist klein.",
+      "ph": "დას ფარრად ისტ კლაინ.",
+      "ka": "ველოსიპედი პატარაა.",
+      "uses": [
+        "a1-00175",
+        "a1-00003",
+        "a1-00054"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00176",
+    "level": "A1",
+    "day": 19,
+    "de": "Bahnhof",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Bahnhöfe",
+    "ph": "ბანჰოფ",
+    "ka": [
+      "რკინიგზის სადგური"
+    ],
+    "topic": "verkehr",
+    "freq": 176,
+    "example": {
+      "id": "s-a1-00176-1",
+      "de": "Der Bahnhof ist groß.",
+      "ph": "დერ ბანჰოფ ისტ გროს.",
+      "ka": "სადგური დიდია.",
+      "uses": [
+        "a1-00176",
+        "a1-00003",
+        "a1-00008"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00177",
+    "level": "A1",
+    "day": 19,
+    "de": "Flughafen",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Flughäfen",
+    "ph": "ფლუგჰაფენ",
+    "ka": [
+      "აეროპორტი"
+    ],
+    "topic": "verkehr",
+    "freq": 177,
+    "example": {
+      "id": "s-a1-00177-1",
+      "de": "Der Flughafen ist neu.",
+      "ph": "დერ ფლუგჰაფენ ისტ ნოი.",
+      "ka": "აეროპორტი ახალია.",
+      "uses": [
+        "a1-00177",
+        "a1-00003",
+        "a1-00056"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00178",
+    "level": "A1",
+    "day": 19,
+    "de": "Schule",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Schulen",
+    "ph": "შულე",
+    "ka": [
+      "სკოლა"
+    ],
+    "topic": "stadt",
+    "freq": 178,
+    "example": {
+      "id": "s-a1-00178-1",
+      "de": "Die Schule ist groß.",
+      "ph": "დი შულე ისტ გროს.",
+      "ka": "სკოლა დიდია.",
+      "uses": [
+        "a1-00178",
+        "a1-00003",
+        "a1-00008"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  }
+]

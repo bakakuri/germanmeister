@@ -1,0 +1,359 @@
+[
+  {
+    "id": "a1-00149",
+    "level": "A1",
+    "day": 17,
+    "de": "aufstehen",
+    "pos": "verb",
+    "ph": "აუფშტეენ",
+    "ka": [
+      "ადგომა"
+    ],
+    "forms": [
+      "stehe",
+      "stehst",
+      "steht",
+      "auf"
+    ],
+    "topic": "verben",
+    "freq": 149,
+    "example": {
+      "id": "s-a1-00149-1",
+      "de": "Ich stehe früh auf.",
+      "ph": "იხ შტეე ფრიუ აუფ.",
+      "ka": "ადრე ვდგები.",
+      "uses": [
+        "a1-00149",
+        "a1-00002",
+        "a1-00126"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": "Ich stehe auf — თავსართი ბოლოში გადადის."
+  },
+  {
+    "id": "a1-00150",
+    "level": "A1",
+    "day": 17,
+    "de": "einkaufen",
+    "pos": "verb",
+    "ph": "აინკაუფენ",
+    "ka": [
+      "საყიდლებზე წასვლა"
+    ],
+    "forms": [
+      "kaufe",
+      "kaufst",
+      "kauft"
+    ],
+    "topic": "verben",
+    "freq": 150,
+    "example": {
+      "id": "s-a1-00150-1",
+      "de": "Wir kaufen heute ein.",
+      "ph": "ვირ კაუფენ ჰოიტე აინ.",
+      "ka": "დღეს საყიდლებზე მივდივართ.",
+      "uses": [
+        "a1-00150",
+        "a1-00023",
+        "a1-00080",
+        "a1-00017"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00151",
+    "level": "A1",
+    "day": 17,
+    "de": "anrufen",
+    "pos": "verb",
+    "ph": "ანრუფენ",
+    "ka": [
+      "დარეკვა"
+    ],
+    "forms": [
+      "rufe",
+      "rufst",
+      "ruft",
+      "an"
+    ],
+    "topic": "verben",
+    "freq": 151,
+    "example": {
+      "id": "s-a1-00151-1",
+      "de": "Ich rufe dich an.",
+      "ph": "იხ რუფე დიხ ან.",
+      "ka": "მე შენ დაგირეკავ.",
+      "uses": [
+        "a1-00151",
+        "a1-00002",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00152",
+    "level": "A1",
+    "day": 17,
+    "de": "mitkommen",
+    "pos": "verb",
+    "ph": "მიტკომენ",
+    "ka": [
+      "თან წამოსვლა"
+    ],
+    "forms": [
+      "mit"
+    ],
+    "topic": "verben",
+    "freq": 152,
+    "example": {
+      "id": "s-a1-00152-1",
+      "de": "Kommst du mit?",
+      "ph": "კომსტ დუ მით?",
+      "ka": "წამოხვალ?",
+      "uses": [
+        "a1-00152",
+        "a1-00013",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00153",
+    "level": "A1",
+    "day": 17,
+    "de": "fernsehen",
+    "pos": "verb",
+    "ph": "ფერნზეენ",
+    "ka": [
+      "ტელევიზორის ყურება"
+    ],
+    "forms": [
+      "fern"
+    ],
+    "topic": "verben",
+    "freq": 153,
+    "example": {
+      "id": "s-a1-00153-1",
+      "de": "Du siehst heute fern.",
+      "ph": "დუ ზისტ ჰოიტე ფერნ.",
+      "ka": "შენ დღეს ტელევიზორს უყურებ.",
+      "uses": [
+        "a1-00153",
+        "a1-00004",
+        "a1-00079",
+        "a1-00017"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00154",
+    "level": "A1",
+    "day": 17,
+    "de": "ankommen",
+    "pos": "verb",
+    "ph": "ანკომენ",
+    "ka": [
+      "ჩამოსვლა"
+    ],
+    "forms": [
+      "an"
+    ],
+    "topic": "verben",
+    "freq": 154,
+    "example": {
+      "id": "s-a1-00154-1",
+      "de": "Ich komme um acht Uhr an.",
+      "ph": "იხ კომე უმ ახტ ურ ან.",
+      "ka": "რვა საათზე ჩამოვალ.",
+      "uses": [
+        "a1-00154",
+        "a1-00002",
+        "a1-00013",
+        "a1-00128",
+        "a1-00116",
+        "a1-00119",
+        "a1-00151"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00155",
+    "level": "A1",
+    "day": 17,
+    "de": "abfahren",
+    "pos": "verb",
+    "ph": "აბფარენ",
+    "ka": [
+      "გასვლა (ტრანსპორტით)"
+    ],
+    "forms": [
+      "fahre",
+      "fährst",
+      "fährt",
+      "ab",
+      "fahren"
+    ],
+    "topic": "verben",
+    "freq": 155,
+    "example": {
+      "id": "s-a1-00155-1",
+      "de": "Wir fahren um zehn Uhr ab.",
+      "ph": "ვირ ფარენ უმ ცეენ ურ აბ.",
+      "ka": "ათ საათზე მივემგზავრებით.",
+      "uses": [
+        "a1-00155",
+        "a1-00023",
+        "a1-00128",
+        "a1-00118",
+        "a1-00119"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00156",
+    "level": "A1",
+    "day": 17,
+    "de": "einsteigen",
+    "pos": "verb",
+    "ph": "აინშტაიგენ",
+    "ka": [
+      "ასვლა (ტრანსპორტში)"
+    ],
+    "forms": [
+      "steige",
+      "steigst",
+      "steigt"
+    ],
+    "topic": "verben",
+    "freq": 156,
+    "example": {
+      "id": "s-a1-00156-1",
+      "de": "Du steigst jetzt ein.",
+      "ph": "დუ შტაიგსტ იეცტ აინ.",
+      "ka": "შენ ახლა ჯდები.",
+      "uses": [
+        "a1-00156",
+        "a1-00004",
+        "a1-00037"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00157",
+    "level": "A1",
+    "day": 17,
+    "de": "aussteigen",
+    "pos": "verb",
+    "ph": "აუსშტაიგენ",
+    "ka": [
+      "ჩამოსვლა (ტრანსპორტიდან)"
+    ],
+    "forms": [
+      "aus"
+    ],
+    "topic": "verben",
+    "freq": 157,
+    "example": {
+      "id": "s-a1-00157-1",
+      "de": "Ich steige hier aus.",
+      "ph": "იხ შტაიგე ჰირ აუს.",
+      "ka": "აქ ჩავდივარ.",
+      "uses": [
+        "a1-00157",
+        "a1-00002",
+        "a1-00156",
+        "a1-00018"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00158",
+    "level": "A1",
+    "day": 17,
+    "de": "anfangen",
+    "pos": "verb",
+    "ph": "ანფანგენ",
+    "ka": [
+      "დაწყება"
+    ],
+    "forms": [
+      "fange",
+      "fängst",
+      "fängt",
+      "an"
+    ],
+    "topic": "verben",
+    "freq": 158,
+    "example": {
+      "id": "s-a1-00158-1",
+      "de": "Der Tag fängt früh an.",
+      "ph": "დერ ტაგ ფენგტ ფრიუ ან.",
+      "ka": "დღე ადრე იწყება.",
+      "uses": [
+        "a1-00158",
+        "a1-00122",
+        "a1-00126",
+        "a1-00151"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "id": "a1-00189",
+    "level": "A1",
+    "day": 21,
+    "de": "Arbeit",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Arbeiten",
+    "ph": "არბაიტ",
+    "ka": [
+      "სამუშაო"
+    ],
+    "topic": "arbeit",
+    "freq": 189,
+    "example": {
+      "id": "s-a1-00189-1",
+      "de": "Ich bin bei der Arbeit.",
+      "ph": "იხ ბინ ბაი დერ არბაიტ.",
+      "ka": "მე სამსახურში ვარ.",
+      "uses": [
+        "a1-00189",
+        "a1-00002",
+        "a1-00003",
+        "a1-00183"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00190",
+    "level": "A1",
+    "day": 21,
+    "de": "Park",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Parks",
+    "ph": "პარკ",
+    "ka": [
+      "პარკი"
+    ],
+    "topic": "stadt",
+    "freq": 190,
+    "example": {
+      "id": "s-a1-00190-1",
+      "de": "Wir gehen in den Park.",
+      "ph": "ვირ გეენ ინ დენ პარკ.",
+      "ka": "ჩვენ პარკში მივდივართ.",
+      "uses": [
+        "a1-00190",
+        "a1-00023",
+        "a1-00029",
+        "a1-00179"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00191",
+    "level": "A1",
+    "day": 21,
+    "de": "Kino",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Kinos",
+    "ph": "კინო",
+    "ka": [
+      "კინო"
+    ],
+    "topic": "stadt",
+    "freq": 191,
+    "example": {
+      "id": "s-a1-00191-1",
+      "de": "Ich gehe ins Kino.",
+      "ph": "იხ გეე ინს კინო.",
+      "ka": "კინოში მივდივარ.",
+      "uses": [
+        "a1-00191",
+        "a1-00002",
+        "a1-00029"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00192",
+    "level": "A1",
+    "day": 21,
+    "de": "Supermarkt",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Supermärkte",
+    "ph": "ზუპერმარკტ",
+    "ka": [
+      "სუპერმარკეტი"
+    ],
+    "topic": "stadt",
+    "freq": 192,
+    "example": {
+      "id": "s-a1-00192-1",
+      "de": "Er kauft Brot in dem Supermarkt.",
+      "ph": "ერ კაუფტ ბროტ ინ დემ ზუპერმარკტ.",
+      "ka": "ის სუპერმარკეტში პურს ყიდულობს.",
+      "uses": [
+        "a1-00192",
+        "a1-00020",
+        "a1-00080",
+        "a1-00033",
+        "a1-00179"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00193",
+    "level": "A1",
+    "day": 21,
+    "de": "Bank",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Banken",
+    "ph": "ბანკ",
+    "ka": [
+      "ბანკი"
+    ],
+    "topic": "stadt",
+    "freq": 193,
+    "example": {
+      "id": "s-a1-00193-1",
+      "de": "Die Bank ist neu.",
+      "ph": "დი ბანკ ისტ ნოი.",
+      "ka": "ბანკი ახალია.",
+      "uses": [
+        "a1-00193",
+        "a1-00003",
+        "a1-00056"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00194",
+    "level": "A1",
+    "day": 21,
+    "de": "Post",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "ph": "პოსტ",
+    "ka": [
+      "ფოსტა"
+    ],
+    "topic": "stadt",
+    "freq": 194,
+    "example": {
+      "id": "s-a1-00194-1",
+      "de": "Die Post ist hier.",
+      "ph": "დი პოსტ ისტ ჰირ.",
+      "ka": "ფოსტა აქაა.",
+      "uses": [
+        "a1-00194",
+        "a1-00003",
+        "a1-00018"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00195",
+    "level": "A1",
+    "day": 21,
+    "de": "Restaurant",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Restaurants",
+    "ph": "რესტორანგ",
+    "ka": [
+      "რესტორანი"
+    ],
+    "topic": "stadt",
+    "freq": 195,
+    "example": {
+      "id": "s-a1-00195-1",
+      "de": "Das Restaurant ist gut.",
+      "ph": "დას რესტორანგ ისტ გუტ.",
+      "ka": "რესტორანი კარგია.",
+      "uses": [
+        "a1-00195",
+        "a1-00003",
+        "a1-00051"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00196",
+    "level": "A1",
+    "day": 21,
+    "de": "Hotel",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Hotels",
+    "ph": "ჰოტელ",
+    "ka": [
+      "სასტუმრო"
+    ],
+    "topic": "stadt",
+    "freq": 196,
+    "example": {
+      "id": "s-a1-00196-1",
+      "de": "Das Hotel ist groß.",
+      "ph": "დას ჰოტელ ისტ გროს.",
+      "ka": "სასტუმრო დიდია.",
+      "uses": [
+        "a1-00196",
+        "a1-00003",
+        "a1-00008"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00197",
+    "level": "A1",
+    "day": 21,
+    "de": "Land",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Länder",
+    "ph": "ლანდ",
+    "ka": [
+      "ქვეყანა"
+    ],
+    "topic": "ort",
+    "freq": 197,
+    "example": {
+      "id": "s-a1-00197-1",
+      "de": "Das Land ist schön.",
+      "ph": "დას ლანდ ისტ შოენ.",
+      "ka": "ქვეყანა ლამაზია.",
+      "uses": [
+        "a1-00197",
+        "a1-00003",
+        "a1-00053"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00198",
+    "level": "A1",
+    "day": 21,
+    "de": "Welt",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Welten",
+    "ph": "ველტ",
+    "ka": [
+      "მსოფლიო"
+    ],
+    "topic": "ort",
+    "freq": 198,
+    "example": {
+      "id": "s-a1-00198-1",
+      "de": "Die Welt ist groß.",
+      "ph": "დი ველტ ისტ გროს.",
+      "ka": "მსოფლიო დიდია.",
+      "uses": [
+        "a1-00198",
+        "a1-00003",
+        "a1-00008"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  }
+]

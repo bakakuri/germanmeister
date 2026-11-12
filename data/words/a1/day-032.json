@@ -1,0 +1,325 @@
+[
+  {
+    "id": "a1-00299",
+    "level": "A1",
+    "day": 32,
+    "de": "Unterricht",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "ph": "უნტერიხტ",
+    "ka": [
+      "გაკვეთილი, სწავლება"
+    ],
+    "topic": "schule",
+    "freq": 299,
+    "example": {
+      "id": "s-a1-00299-1",
+      "de": "Der Unterricht ist früh.",
+      "ph": "დერ უნტერიხტ ისტ ფრიუ.",
+      "ka": "გაკვეთილი ადრეა.",
+      "uses": [
+        "a1-00299",
+        "a1-00003",
+        "a1-00126"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00300",
+    "level": "A1",
+    "day": 32,
+    "de": "Aufgabe",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Aufgaben",
+    "ph": "აუფგაბე",
+    "ka": [
+      "დავალება"
+    ],
+    "topic": "schule",
+    "freq": 300,
+    "example": {
+      "id": "s-a1-00300-1",
+      "de": "Die Aufgabe ist leicht.",
+      "ph": "დი აუფგაბე ისტ ლაიხტ.",
+      "ka": "დავალება მარტივია.",
+      "uses": [
+        "a1-00300",
+        "a1-00003",
+        "a1-00257"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00301",
+    "level": "A1",
+    "day": 32,
+    "de": "Beispiel",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Beispiele",
+    "ph": "ბაიშპილ",
+    "ka": [
+      "მაგალითი"
+    ],
+    "topic": "schule",
+    "freq": 301,
+    "example": {
+      "id": "s-a1-00301-1",
+      "de": "Das ist ein Beispiel.",
+      "ph": "დას ისტ აინ ბაიშპილ.",
+      "ka": "ეს მაგალითია.",
+      "uses": [
+        "a1-00301",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00302",
+    "level": "A1",
+    "day": 32,
+    "de": "Übung",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Übungen",
+    "ph": "იუბუნგ",
+    "ka": [
+      "ვარჯიში"
+    ],
+    "topic": "schule",
+    "freq": 302,
+    "example": {
+      "id": "s-a1-00302-1",
+      "de": "Die Übung ist schwer.",
+      "ph": "დი იუბუნგ ისტ შვერ.",
+      "ka": "ვარჯიში რთულია.",
+      "uses": [
+        "a1-00302",
+        "a1-00003",
+        "a1-00258"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00303",
+    "level": "A1",
+    "day": 32,
+    "de": "Fehler",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Fehler",
+    "ph": "ფელერ",
+    "ka": [
+      "შეცდომა"
+    ],
+    "topic": "schule",
+    "freq": 303,
+    "example": {
+      "id": "s-a1-00303-1",
+      "de": "Das ist ein Fehler.",
+      "ph": "დას ისტ აინ ფელერ.",
+      "ka": "ეს შეცდომაა.",
+      "uses": [
+        "a1-00303",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00304",
+    "level": "A1",
+    "day": 32,
+    "de": "Test",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Tests",
+    "ph": "ტესტ",
+    "ka": [
+      "ტესტი"
+    ],
+    "topic": "schule",
+    "freq": 304,
+    "example": {
+      "id": "s-a1-00304-1",
+      "de": "Der Test ist morgen.",
+      "ph": "დერ ტესტ ისტ მორგენ.",
+      "ka": "ტესტი ხვალაა.",
+      "uses": [
+        "a1-00304",
+        "a1-00003",
+        "a1-00036"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00305",
+    "level": "A1",
+    "day": 32,
+    "de": "Prüfung",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Prüfungen",
+    "ph": "პრიუფუნგ",
+    "ka": [
+      "გამოცდა"
+    ],
+    "topic": "schule",
+    "freq": 305,
+    "example": {
+      "id": "s-a1-00305-1",
+      "de": "Die Prüfung ist schwer.",
+      "ph": "დი პრიუფუნგ ისტ შვერ.",
+      "ka": "გამოცდა რთულია.",
+      "uses": [
+        "a1-00305",
+        "a1-00003",
+        "a1-00258"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00306",
+    "level": "A1",
+    "day": 32,
+    "de": "Klasse",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Klassen",
+    "ph": "კლასე",
+    "ka": [
+      "კლასი"
+    ],
+    "topic": "schule",
+    "freq": 306,
+    "example": {
+      "id": "s-a1-00306-1",
+      "de": "Die Klasse ist groß.",
+      "ph": "დი კლასე ისტ გროს.",
+      "ka": "კლასი დიდია.",
+      "uses": [
+        "a1-00306",
+        "a1-00003",
+        "a1-00008"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00307",
+    "level": "A1",
+    "day": 32,
+    "de": "Pause",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Pausen",
+    "ph": "პაუზე",
+    "ka": [
+      "შესვენება"
+    ],
+    "topic": "schule",
+    "freq": 307,
+    "example": {
+      "id": "s-a1-00307-1",
+      "de": "Jetzt ist Pause.",
+      "ph": "იეცტ ისტ პაუზე.",
+      "ka": "ახლა შესვენებაა.",
+      "uses": [
+        "a1-00307",
+        "a1-00037",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00308",
+    "level": "A1",
+    "day": 32,
+    "de": "null",
+    "pos": "num",
+    "ph": "ნულ",
+    "ka": [
+      "ნული"
+    ],
+    "topic": "zahlen",
+    "freq": 308,
+    "example": {
+      "id": "s-a1-00308-1",
+      "de": "Null Fehler!",
+      "ph": "ნულ ფელერ!",
+      "ka": "ნული შეცდომა!",
+      "uses": [
+        "a1-00308",
+        "a1-00303"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  }
+]

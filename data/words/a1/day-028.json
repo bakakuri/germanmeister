@@ -1,0 +1,331 @@
+[
+  {
+    "id": "a1-00259",
+    "level": "A1",
+    "day": 28,
+    "de": "Buchstabe",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Buchstaben",
+    "ph": "ბუხშტაბე",
+    "ka": [
+      "ასო"
+    ],
+    "topic": "schule",
+    "freq": 259,
+    "example": {
+      "id": "s-a1-00259-1",
+      "de": "Das ist ein Buchstabe.",
+      "ph": "დას ისტ აინ ბუხშტაბე.",
+      "ka": "ეს ასოა.",
+      "uses": [
+        "a1-00259",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00260",
+    "level": "A1",
+    "day": 28,
+    "de": "Satz",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Sätze",
+    "ph": "ზაც",
+    "ka": [
+      "წინადადება"
+    ],
+    "topic": "schule",
+    "freq": 260,
+    "example": {
+      "id": "s-a1-00260-1",
+      "de": "Ich schreibe einen Satz.",
+      "ph": "იხ შრაიბე აინენ ზაც.",
+      "ka": "წინადადებას ვწერ.",
+      "uses": [
+        "a1-00260",
+        "a1-00002",
+        "a1-00165"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00261",
+    "level": "A1",
+    "day": 28,
+    "de": "Text",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Texte",
+    "ph": "ტექსტ",
+    "ka": [
+      "ტექსტი"
+    ],
+    "topic": "schule",
+    "freq": 261,
+    "example": {
+      "id": "s-a1-00261-1",
+      "de": "Ich lese den Text.",
+      "ph": "იხ ლეზე დენ ტექსტ.",
+      "ka": "ტექსტს ვკითხულობ.",
+      "uses": [
+        "a1-00261",
+        "a1-00002",
+        "a1-00164"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00262",
+    "level": "A1",
+    "day": 28,
+    "de": "Zeitung",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Zeitungen",
+    "ph": "ცაიტუნგ",
+    "ka": [
+      "გაზეთი"
+    ],
+    "topic": "medien",
+    "freq": 262,
+    "example": {
+      "id": "s-a1-00262-1",
+      "de": "Er liest die Zeitung.",
+      "ph": "ერ ლისტ დი ცაიტუნგ.",
+      "ka": "ის გაზეთს კითხულობს.",
+      "uses": [
+        "a1-00262",
+        "a1-00020",
+        "a1-00164"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00263",
+    "level": "A1",
+    "day": 28,
+    "de": "Brief",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Briefe",
+    "ph": "ბრიფ",
+    "ka": [
+      "წერილი"
+    ],
+    "topic": "medien",
+    "freq": 263,
+    "example": {
+      "id": "s-a1-00263-1",
+      "de": "Ich schreibe einen Brief.",
+      "ph": "იხ შრაიბე აინენ ბრიფ.",
+      "ka": "წერილს ვწერ.",
+      "uses": [
+        "a1-00263",
+        "a1-00002",
+        "a1-00165"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00264",
+    "level": "A1",
+    "day": 28,
+    "de": "Seite",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Seiten",
+    "ph": "ზაიტე",
+    "ka": [
+      "გვერდი"
+    ],
+    "topic": "schule",
+    "freq": 264,
+    "example": {
+      "id": "s-a1-00264-1",
+      "de": "Die Seite ist neu.",
+      "ph": "დი ზაიტე ისტ ნოი.",
+      "ka": "გვერდი ახალია.",
+      "uses": [
+        "a1-00264",
+        "a1-00003",
+        "a1-00056"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00265",
+    "level": "A1",
+    "day": 28,
+    "de": "Heft",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Hefte",
+    "ph": "ჰეფტ",
+    "ka": [
+      "რვეული"
+    ],
+    "topic": "schule",
+    "freq": 265,
+    "example": {
+      "id": "s-a1-00265-1",
+      "de": "Das Heft ist klein.",
+      "ph": "დას ჰეფტ ისტ კლაინ.",
+      "ka": "რვეული პატარაა.",
+      "uses": [
+        "a1-00265",
+        "a1-00003",
+        "a1-00054"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00266",
+    "level": "A1",
+    "day": 28,
+    "de": "Stift",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Stifte",
+    "ph": "შტიფტ",
+    "ka": [
+      "კალამი, ფანქარი"
+    ],
+    "topic": "schule",
+    "freq": 266,
+    "example": {
+      "id": "s-a1-00266-1",
+      "de": "Ich brauche einen Stift.",
+      "ph": "იხ ბრაუხე აინენ შტიფტ.",
+      "ka": "კალამი მჭირდება.",
+      "uses": [
+        "a1-00266",
+        "a1-00002",
+        "a1-00081"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00267",
+    "level": "A1",
+    "day": 28,
+    "de": "Papier",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Papiere",
+    "ph": "პაპირ",
+    "ka": [
+      "ქაღალდი"
+    ],
+    "topic": "schule",
+    "freq": 267,
+    "example": {
+      "id": "s-a1-00267-1",
+      "de": "Ich brauche Papier.",
+      "ph": "იხ ბრაუხე პაპირ.",
+      "ka": "ქაღალდი მჭირდება.",
+      "uses": [
+        "a1-00267",
+        "a1-00002",
+        "a1-00081"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00268",
+    "level": "A1",
+    "day": 28,
+    "de": "Computer",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Computer",
+    "ph": "კომპიუტერ",
+    "ka": [
+      "კომპიუტერი"
+    ],
+    "topic": "medien",
+    "freq": 268,
+    "example": {
+      "id": "s-a1-00268-1",
+      "de": "Der Computer ist neu.",
+      "ph": "დერ კომპიუტერ ისტ ნოი.",
+      "ka": "კომპიუტერი ახალია.",
+      "uses": [
+        "a1-00268",
+        "a1-00003",
+        "a1-00056"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  }
+]

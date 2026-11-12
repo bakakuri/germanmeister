@@ -1,0 +1,348 @@
+[
+  {
+    "id": "a1-00089",
+    "level": "A1",
+    "day": 11,
+    "de": "kennen",
+    "pos": "verb",
+    "ph": "კენენ",
+    "ka": [
+      "ცნობა, გაცნობა"
+    ],
+    "forms": [
+      "kenne",
+      "kennst",
+      "kennt"
+    ],
+    "topic": "verben",
+    "freq": 89,
+    "example": {
+      "id": "s-a1-00089-1",
+      "de": "Ich kenne dich.",
+      "ph": "იხ კენე დიხ.",
+      "ka": "მე შენ გიცნობ.",
+      "uses": [
+        "a1-00089",
+        "a1-00002",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00090",
+    "level": "A1",
+    "day": 11,
+    "de": "besuchen",
+    "pos": "verb",
+    "ph": "ბეზუხენ",
+    "ka": [
+      "სტუმრობა"
+    ],
+    "forms": [
+      "besuche",
+      "besuchst",
+      "besucht"
+    ],
+    "topic": "verben",
+    "freq": 90,
+    "example": {
+      "id": "s-a1-00090-1",
+      "de": "Ich besuche einen Freund.",
+      "ph": "იხ ბეზუხე აინენ ფროინდ.",
+      "ka": "მეგობარს ვსტუმრობ.",
+      "uses": [
+        "a1-00090",
+        "a1-00002",
+        "a1-00093"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00091",
+    "level": "A1",
+    "day": 11,
+    "de": "hören",
+    "pos": "verb",
+    "ph": "ჰოერენ",
+    "ka": [
+      "მოსმენა"
+    ],
+    "forms": [
+      "höre",
+      "hörst",
+      "hört"
+    ],
+    "topic": "verben",
+    "freq": 91,
+    "example": {
+      "id": "s-a1-00091-1",
+      "de": "Ich höre dich.",
+      "ph": "იხ ჰოერე დიხ.",
+      "ka": "მესმის შენი.",
+      "uses": [
+        "a1-00091",
+        "a1-00002",
+        "a1-00004"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00092",
+    "level": "A1",
+    "day": 11,
+    "de": "fragen",
+    "pos": "verb",
+    "ph": "ფრაგენ",
+    "ka": [
+      "კითხვა"
+    ],
+    "forms": [
+      "frage",
+      "fragst",
+      "fragt"
+    ],
+    "topic": "verben",
+    "freq": 92,
+    "example": {
+      "id": "s-a1-00092-1",
+      "de": "Ich frage den Lehrer.",
+      "ph": "იხ ფრაგე დენ ლერერ.",
+      "ka": "მასწავლებელს ვეკითხები.",
+      "uses": [
+        "a1-00092",
+        "a1-00002",
+        "a1-00095"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00093",
+    "level": "A1",
+    "day": 11,
+    "de": "Freund",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Freunde",
+    "ph": "ფროინდ",
+    "ka": [
+      "მეგობარი (მამრ.)"
+    ],
+    "topic": "menschen",
+    "freq": 93,
+    "example": {
+      "id": "s-a1-00093-1",
+      "de": "Ben ist ein Freund.",
+      "ph": "ბენ ისტ აინ ფროინდ.",
+      "ka": "ბენი მეგობარია.",
+      "uses": [
+        "a1-00093",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00094"
+      ]
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00094",
+    "level": "A1",
+    "day": 11,
+    "de": "Freundin",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Freundinnen",
+    "ph": "ფროინდინ",
+    "ka": [
+      "მეგობარი (მდედრ.)"
+    ],
+    "topic": "menschen",
+    "freq": 94,
+    "example": {
+      "id": "s-a1-00094-1",
+      "de": "Anna ist eine Freundin.",
+      "ph": "ანა ისტ აინე ფროინდინ.",
+      "ka": "ანა მეგობარია.",
+      "uses": [
+        "a1-00094",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00093"
+      ]
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00095",
+    "level": "A1",
+    "day": 11,
+    "de": "Lehrer",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Lehrer",
+    "ph": "ლერერ",
+    "ka": [
+      "მასწავლებელი (მამრ.)"
+    ],
+    "topic": "beruf",
+    "freq": 95,
+    "example": {
+      "id": "s-a1-00095-1",
+      "de": "Der Lehrer kommt heute.",
+      "ph": "დერ ლერერ კომტ ჰოიტე.",
+      "ka": "მასწავლებელი დღეს მოდის.",
+      "uses": [
+        "a1-00095",
+        "a1-00013",
+        "a1-00017"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00096"
+      ]
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00096",
+    "level": "A1",
+    "day": 11,
+    "de": "Lehrerin",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Lehrerinnen",
+    "ph": "ლერერინ",
+    "ka": [
+      "მასწავლებელი (მდედრ.)"
+    ],
+    "topic": "beruf",
+    "freq": 96,
+    "example": {
+      "id": "s-a1-00096-1",
+      "de": "Die Lehrerin ist hier.",
+      "ph": "დი ლერერინ ისტ ჰირ.",
+      "ka": "მასწავლებელი აქ არის.",
+      "uses": [
+        "a1-00096",
+        "a1-00003",
+        "a1-00018"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00095"
+      ]
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00097",
+    "level": "A1",
+    "day": 11,
+    "de": "Student",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Studenten",
+    "ph": "შტუდენტ",
+    "ka": [
+      "სტუდენტი (მამრ.)"
+    ],
+    "topic": "beruf",
+    "freq": 97,
+    "example": {
+      "id": "s-a1-00097-1",
+      "de": "Ben ist Student.",
+      "ph": "ბენ ისტ შტუდენტ.",
+      "ka": "ბენი სტუდენტია.",
+      "uses": [
+        "a1-00097",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00098"
+      ]
+    },
+    "note": "n-Deklination: den Studenten."
+  },
+  {
+    "id": "a1-00098",
+    "level": "A1",
+    "day": 11,
+    "de": "Studentin",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Studentinnen",
+    "ph": "შტუდენტინ",
+    "ka": [
+      "სტუდენტი (მდედრ.)"
+    ],
+    "topic": "beruf",
+    "freq": 98,
+    "example": {
+      "id": "s-a1-00098-1",
+      "de": "Anna ist Studentin.",
+      "ph": "ანა ისტ შტუდენტინ.",
+      "ka": "ანა სტუდენტია.",
+      "uses": [
+        "a1-00098",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": [
+        "a1-00097"
+      ]
+    },
+    "note": ""
+  }
+]

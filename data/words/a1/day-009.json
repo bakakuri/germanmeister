@@ -1,0 +1,332 @@
+[
+  {
+    "id": "a1-00069",
+    "level": "A1",
+    "day": 9,
+    "de": "Stuhl",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Stühle",
+    "ph": "შტულ",
+    "ka": [
+      "სკამი"
+    ],
+    "topic": "wohnen",
+    "freq": 69,
+    "example": {
+      "id": "s-a1-00069-1",
+      "de": "Der Stuhl ist alt.",
+      "ph": "დერ შტულ ისტ ალტ.",
+      "ka": "სკამი ძველია.",
+      "uses": [
+        "a1-00069",
+        "a1-00003",
+        "a1-00055"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00070",
+    "level": "A1",
+    "day": 9,
+    "de": "Zimmer",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Zimmer",
+    "ph": "ციმერ",
+    "ka": [
+      "ოთახი"
+    ],
+    "topic": "wohnen",
+    "freq": 70,
+    "example": {
+      "id": "s-a1-00070-1",
+      "de": "Das Zimmer ist klein.",
+      "ph": "დას ციმერ ისტ კლაინ.",
+      "ka": "ოთახი პატარაა.",
+      "uses": [
+        "a1-00070",
+        "a1-00003",
+        "a1-00054"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00071",
+    "level": "A1",
+    "day": 9,
+    "de": "Tür",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Türen",
+    "ph": "ტიურ",
+    "ka": [
+      "კარი"
+    ],
+    "topic": "wohnen",
+    "freq": 71,
+    "example": {
+      "id": "s-a1-00071-1",
+      "de": "Die Tür ist neu.",
+      "ph": "დი ტიურ ისტ ნოი.",
+      "ka": "კარი ახალია.",
+      "uses": [
+        "a1-00071",
+        "a1-00003",
+        "a1-00056"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00072",
+    "level": "A1",
+    "day": 9,
+    "de": "Fenster",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Fenster",
+    "ph": "ფენსტერ",
+    "ka": [
+      "ფანჯარა"
+    ],
+    "topic": "wohnen",
+    "freq": 72,
+    "example": {
+      "id": "s-a1-00072-1",
+      "de": "Das Fenster ist groß.",
+      "ph": "დას ფენსტერ ისტ გროს.",
+      "ka": "ფანჯარა დიდია.",
+      "uses": [
+        "a1-00072",
+        "a1-00003",
+        "a1-00008"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00073",
+    "level": "A1",
+    "day": 9,
+    "de": "Lampe",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Lampen",
+    "ph": "ლამპე",
+    "ka": [
+      "ნათურა, ლამპა"
+    ],
+    "topic": "wohnen",
+    "freq": 73,
+    "example": {
+      "id": "s-a1-00073-1",
+      "de": "Die Lampe ist schön.",
+      "ph": "დი ლამპე ისტ შოენ.",
+      "ka": "ლამპა ლამაზია.",
+      "uses": [
+        "a1-00073",
+        "a1-00003",
+        "a1-00053"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00074",
+    "level": "A1",
+    "day": 9,
+    "de": "Bett",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Betten",
+    "ph": "ბეტ",
+    "ka": [
+      "საწოლი"
+    ],
+    "topic": "wohnen",
+    "freq": 74,
+    "example": {
+      "id": "s-a1-00074-1",
+      "de": "Das Bett ist klein.",
+      "ph": "დას ბეტ ისტ კლაინ.",
+      "ka": "საწოლი პატარაა.",
+      "uses": [
+        "a1-00074",
+        "a1-00003",
+        "a1-00054"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00075",
+    "level": "A1",
+    "day": 9,
+    "de": "Küche",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Küchen",
+    "ph": "კიუხე",
+    "ka": [
+      "სამზარეულო"
+    ],
+    "topic": "wohnen",
+    "freq": 75,
+    "example": {
+      "id": "s-a1-00075-1",
+      "de": "Das Haus hat eine Küche.",
+      "ph": "დას ჰაუს ჰატ აინე კიუხე.",
+      "ka": "სახლს სამზარეულო აქვს.",
+      "uses": [
+        "a1-00075",
+        "a1-00007",
+        "a1-00019"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00076",
+    "level": "A1",
+    "day": 9,
+    "de": "Garten",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Gärten",
+    "ph": "გარტენ",
+    "ka": [
+      "ბაღი"
+    ],
+    "topic": "wohnen",
+    "freq": 76,
+    "example": {
+      "id": "s-a1-00076-1",
+      "de": "Der Garten ist schön.",
+      "ph": "დერ გარტენ ისტ შოენ.",
+      "ka": "ბაღი ლამაზია.",
+      "uses": [
+        "a1-00076",
+        "a1-00003",
+        "a1-00053"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00077",
+    "level": "A1",
+    "day": 9,
+    "de": "Straße",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Straßen",
+    "ph": "შტრასე",
+    "ka": [
+      "ქუჩა"
+    ],
+    "topic": "stadt",
+    "freq": 77,
+    "example": {
+      "id": "s-a1-00077-1",
+      "de": "Die Straße ist alt.",
+      "ph": "დი შტრასე ისტ ალტ.",
+      "ka": "ქუჩა ძველია.",
+      "uses": [
+        "a1-00077",
+        "a1-00003",
+        "a1-00055"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00078",
+    "level": "A1",
+    "day": 9,
+    "de": "Stadt",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Städte",
+    "ph": "შტადტ",
+    "ka": [
+      "ქალაქი"
+    ],
+    "topic": "stadt",
+    "freq": 78,
+    "example": {
+      "id": "s-a1-00078-1",
+      "de": "Die Stadt ist groß.",
+      "ph": "დი შტადტ ისტ გროს.",
+      "ka": "ქალაქი დიდია.",
+      "uses": [
+        "a1-00078",
+        "a1-00003",
+        "a1-00008"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  }
+]

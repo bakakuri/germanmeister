@@ -1,0 +1,338 @@
+[
+  {
+    "id": "a1-00129",
+    "level": "A1",
+    "day": 15,
+    "de": "Montag",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Montage",
+    "ph": "მონტაგ",
+    "ka": [
+      "ორშაბათი"
+    ],
+    "topic": "zeit",
+    "freq": 129,
+    "example": {
+      "id": "s-a1-00129-1",
+      "de": "Heute ist Montag.",
+      "ph": "ჰოიტე ისტ მონტაგ.",
+      "ka": "დღეს ორშაბათია.",
+      "uses": [
+        "a1-00129",
+        "a1-00017",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00130",
+    "level": "A1",
+    "day": 15,
+    "de": "Dienstag",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Dienstage",
+    "ph": "დინსტაგ",
+    "ka": [
+      "სამშაბათი"
+    ],
+    "topic": "zeit",
+    "freq": 130,
+    "example": {
+      "id": "s-a1-00130-1",
+      "de": "Morgen ist Dienstag.",
+      "ph": "მორგენ ისტ დინსტაგ.",
+      "ka": "ხვალ სამშაბათია.",
+      "uses": [
+        "a1-00130",
+        "a1-00036",
+        "a1-00003"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00131",
+    "level": "A1",
+    "day": 15,
+    "de": "Mittwoch",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Mittwoche",
+    "ph": "მიტვოხ",
+    "ka": [
+      "ოთხშაბათი"
+    ],
+    "topic": "zeit",
+    "freq": 131,
+    "example": {
+      "id": "s-a1-00131-1",
+      "de": "Heute ist nicht Mittwoch.",
+      "ph": "ჰოიტე ისტ ნიხტ მიტვოხ.",
+      "ka": "დღეს ოთხშაბათი არ არის.",
+      "uses": [
+        "a1-00131",
+        "a1-00017",
+        "a1-00003",
+        "a1-00049"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00132",
+    "level": "A1",
+    "day": 15,
+    "de": "Donnerstag",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Donnerstage",
+    "ph": "დონერსტაგ",
+    "ka": [
+      "ხუთშაბათი"
+    ],
+    "topic": "zeit",
+    "freq": 132,
+    "example": {
+      "id": "s-a1-00132-1",
+      "de": "Donnerstag arbeite ich.",
+      "ph": "დონერსტაგ არბაიტე იხ.",
+      "ka": "ხუთშაბათს ვმუშაობ.",
+      "uses": [
+        "a1-00132",
+        "a1-00012",
+        "a1-00002"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00133",
+    "level": "A1",
+    "day": 15,
+    "de": "Freitag",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Freitage",
+    "ph": "ფრაიტაგ",
+    "ka": [
+      "პარასკევი"
+    ],
+    "topic": "zeit",
+    "freq": 133,
+    "example": {
+      "id": "s-a1-00133-1",
+      "de": "Freitag komme ich.",
+      "ph": "ფრაიტაგ კომე იხ.",
+      "ka": "პარასკევს მოვალ.",
+      "uses": [
+        "a1-00133",
+        "a1-00013",
+        "a1-00002"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00134",
+    "level": "A1",
+    "day": 15,
+    "de": "Samstag",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Samstage",
+    "ph": "ზამსტაგ",
+    "ka": [
+      "შაბათი"
+    ],
+    "topic": "zeit",
+    "freq": 134,
+    "example": {
+      "id": "s-a1-00134-1",
+      "de": "Samstag habe ich Zeit.",
+      "ph": "ზამსტაგ ჰაბე იხ ცაიტ.",
+      "ka": "შაბათს დრო მაქვს.",
+      "uses": [
+        "a1-00134",
+        "a1-00019",
+        "a1-00002",
+        "a1-00125"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00135",
+    "level": "A1",
+    "day": 15,
+    "de": "Sonntag",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Sonntage",
+    "ph": "ზონტაგ",
+    "ka": [
+      "კვირა (დღე)"
+    ],
+    "topic": "zeit",
+    "freq": 135,
+    "example": {
+      "id": "s-a1-00135-1",
+      "de": "Sonntag arbeite ich nicht.",
+      "ph": "ზონტაგ არბაიტე იხ ნიხტ.",
+      "ka": "კვირას არ ვმუშაობ.",
+      "uses": [
+        "a1-00135",
+        "a1-00012",
+        "a1-00002",
+        "a1-00049"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00136",
+    "level": "A1",
+    "day": 15,
+    "de": "Woche",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "plural": "Wochen",
+    "ph": "ვოხე",
+    "ka": [
+      "კვირა (7 დღე)"
+    ],
+    "topic": "zeit",
+    "freq": 136,
+    "example": {
+      "id": "s-a1-00136-1",
+      "de": "Eine Woche hat sieben Tage.",
+      "ph": "აინე ვოხე ჰატ ზიბენ ტაგე.",
+      "ka": "კვირას შვიდი დღე აქვს.",
+      "uses": [
+        "a1-00136",
+        "a1-00019",
+        "a1-00115",
+        "a1-00122"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00137",
+    "level": "A1",
+    "day": 15,
+    "de": "Monat",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Monate",
+    "ph": "მონატ",
+    "ka": [
+      "თვე"
+    ],
+    "topic": "zeit",
+    "freq": 137,
+    "example": {
+      "id": "s-a1-00137-1",
+      "de": "Ein Monat hat vier Wochen.",
+      "ph": "აინ მონატ ჰატ ფირ ვოხენ.",
+      "ka": "თვეს ოთხი კვირა აქვს.",
+      "uses": [
+        "a1-00137",
+        "a1-00019",
+        "a1-00112",
+        "a1-00136"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00138",
+    "level": "A1",
+    "day": 15,
+    "de": "Jahr",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "plural": "Jahre",
+    "ph": "იარ",
+    "ka": [
+      "წელი"
+    ],
+    "topic": "zeit",
+    "freq": 138,
+    "example": {
+      "id": "s-a1-00138-1",
+      "de": "Ich lerne ein Jahr Deutsch.",
+      "ph": "იხ ლერნე აინ იარ დოიჩ.",
+      "ka": "ერთი წელია გერმანულს ვსწავლობ.",
+      "uses": [
+        "a1-00138",
+        "a1-00002",
+        "a1-00009",
+        "a1-00015"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  }
+]

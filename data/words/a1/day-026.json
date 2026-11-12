@@ -1,0 +1,317 @@
+[
+  {
+    "id": "a1-00239",
+    "level": "A1",
+    "day": 26,
+    "de": "Herr",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "plural": "Herren",
+    "ph": "ჰერ",
+    "ka": [
+      "ბატონი"
+    ],
+    "topic": "höflichkeit",
+    "freq": 239,
+    "example": {
+      "id": "s-a1-00239-1",
+      "de": "Guten Tag, Herr Ben!",
+      "ph": "გუტენ ტაგ, ჰერ ბენ!",
+      "ka": "გამარჯობა, ბატონო ბენ!",
+      "uses": [
+        "a1-00239",
+        "a1-00051",
+        "a1-00122"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00240",
+    "level": "A1",
+    "day": 26,
+    "de": "Tschüss",
+    "pos": "interj",
+    "ph": "ჩიუს",
+    "ka": [
+      "ნახვამდის (არაფორმალური)"
+    ],
+    "topic": "höflichkeit",
+    "freq": 240,
+    "example": {
+      "id": "s-a1-00240-1",
+      "de": "Tschüss, Anna!",
+      "ph": "ჩიუს, ანა!",
+      "ka": "ნახვამდის, ანა!",
+      "uses": [
+        "a1-00240"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00241",
+    "level": "A1",
+    "day": 26,
+    "de": "Wiedersehen",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "ph": "ვიდერზეენ",
+    "ka": [
+      "ხელახლა ნახვა"
+    ],
+    "topic": "höflichkeit",
+    "freq": 241,
+    "example": {
+      "id": "s-a1-00241-1",
+      "de": "Auf Wiedersehen!",
+      "ph": "აუფ ვიდერზეენ!",
+      "ka": "ნახვამდის!",
+      "uses": [
+        "a1-00241",
+        "a1-00149"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": "ფრაზა: Auf Wiedersehen."
+  },
+  {
+    "id": "a1-00242",
+    "level": "A1",
+    "day": 26,
+    "de": "willkommen",
+    "pos": "adj",
+    "ph": "ვილკომენ",
+    "ka": [
+      "მოგესალმებით"
+    ],
+    "topic": "höflichkeit",
+    "freq": 242,
+    "example": {
+      "id": "s-a1-00242-1",
+      "de": "Willkommen in Berlin!",
+      "ph": "ვილკომენ ინ ბერლინ!",
+      "ka": "კეთილი იყოს თქვენი მობრძანება ბერლინში!",
+      "uses": [
+        "a1-00242",
+        "a1-00179"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00243",
+    "level": "A1",
+    "day": 26,
+    "de": "Spaß",
+    "pos": "noun",
+    "article": "der",
+    "gender": "m",
+    "ph": "შპას",
+    "ka": [
+      "სიამოვნება, გართობა"
+    ],
+    "topic": "freizeit",
+    "freq": 243,
+    "example": {
+      "id": "s-a1-00243-1",
+      "de": "Sport macht Spaß.",
+      "ph": "შპორტ მახტ შპას.",
+      "ka": "სპორტი სიამოვნებას იძლევა.",
+      "uses": [
+        "a1-00243",
+        "a1-00016",
+        "a1-00011"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00244",
+    "level": "A1",
+    "day": 26,
+    "de": "Glück",
+    "pos": "noun",
+    "article": "das",
+    "gender": "n",
+    "ph": "გლიუკ",
+    "ka": [
+      "იღბალი, ბედნიერება"
+    ],
+    "topic": "alltag",
+    "freq": 244,
+    "example": {
+      "id": "s-a1-00244-1",
+      "de": "Ich habe Glück.",
+      "ph": "იხ ჰაბე გლიუკ.",
+      "ka": "მე გამიმართლა.",
+      "uses": [
+        "a1-00244",
+        "a1-00002",
+        "a1-00019"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00245",
+    "level": "A1",
+    "day": 26,
+    "de": "leid",
+    "pos": "adj",
+    "ph": "ლაიდ",
+    "ka": [
+      "სამწუხარო (leidtun)"
+    ],
+    "topic": "höflichkeit",
+    "freq": 245,
+    "example": {
+      "id": "s-a1-00245-1",
+      "de": "Es tut mir leid.",
+      "ph": "ეს ტუტ მირ ლაიდ.",
+      "ka": "ვწუხვარ.",
+      "uses": [
+        "a1-00245",
+        "a1-00022",
+        "a1-00246",
+        "a1-00002"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": "ფიქსირებული გამოთქმა: Es tut mir leid."
+  },
+  {
+    "id": "a1-00246",
+    "level": "A1",
+    "day": 26,
+    "de": "tun",
+    "pos": "verb",
+    "ph": "ტუნ",
+    "ka": [
+      "კეთება"
+    ],
+    "forms": [
+      "tue",
+      "tust",
+      "tut"
+    ],
+    "topic": "verben",
+    "freq": 246,
+    "example": {
+      "id": "s-a1-00246-1",
+      "de": "Ich tue nichts.",
+      "ph": "იხ ტუე ნიხტს.",
+      "ka": "მე არაფერს ვაკეთებ.",
+      "uses": [
+        "a1-00246",
+        "a1-00002",
+        "a1-00234"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00247",
+    "level": "A1",
+    "day": 26,
+    "de": "Ordnung",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "ph": "ორდნუნგ",
+    "ka": [
+      "წესრიგი"
+    ],
+    "topic": "alltag",
+    "freq": 247,
+    "example": {
+      "id": "s-a1-00247-1",
+      "de": "Das ist in Ordnung.",
+      "ph": "დას ისტ ინ ორდნუნგ.",
+      "ka": "ეს რიგზეა.",
+      "uses": [
+        "a1-00247",
+        "a1-00003",
+        "a1-00179"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  },
+  {
+    "id": "a1-00248",
+    "level": "A1",
+    "day": 26,
+    "de": "Hilfe",
+    "pos": "noun",
+    "article": "die",
+    "gender": "f",
+    "ph": "ჰილფე",
+    "ka": [
+      "დახმარება"
+    ],
+    "topic": "alltag",
+    "freq": 248,
+    "example": {
+      "id": "s-a1-00248-1",
+      "de": "Ich brauche Hilfe.",
+      "ph": "იხ ბრაუხე ჰილფე.",
+      "ka": "დახმარება მჭირდება.",
+      "uses": [
+        "a1-00248",
+        "a1-00002",
+        "a1-00081"
+      ]
+    },
+    "related": {
+      "syn": [],
+      "ant": [],
+      "family": []
+    },
+    "note": ""
+  }
+]
