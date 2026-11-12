@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Hallo“?",
+    "options": ["მადლობა", "გამარჯობა", "ნახვამდის"],
+    "answer": 1
+  },
+  {
+    "type": "fill",
+    "q": "Ich ___ Anna.",
+    "hint": "sein — ich-სთვის",
+    "answer": ["bin"],
+    "explain": "ich bin — „მე ვარ“."
+  },
+  {
+    "type": "fill",
+    "q": "Du ___ Anna.",
+    "hint": "sein — du-სთვის",
+    "answer": ["bist"],
+    "explain": "du bist — „შენ ხარ“."
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „მე ანა ვარ“",
+    "words": ["Anna", "bin", "Ich"],
+    "answer": "Ich bin Anna."
+  },
+  {
+    "type": "dictation",
+    "de": "Hallo, Anna!",
+    "ph": "ჰალო, ანა!",
+    "ka": "გამარჯობა, ანა!"
+  }
+]

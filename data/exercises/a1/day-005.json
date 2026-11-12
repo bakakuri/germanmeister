@@ -1,0 +1,93 @@
+[
+  {
+    "type": "article",
+    "word": "Wasser",
+    "answer": "das",
+    "ka": "წყალი"
+  },
+  {
+    "type": "article",
+    "word": "Brot",
+    "answer": "das",
+    "ka": "პური"
+  },
+  {
+    "type": "article",
+    "word": "Tee",
+    "answer": "der",
+    "ka": "ჩაი"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „gehen“?",
+    "options": [
+      "პური",
+      "ახლა",
+      "სვლა"
+    ],
+    "answer": 2,
+    "explain": "gehen — სვლა."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Tee“?",
+    "options": [
+      "ჩაი",
+      "ჭამა",
+      "წყალი"
+    ],
+    "answer": 0,
+    "explain": "Tee — ჩაი."
+  },
+  {
+    "type": "fill",
+    "q": "Wir ___ Brot.",
+    "hint": "ჩვენ პურს ვჭამთ.",
+    "answer": [
+      "essen"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Sie trinkt ___.",
+    "hint": "ის ყავას სვამს.",
+    "answer": [
+      "kaffee",
+      "Kaffee"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „შენ წყალს სვამ.“",
+    "words": [
+      "Wasser",
+      "trinkst",
+      "Du"
+    ],
+    "answer": "Du trinkst Wasser.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ხვალ მოვალ.“",
+    "words": [
+      "ich",
+      "Morgen",
+      "komme"
+    ],
+    "answer": "Morgen komme ich.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Ich esse Brot.",
+    "ph": "იხ ესე ბროტ.",
+    "ka": "მე პურს ვჭამ."
+  },
+  {
+    "type": "dictation",
+    "de": "Ich esse Brot und trinke Tee.",
+    "ph": "იხ ესე ბროტ უნდ ტრინკე ტე.",
+    "ka": "პურს ვჭამ და ჩაის ვსვამ."
+  }
+]

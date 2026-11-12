@@ -1,0 +1,95 @@
+[
+  {
+    "type": "article",
+    "word": "Apfel",
+    "answer": "der",
+    "ka": "ვაშლი"
+  },
+  {
+    "type": "article",
+    "word": "Banane",
+    "answer": "die",
+    "ka": "ბანანი"
+  },
+  {
+    "type": "article",
+    "word": "Wurst",
+    "answer": "die",
+    "ka": "ძეხვი"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Apfel“?",
+    "options": [
+      "ვაშლი",
+      "ხორცი",
+      "შიმშილი"
+    ],
+    "answer": 0,
+    "explain": "Apfel — ვაშლი."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Ei“?",
+    "options": [
+      "თევზი",
+      "სალათა",
+      "კვერცხი"
+    ],
+    "answer": 2,
+    "explain": "Ei — კვერცხი."
+  },
+  {
+    "type": "fill",
+    "q": "Das ist eine ___.",
+    "hint": "ეს ბანანია.",
+    "answer": [
+      "banane",
+      "Banane"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Wir essen ___.",
+    "hint": "ჩვენ თევზს ვჭამთ.",
+    "answer": [
+      "Fisch",
+      "fisch"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ის ძეხვს ჭამს.“",
+    "words": [
+      "Wurst",
+      "Er",
+      "eine",
+      "isst"
+    ],
+    "answer": "Er isst eine Wurst.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „შენ ხორცს ჭამ.“",
+    "words": [
+      "Du",
+      "Fleisch",
+      "isst"
+    ],
+    "answer": "Du isst Fleisch.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Die Milch ist kalt.",
+    "ph": "დი მილხ ისტ კალტ.",
+    "ka": "რძე ცივია."
+  },
+  {
+    "type": "dictation",
+    "de": "Ich habe Hunger.",
+    "ph": "იხ ჰაბე ჰუნგერ.",
+    "ka": "მშია."
+  }
+]

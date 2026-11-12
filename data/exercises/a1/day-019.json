@@ -1,0 +1,94 @@
+[
+  {
+    "type": "article",
+    "word": "Zug",
+    "answer": "der",
+    "ka": "მატარებელი"
+  },
+  {
+    "type": "article",
+    "word": "Bus",
+    "answer": "der",
+    "ka": "ავტობუსი"
+  },
+  {
+    "type": "article",
+    "word": "Fahrrad",
+    "answer": "das",
+    "ka": "ველოსიპედი"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „nehmen“?",
+    "options": [
+      "სკოლა",
+      "მგზავრობა",
+      "აღება"
+    ],
+    "answer": 2,
+    "explain": "nehmen — აღება."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Bus“?",
+    "options": [
+      "აეროპორტი",
+      "ავტობუსი",
+      "მგზავრობა"
+    ],
+    "answer": 1,
+    "explain": "Bus — ავტობუსი."
+  },
+  {
+    "type": "fill",
+    "q": "Ich ___ dir das Buch.",
+    "hint": "წიგნს გაძლევ.",
+    "answer": [
+      "gebe"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Das ___ ist klein.",
+    "hint": "ველოსიპედი პატარაა.",
+    "answer": [
+      "Fahrrad",
+      "fahrrad"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ის მანქანას მართავს.“",
+    "words": [
+      "Auto",
+      "Er",
+      "fährt"
+    ],
+    "answer": "Er fährt Auto.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „სადგური დიდია.“",
+    "words": [
+      "ist",
+      "groß",
+      "Der",
+      "Bahnhof"
+    ],
+    "answer": "Der Bahnhof ist groß.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Der Zug ist alt.",
+    "ph": "დერ ცუგ ისტ ალტ.",
+    "ka": "მატარებელი ძველია."
+  },
+  {
+    "type": "dictation",
+    "de": "Die Schule ist groß.",
+    "ph": "დი შულე ისტ გროს.",
+    "ka": "სკოლა დიდია."
+  }
+]

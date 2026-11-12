@@ -1,0 +1,82 @@
+[
+  {
+    "type": "article",
+    "word": "Entschuldigung",
+    "answer": "die",
+    "ka": "უკაცრავად, ბოდიში"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „bitte“?",
+    "options": [
+      "გთხოვ, ბოდიში",
+      "დახმარება",
+      "კითხვა"
+    ],
+    "answer": 0,
+    "explain": "bitte — გთხოვ, ბოდიში."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „lesen“?",
+    "options": [
+      "დახურვა",
+      "კითხვა",
+      "მადლობა"
+    ],
+    "answer": 1,
+    "explain": "lesen — კითხვა."
+  },
+  {
+    "type": "fill",
+    "q": "___, ich komme.",
+    "hint": "მადლობა, მოვდივარ.",
+    "answer": [
+      "Danke",
+      "danke"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "___ bitte hier.",
+    "hint": "დაწერე, გთხოვ, აქ.",
+    "answer": [
+      "schreib",
+      "Schreib"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „გააღე კარი!“",
+    "words": [
+      "Öffne",
+      "Tür",
+      "die"
+    ],
+    "answer": "Öffne die Tür!",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „წაიკითხე წიგნი!“",
+    "words": [
+      "das",
+      "Buch",
+      "Lies"
+    ],
+    "answer": "Lies das Buch!",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Sprich Deutsch!",
+    "ph": "შპრიხ დოიჩ!",
+    "ka": "ილაპარაკე გერმანულად!"
+  },
+  {
+    "type": "dictation",
+    "de": "Hilf mir, bitte!",
+    "ph": "ჰილფ მირ, ბიტე!",
+    "ka": "დამეხმარე, გთხოვ!"
+  }
+]

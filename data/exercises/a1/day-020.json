@@ -1,0 +1,78 @@
+[
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „in“?",
+    "options": [
+      "-ზე",
+      "-ში",
+      "-გან, -ის"
+    ],
+    "answer": 1,
+    "explain": "in — -ში."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „mit“?",
+    "options": [
+      "-ზე",
+      "-გან, -ის",
+      "-თან ერთად, -ით"
+    ],
+    "answer": 2,
+    "explain": "mit — -თან ერთად, -ით."
+  },
+  {
+    "type": "fill",
+    "q": "Ich komme ___ Tiflis.",
+    "hint": "მე თბილისიდან ვარ.",
+    "answer": [
+      "aus"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Das Buch ist ___ Anna.",
+    "hint": "წიგნი ანასია.",
+    "answer": [
+      "von"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ვენაში მივდივარ.“",
+    "words": [
+      "Wien",
+      "Ich",
+      "fahre",
+      "nach"
+    ],
+    "answer": "Ich fahre nach Wien.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „წიგნი მაგიდაზეა.“",
+    "words": [
+      "dem",
+      "auf",
+      "Buch",
+      "Das",
+      "Tisch",
+      "ist"
+    ],
+    "answer": "Das Buch ist auf dem Tisch.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Ich bin bei Ben.",
+    "ph": "იხ ბინ ბაი ბენ.",
+    "ka": "ბენთან ვარ."
+  },
+  {
+    "type": "dictation",
+    "de": "Das Buch ist für dich.",
+    "ph": "დას ბუხ ისტ ფიურ დიხ.",
+    "ka": "წიგნი შენთვისაა."
+  }
+]

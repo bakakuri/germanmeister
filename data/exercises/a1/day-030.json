@@ -1,0 +1,77 @@
+[
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „immer“?",
+    "options": [
+      "ყოველთვის",
+      "სრულიად",
+      "ხშირად"
+    ],
+    "answer": 0,
+    "explain": "immer — ყოველთვის."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „ziemlich“?",
+    "options": [
+      "ზოგჯერ",
+      "არასდროს",
+      "საკმაოდ"
+    ],
+    "answer": 2,
+    "explain": "ziemlich — საკმაოდ."
+  },
+  {
+    "type": "fill",
+    "q": "Er kommt ___ spät.",
+    "hint": "ის ხშირად აგვიანებს.",
+    "answer": [
+      "oft"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Das Haus ist ___ neu.",
+    "hint": "სახლი სულ ახალია.",
+    "answer": [
+      "ganz"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ზოგჯერ კინოში მივდივართ.“",
+    "words": [
+      "gehen",
+      "Kino",
+      "manchmal",
+      "Wir",
+      "ins"
+    ],
+    "answer": "Wir gehen manchmal ins Kino.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „საკმარისი პური მაქვს.“",
+    "words": [
+      "Ich",
+      "genug",
+      "Brot",
+      "habe"
+    ],
+    "answer": "Ich habe genug Brot.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Ich trinke nie Kaffee.",
+    "ph": "იხ ტრინკე ნი კაფე.",
+    "ka": "ყავას არასდროს ვსვამ."
+  },
+  {
+    "type": "dictation",
+    "de": "Das Buch ist besonders gut.",
+    "ph": "დას ბუხ ისტ ბეზონდერს გუტ.",
+    "ka": "წიგნი განსაკუთრებით კარგია."
+  }
+]

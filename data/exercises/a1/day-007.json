@@ -1,0 +1,76 @@
+[
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „nicht“?",
+    "options": [
+      "კარგი",
+      "არ",
+      "ცხელი"
+    ],
+    "answer": 1,
+    "explain": "nicht — არ."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „klein“?",
+    "options": [
+      "ლამაზი",
+      "კარგი",
+      "პატარა"
+    ],
+    "answer": 2,
+    "explain": "klein — პატარა."
+  },
+  {
+    "type": "fill",
+    "q": "Ich habe ___ Hund.",
+    "hint": "მე ძაღლი არ მყავს.",
+    "answer": [
+      "keinen"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Der Mann ist ___.",
+    "hint": "კაცი ხანდაზმულია.",
+    "answer": [
+      "alt"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „პური კარგია.“",
+    "words": [
+      "Das",
+      "ist",
+      "gut",
+      "Brot"
+    ],
+    "answer": "Das Brot ist gut.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „მანქანა ახალია.“",
+    "words": [
+      "Das",
+      "ist",
+      "Auto",
+      "neu"
+    ],
+    "answer": "Das Auto ist neu.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Das Haus ist schön.",
+    "ph": "დას ჰაუს ისტ შოენ.",
+    "ka": "სახლი ლამაზია."
+  },
+  {
+    "type": "dictation",
+    "de": "Das Wasser ist kalt.",
+    "ph": "დას ვასერ ისტ კალტ.",
+    "ka": "წყალი ცივია."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „aber“?",
+    "options": [
+      "მაგრამ",
+      "რომ",
+      "მხოლოდ"
+    ],
+    "answer": 0,
+    "explain": "aber — მაგრამ."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „dass“?",
+    "options": [
+      "რომ",
+      "მაგრამ",
+      "არამედ"
+    ],
+    "answer": 0,
+    "explain": "dass — რომ."
+  },
+  {
+    "type": "fill",
+    "q": "Trinkst du Tee ___ Kaffee?",
+    "hint": "ჩაის სვამ თუ ყავას?",
+    "answer": [
+      "oder"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "___ ich Zeit habe, komme ich.",
+    "hint": "როცა დრო მექნება, მოვალ.",
+    "answer": [
+      "Wenn",
+      "wenn"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „მხოლოდ წყალი მაქვს.“",
+    "words": [
+      "nur",
+      "habe",
+      "Wasser",
+      "Ich"
+    ],
+    "answer": "Ich habe nur Wasser.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Ich esse, weil ich Hunger habe.",
+    "ph": "იხ ესე, ვაილ იხ ჰუნგერ ჰაბე.",
+    "ka": "ვჭამ, იმიტომ რომ მშია."
+  },
+  {
+    "type": "dictation",
+    "de": "Ich habe nur Wasser.",
+    "ph": "იხ ჰაბე ნურ ვასერ.",
+    "ka": "მხოლოდ წყალი მაქვს."
+  }
+]

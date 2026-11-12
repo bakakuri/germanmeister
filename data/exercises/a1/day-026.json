@@ -1,0 +1,93 @@
+[
+  {
+    "type": "article",
+    "word": "Herr",
+    "answer": "der",
+    "ka": "ბატონი"
+  },
+  {
+    "type": "article",
+    "word": "Spaß",
+    "answer": "der",
+    "ka": "სიამოვნება, გართობა"
+  },
+  {
+    "type": "article",
+    "word": "Glück",
+    "answer": "das",
+    "ka": "იღბალი, ბედნიერება"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Herr“?",
+    "options": [
+      "ხელახლა ნახვა",
+      "ბატონი",
+      "იღბალი, ბედნიერება"
+    ],
+    "answer": 1,
+    "explain": "Herr — ბატონი."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Glück“?",
+    "options": [
+      "იღბალი, ბედნიერება",
+      "მოგესალმებით",
+      "სიამოვნება, გართობა"
+    ],
+    "answer": 0,
+    "explain": "Glück — იღბალი, ბედნიერება."
+  },
+  {
+    "type": "fill",
+    "q": "___, Anna!",
+    "hint": "ნახვამდის, ანა!",
+    "answer": [
+      "Tschüss",
+      "tschüss"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Es tut mir ___.",
+    "hint": "ვწუხვარ.",
+    "answer": [
+      "leid"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „მე არაფერს ვაკეთებ.“",
+    "words": [
+      "nichts",
+      "Ich",
+      "tue"
+    ],
+    "answer": "Ich tue nichts.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „სპორტი სიამოვნებას იძლევა.“",
+    "words": [
+      "macht",
+      "Sport",
+      "Spaß"
+    ],
+    "answer": "Sport macht Spaß.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Sport macht Spaß.",
+    "ph": "შპორტ მახტ შპას.",
+    "ka": "სპორტი სიამოვნებას იძლევა."
+  },
+  {
+    "type": "dictation",
+    "de": "Ich brauche Hilfe.",
+    "ph": "იხ ბრაუხე ჰილფე.",
+    "ka": "დახმარება მჭირდება."
+  }
+]

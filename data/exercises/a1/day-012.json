@@ -1,0 +1,94 @@
+[
+  {
+    "type": "article",
+    "word": "Mutter",
+    "answer": "die",
+    "ka": "დედა"
+  },
+  {
+    "type": "article",
+    "word": "Vater",
+    "answer": "der",
+    "ka": "მამა"
+  },
+  {
+    "type": "article",
+    "word": "Familie",
+    "answer": "die",
+    "ka": "ოჯახი"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „mein“?",
+    "options": [
+      "ოჯახი",
+      "ჩემი",
+      "დედა"
+    ],
+    "answer": 1,
+    "explain": "mein — ჩემი."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Familie“?",
+    "options": [
+      "ოჯახი",
+      "მშობლები",
+      "დედა"
+    ],
+    "answer": 0,
+    "explain": "Familie — ოჯახი."
+  },
+  {
+    "type": "fill",
+    "q": "Ist das ___ Auto?",
+    "hint": "ეს შენი მანქანაა?",
+    "answer": [
+      "dein"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Meine ___ ist alt.",
+    "hint": "ჩემი ბებია ხანდაზმულია.",
+    "answer": [
+      "oma",
+      "Oma"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „დედაჩემი მუშაობს.“",
+    "words": [
+      "Mutter",
+      "Meine",
+      "arbeitet"
+    ],
+    "answer": "Meine Mutter arbeitet.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ჩემი ბაბუა ხანდაზმულია.“",
+    "words": [
+      "Opa",
+      "alt",
+      "ist",
+      "Mein"
+    ],
+    "answer": "Mein Opa ist alt.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Meine Eltern wohnen hier.",
+    "ph": "მაინე ელტერნ ვონენ ჰირ.",
+    "ka": "ჩემი მშობლები აქ ცხოვრობენ."
+  },
+  {
+    "type": "dictation",
+    "de": "Das ist meine Tochter.",
+    "ph": "დას ისტ მაინე ტოხტერ.",
+    "ka": "ეს ჩემი ქალიშვილია."
+  }
+]

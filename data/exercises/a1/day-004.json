@@ -1,0 +1,96 @@
+[
+  {
+    "type": "article",
+    "word": "Kind",
+    "answer": "das",
+    "ka": "ბავშვი"
+  },
+  {
+    "type": "article",
+    "word": "Hund",
+    "answer": "der",
+    "ka": "ძაღლი"
+  },
+  {
+    "type": "article",
+    "word": "Auto",
+    "answer": "das",
+    "ka": "მანქანა"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „haben“?",
+    "options": [
+      "ის (საშუალი), ეს",
+      "ქონა",
+      "ბავშვი"
+    ],
+    "answer": 1,
+    "explain": "haben — ქონა."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „ihr“?",
+    "options": [
+      "ძაღლი",
+      "მანქანა",
+      "თქვენ (მრავლობითი)"
+    ],
+    "answer": 2,
+    "explain": "ihr — თქვენ (მრავლობითი)."
+  },
+  {
+    "type": "fill",
+    "q": "___ hat ein Auto.",
+    "hint": "მას მანქანა აქვს.",
+    "answer": [
+      "Er",
+      "er"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Das ___ ist groß.",
+    "hint": "ბავშვი დიდია.",
+    "answer": [
+      "kind",
+      "Kind"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „მას ძმა ჰყავს.“",
+    "words": [
+      "hat",
+      "Bruder",
+      "einen",
+      "Sie"
+    ],
+    "answer": "Sie hat einen Bruder.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ძაღლი დიდია.“",
+    "words": [
+      "Der",
+      "groß",
+      "Hund",
+      "ist"
+    ],
+    "answer": "Der Hund ist groß.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Wir haben ein Haus.",
+    "ph": "ვირ ჰაბენ აინ ჰაუს.",
+    "ka": "ჩვენ სახლი გვაქვს."
+  },
+  {
+    "type": "dictation",
+    "de": "Ich habe einen Bruder.",
+    "ph": "იხ ჰაბე აინენ ბრუდერ.",
+    "ka": "მე ძმა მყავს."
+  }
+]

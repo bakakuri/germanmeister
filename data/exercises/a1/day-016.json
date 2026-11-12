@@ -1,0 +1,75 @@
+[
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „können“?",
+    "options": [
+      "უნდა (აუცილებლობა)",
+      "შეძლება",
+      "ვალდებულება"
+    ],
+    "answer": 1,
+    "explain": "können — შეძლება."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „möchten“?",
+    "options": [
+      "მინდა (თავაზიანად)",
+      "ძილი",
+      "შეძლება"
+    ],
+    "answer": 0,
+    "explain": "möchten — მინდა (თავაზიანად)."
+  },
+  {
+    "type": "fill",
+    "q": "Ich ___ heute arbeiten.",
+    "hint": "დღეს უნდა ვიმუშაო.",
+    "answer": [
+      "muss"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Das Kind kann ___.",
+    "hint": "ბავშვს ცურვა შეუძლია.",
+    "answer": [
+      "schwimmen"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „წყლის დალევა მინდა.“",
+    "words": [
+      "Ich",
+      "Wasser",
+      "will",
+      "trinken"
+    ],
+    "answer": "Ich will Wasser trinken.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „შენ უნდა დაიძინო.“",
+    "words": [
+      "musst",
+      "schlafen",
+      "Du"
+    ],
+    "answer": "Du musst schlafen.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Du sollst Deutsch lernen.",
+    "ph": "დუ ზოლსტ დოიჩ ლერნენ.",
+    "ka": "შენ გერმანული უნდა ისწავლო."
+  },
+  {
+    "type": "dictation",
+    "de": "Wir wollen tanzen.",
+    "ph": "ვირ ვოლენ ტანცენ.",
+    "ka": "ჩვენ ცეკვა გვინდა."
+  }
+]

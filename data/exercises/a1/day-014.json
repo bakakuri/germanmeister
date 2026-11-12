@@ -1,0 +1,95 @@
+[
+  {
+    "type": "article",
+    "word": "Uhr",
+    "answer": "die",
+    "ka": "საათი"
+  },
+  {
+    "type": "article",
+    "word": "Stunde",
+    "answer": "die",
+    "ka": "საათი (ხანგრძლივობა)"
+  },
+  {
+    "type": "article",
+    "word": "Minute",
+    "answer": "die",
+    "ka": "წუთი"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Uhr“?",
+    "options": [
+      "დრო",
+      "გვიან",
+      "საათი"
+    ],
+    "answer": 2,
+    "explain": "Uhr — საათი."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Abend“?",
+    "options": [
+      "-ზე (საათზე)",
+      "საღამო",
+      "ადრე"
+    ],
+    "answer": 1,
+    "explain": "Abend — საღამო."
+  },
+  {
+    "type": "fill",
+    "q": "Ich lerne eine ___.",
+    "hint": "მე ერთი საათი ვსწავლობ.",
+    "answer": [
+      "stunde",
+      "Stunde"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Ich habe ___.",
+    "hint": "მე დრო მაქვს.",
+    "answer": [
+      "zeit",
+      "Zeit"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ათი წუთი მაქვს.“",
+    "words": [
+      "Minuten",
+      "Ich",
+      "zehn",
+      "habe"
+    ],
+    "answer": "Ich habe zehn Minuten.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „მე ადრე მოვალ.“",
+    "words": [
+      "komme",
+      "Ich",
+      "früh"
+    ],
+    "answer": "Ich komme früh.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Die Nacht ist kalt.",
+    "ph": "დი ნახტ ისტ კალტ.",
+    "ka": "ღამე ცივია."
+  },
+  {
+    "type": "dictation",
+    "de": "Ich komme um acht Uhr.",
+    "ph": "იხ კომე უმ ახტ ურ.",
+    "ka": "რვა საათზე მოვალ."
+  }
+]

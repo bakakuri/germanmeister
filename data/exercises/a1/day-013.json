@@ -1,0 +1,77 @@
+[
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „eins“?",
+    "options": [
+      "ექვსი",
+      "ერთი",
+      "შვიდი"
+    ],
+    "answer": 1,
+    "explain": "eins — ერთი."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „sechs“?",
+    "options": [
+      "ოთხი",
+      "ხუთი",
+      "ექვსი"
+    ],
+    "answer": 2,
+    "explain": "sechs — ექვსი."
+  },
+  {
+    "type": "fill",
+    "q": "Ich habe ___ Hunde.",
+    "hint": "მე ორი ძაღლი მყავს.",
+    "answer": [
+      "zwei"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Ich habe ___ Äpfel.",
+    "hint": "მე შვიდი ვაშლი მაქვს.",
+    "answer": [
+      "sieben"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „სახლს სამი ოთახი აქვს.“",
+    "words": [
+      "drei",
+      "hat",
+      "Das",
+      "Zimmer",
+      "Haus"
+    ],
+    "answer": "Das Haus hat drei Zimmer.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ჩვენ რვა შვილი გვყავს.“",
+    "words": [
+      "haben",
+      "Kinder",
+      "acht",
+      "Wir"
+    ],
+    "answer": "Wir haben acht Kinder.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Sie hat fünf Bücher.",
+    "ph": "ზი ჰატ ფიუნფ ბიუხერ.",
+    "ka": "მას ხუთი წიგნი აქვს."
+  },
+  {
+    "type": "dictation",
+    "de": "Ich esse zehn Bananen.",
+    "ph": "იხ ესე ცეენ ბანანენ.",
+    "ka": "მე ათ ბანანს ვჭამ."
+  }
+]

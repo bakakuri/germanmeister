@@ -1,0 +1,94 @@
+[
+  {
+    "type": "article",
+    "word": "Freund",
+    "answer": "der",
+    "ka": "მეგობარი (მამრ.)"
+  },
+  {
+    "type": "article",
+    "word": "Freundin",
+    "answer": "die",
+    "ka": "მეგობარი (მდედრ.)"
+  },
+  {
+    "type": "article",
+    "word": "Lehrer",
+    "answer": "der",
+    "ka": "მასწავლებელი (მამრ.)"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „kennen“?",
+    "options": [
+      "მეგობარი (მამრ.)",
+      "მოსმენა",
+      "ცნობა, გაცნობა"
+    ],
+    "answer": 2,
+    "explain": "kennen — ცნობა, გაცნობა."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Freundin“?",
+    "options": [
+      "ცნობა, გაცნობა",
+      "სტუდენტი (მამრ.)",
+      "მეგობარი (მდედრ.)"
+    ],
+    "answer": 2,
+    "explain": "Freundin — მეგობარი (მდედრ.)."
+  },
+  {
+    "type": "fill",
+    "q": "Ich ___ einen Freund.",
+    "hint": "მეგობარს ვსტუმრობ.",
+    "answer": [
+      "besuche"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Der ___ kommt heute.",
+    "hint": "მასწავლებელი დღეს მოდის.",
+    "answer": [
+      "Lehrer",
+      "lehrer"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „მესმის შენი.“",
+    "words": [
+      "dich",
+      "höre",
+      "Ich"
+    ],
+    "answer": "Ich höre dich.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „მასწავლებელი აქ არის.“",
+    "words": [
+      "ist",
+      "hier",
+      "Die",
+      "Lehrerin"
+    ],
+    "answer": "Die Lehrerin ist hier.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Ben ist ein Freund.",
+    "ph": "ბენ ისტ აინ ფროინდ.",
+    "ka": "ბენი მეგობარია."
+  },
+  {
+    "type": "dictation",
+    "de": "Anna ist Studentin.",
+    "ph": "ანა ისტ შტუდენტინ.",
+    "ka": "ანა სტუდენტია."
+  }
+]

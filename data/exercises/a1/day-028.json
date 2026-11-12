@@ -1,0 +1,96 @@
+[
+  {
+    "type": "article",
+    "word": "Buchstabe",
+    "answer": "der",
+    "ka": "ასო"
+  },
+  {
+    "type": "article",
+    "word": "Satz",
+    "answer": "der",
+    "ka": "წინადადება"
+  },
+  {
+    "type": "article",
+    "word": "Text",
+    "answer": "der",
+    "ka": "ტექსტი"
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Buchstabe“?",
+    "options": [
+      "ასო",
+      "რვეული",
+      "წერილი"
+    ],
+    "answer": 0,
+    "explain": "Buchstabe — ასო."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „Seite“?",
+    "options": [
+      "წერილი",
+      "გვერდი",
+      "რვეული"
+    ],
+    "answer": 1,
+    "explain": "Seite — გვერდი."
+  },
+  {
+    "type": "fill",
+    "q": "Ich schreibe einen ___.",
+    "hint": "წინადადებას ვწერ.",
+    "answer": [
+      "satz",
+      "Satz"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Das ___ ist klein.",
+    "hint": "რვეული პატარაა.",
+    "answer": [
+      "heft",
+      "Heft"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ტექსტს ვკითხულობ.“",
+    "words": [
+      "Ich",
+      "den",
+      "Text",
+      "lese"
+    ],
+    "answer": "Ich lese den Text.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „კალამი მჭირდება.“",
+    "words": [
+      "einen",
+      "Ich",
+      "brauche",
+      "Stift"
+    ],
+    "answer": "Ich brauche einen Stift.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Ich schreibe einen Brief.",
+    "ph": "იხ შრაიბე აინენ ბრიფ.",
+    "ka": "წერილს ვწერ."
+  },
+  {
+    "type": "dictation",
+    "de": "Der Computer ist neu.",
+    "ph": "დერ კომპიუტერ ისტ ნოი.",
+    "ka": "კომპიუტერი ახალია."
+  }
+]

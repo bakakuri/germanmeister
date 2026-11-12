@@ -1,0 +1,76 @@
+[
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „doch“?",
+    "options": [
+      "მცდარი",
+      "კი (უარყოფით კითხვაზე)",
+      "რა თქმა უნდა"
+    ],
+    "answer": 1,
+    "explain": "doch — კი (უარყოფით კითხვაზე)."
+  },
+  {
+    "type": "choice",
+    "q": "რას ნიშნავს „wirklich“?",
+    "options": [
+      "რთული, მძიმე",
+      "ნამდვილად",
+      "მარტივი, მსუბუქი"
+    ],
+    "answer": 1,
+    "explain": "wirklich — ნამდვილად."
+  },
+  {
+    "type": "fill",
+    "q": "___ komme ich.",
+    "hint": "რა თქმა უნდა, მოვალ.",
+    "answer": [
+      "natürlich",
+      "Natürlich"
+    ]
+  },
+  {
+    "type": "fill",
+    "q": "Das ist ___.",
+    "hint": "ეს სწორია.",
+    "answer": [
+      "richtig"
+    ]
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „შესაძლოა ხვალ მოვიდე.“",
+    "words": [
+      "morgen",
+      "ich",
+      "Vielleicht",
+      "komme"
+    ],
+    "answer": "Vielleicht komme ich morgen.",
+    "shuffle": false
+  },
+  {
+    "type": "order",
+    "q": "დააწყვე: „ეს მცდარია.“",
+    "words": [
+      "ist",
+      "Das",
+      "falsch"
+    ],
+    "answer": "Das ist falsch.",
+    "shuffle": false
+  },
+  {
+    "type": "dictation",
+    "de": "Das ist sicher gut.",
+    "ph": "დას ისტ ზიხერ გუტ.",
+    "ka": "ეს აუცილებლად კარგია."
+  },
+  {
+    "type": "dictation",
+    "de": "Das Buch ist schwer.",
+    "ph": "დას ბუხ ისტ შვერ.",
+    "ka": "წიგნი მძიმეა."
+  }
+]
